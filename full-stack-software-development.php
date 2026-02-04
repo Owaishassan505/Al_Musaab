@@ -7,33 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Custom Full-Stack Development Solutions | QueryTel Inc</title>
+    <title>Custom Full-Stack Development Solutions | Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc offers custom full-stack software development solutions — SaaS, APIs, dashboards, POS, and cross-platform apps. Build scalable, secure, and future-ready systems with our full-stack development agency." />
+        content="Al Musaab offers custom full-stack software development solutions — SaaS, APIs, dashboards, POS, and cross-platform apps. Build scalable, secure, and future-ready systems with our full-stack development agency." />
 
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/full-stack-software-development/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/full-stack-software-development/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Open Graph -->
-    <meta property="og:title" content="Custom Full-Stack Development Solutions | QueryTel Inc" />
+    <meta property="og:title" content="Custom Full-Stack Development Solutions | Al Musaab" />
     <meta property="og:description"
         content="Full-stack software development services for SaaS, APIs, dashboards, POS systems, chatbots, and automation. Scalable and secure builds tailored to your business." />
     <meta property="og:url" content="https://almusaab.com/full-stack-software-development/" />
 
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Custom Full-Stack Development Solutions | QueryTel Inc" />
+    <meta name="twitter:title" content="Custom Full-Stack Development Solutions | Al Musaab" />
     <meta name="twitter:description"
         content="Build scalable SaaS, APIs, dashboards, and automation with our full-stack software development agency." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -46,7 +46,7 @@
     <!-- End Google Tag Manager -->
 
     <!-- Icons -->
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
     <!-- Performance hints -->
@@ -82,9 +82,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -96,10 +96,10 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -124,9 +124,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",

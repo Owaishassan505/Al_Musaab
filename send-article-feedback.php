@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             <hr style='margin:24px 0; border:none; border-top:1px solid #e2e8f0;'>
 
-            <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the QueryTel website article feedback system.</p>
+            <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the Al Musaab website article feedback system.</p>
           </td>
         </tr>
       </table>

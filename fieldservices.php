@@ -6,29 +6,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Field IT Services in Canada | QueryTel Inc</title>
+    <title>Field IT Services in Pakistan | Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc provides nationwide field IT services in Canada. Certified technicians deliver on-site support, device provisioning, POS troubleshooting, cabling, and enterprise deployments — fast, reliable, and 24/7." />
+        content="Al Musaab provides nationwide field IT services in Pakistan. Certified technicians deliver on-site support, device provisioning, POS troubleshooting, cabling, and enterprise deployments — fast, reliable, and 24/7." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
 
     <link rel="canonical" href="https://almusaab.com/fieldservices/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/fieldservices/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Field IT Services in Canada | QueryTel Inc" />
+    <meta property="og:title" content="Field IT Services in Pakistan | Al Musaab" />
     <meta property="og:description"
         content="Nationwide field IT services — on-site support, network & cabling, device provisioning, and retail POS support. Certified engineers, available 24/7." />
     <meta property="og:url" content="https://almusaab.com/fieldservices/" />
-    <meta property="og:site_name" content="QueryTel Inc" />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
     <meta property="og:image" content="<?= $base . '/assets/images/querytel-field.jpg' ?>" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Field IT Services in Canada | QueryTel Inc" />
+    <meta name="twitter:title" content="Field IT Services in Pakistan | Al Musaab" />
     <meta name="twitter:description"
         content="On-site IT support when you need it — nationwide coverage, certified engineers, and enterprise-grade service delivery." />
     <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-field.jpg' ?>" />
@@ -48,7 +48,7 @@
     ],
     "provider":{"@id":"https://almusaab.com/#org"},
     "areaServed":"CA",
-    "description":"Certified field technicians providing on-site IT support, retail POS troubleshooting, cabling, device provisioning, and enterprise deployments across Canada."
+    "description":"Certified field technicians providing on-site IT support, retail POS troubleshooting, cabling, device provisioning, and enterprise deployments across Pakistan."
   }
   </script>
 
@@ -297,7 +297,7 @@
                         <h3 class="text-lg font-semibold text-white">Nationwide Service</h3>
                         <p class="text-sm text-neutral-300 leading-relaxed">
                             Whether you operate a single site or hundreds, we coordinate certified field techs across
-                            North America with precision and professionalism.
+                            Pakistan with precision and professionalism.
                         </p>
                     </div>
                 </div>

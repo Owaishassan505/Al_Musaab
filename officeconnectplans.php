@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Office Connect Plans — QueryTel</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {
@@ -314,7 +314,7 @@
                             <td class="text-center"><span class="text-green-500 text-xl">✔</span></td>
                         </tr>
                         <tr class="bg-orange-50 font-semibold">
-                            <td class="py-3 px-6 text-orange-600">US &amp; Canada long distance 2400 minutes</td>
+                            <td class="py-3 px-6 text-orange-600">US &amp; Pakistan long distance 2400 minutes</td>
                             <td class="text-center"><span class="text-green-500 text-xl">✔</span></td>
                             <td class="text-center"><span class="text-green-500 text-xl">✔</span></td>
                             <td class="text-center"><span class="text-green-500 text-xl">✔</span></td>

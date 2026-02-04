@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>About QueryTel Inc — Sales & Support in North America</title>
+    <title>About Al Musaab — Sales & Support in Pakistan</title>
     <meta name="description"
-        content="Get in touch with QueryTel Inc. for managed IT, cybersecurity, and cloud services. Call our Toronto HQ or reach our support desk. Open Mon–Fri, 8am–5pm." />
+        content="Get in touch with Al Musaab for managed IT, cybersecurity, and cloud services. Call our Karachi HQ or reach our support desk. Open Mon–Fri, 8am–5pm." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/contactus/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/contactus/" />
@@ -17,25 +17,25 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Contact QueryTel Inc — Sales & Support in North America" />
+    <meta property="og:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
     <meta property="og:description"
-        content="Speak with a local expert or open a support ticket. Toronto HQ and North America-wide service." />
+        content="Speak with a local expert or open a support ticket. Karachi HQ and Pakistan-wide service." />
     <meta property="og:url" content="https://almusaab.com/contactus/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact QueryTel Inc — Sales & Support in North America" />
+    <meta name="twitter:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
     <meta name="twitter:description"
-        content="Call our Toronto HQ or reach the support portal. Open Mon–Fri, 8am–5pm." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+        content="Call our Karachi HQ or reach the support portal. Open Mon–Fri, 8am–5pm." />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Icons -->
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
     <!-- Performance hints -->
@@ -101,9 +101,9 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://almusaab.com/#org",
-    "name": "QueryTel Inc.",
+    "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
     "foundingDate": "1995",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
@@ -138,9 +138,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",
@@ -167,7 +167,7 @@
     "@type":"WebSite",
     "@id":"https://almusaab.com/#website",
     "url":"https://almusaab.com/",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "inLanguage":"en-CA",
     "publisher":{"@id":"https://almusaab.com/#org"},
     "potentialAction":{
@@ -185,11 +185,11 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18"
   }
   </script>
@@ -248,7 +248,7 @@
             <!-- Right: Text -->
             <div>
                 <h2 class="text-2xl md:text-3xl font-semibold text-neutral-900">
-                    Managed IT Services, Cybersecurity & Cloud Solutions in North America
+                    Managed IT Services, Cybersecurity & Cloud Solutions in Pakistan
                 </h2>
 
                 <h3 class="text-xl font-medium text-neutral-700 mt-2 mb-4">
@@ -257,7 +257,7 @@
 
                 <p class="text-gray-700 text-base leading-relaxed">
                     At <span class="font-semibold">QueryTel</span>, we’ve delivered cutting-edge IT solutions
-                    across North America for over two decades.
+                    across Pakistan for over two decades.
                     Founded in 1995, our mission has always been clear: help businesses embrace technology with
                     <span class="font-semibold">confidence, security, and reliability</span>.
                     <br /><br />
@@ -459,11 +459,11 @@
             <!-- Left: Our Clients -->
             <div>
                 <h3 class="text-2xl text-neutral-900 mb-4">Proud Partners of Over <b>50 Leading IT Consultants</b>
-                    across North America</h3>
+                    across Pakistan</h3>
                 <div class="h-0.5 w-10 bg-neutral-300 mb-6"></div>
                 <p class="text-gray-600 text-md leading-relaxed">
                     At QueryTel, collaboration is at the heart of what we do. We proudly partner with over 50 of
-                    North America’s top IT consultants, combining their expertise with our innovative solutions to
+                    Pakistan’s top IT consultants, combining their expertise with our innovative solutions to
                     deliver
                     exceptional value to businesses nationwide. Together, we ensure organizations have access to the
                     latest technologies, strategic insights, and reliable support that drive long-term success.

@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Remote Support - Querytel Inc</title>
+    <title>Remote Support - Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {
@@ -102,7 +102,7 @@
                         <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
                             <path d="M9 12.75 7.5 11.25l-3 3L9 18l10.5-10.5-1.5-1.5z" />
                         </svg>
-                        North America-wide coverage
+                        Pakistan-wide coverage
                     </div>
                     <div class="flex items-center gap-2">
                         <svg class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
@@ -196,7 +196,7 @@
                 Receive Remote Assistance Support from QueryTel
             </h1>
             <p class="mt-4 text-white/80 max-w-4xl">
-                Remote Assistance Support from QueryTel allows a QueryTel support professional in another location
+                Remote Assistance Support fromAl Musaaballows aAl Musaabsupport professional in another location
                 to view your computer screen and work on your computer over a secure connection.
             </p>
         </div>
@@ -222,16 +222,16 @@
                     YOU ALSO REPRESENT THAT YOU HAVE READ AND UNDERSTAND
                     <span class="font-semibold text-[#f97316]">ALL OF THE PROVISIONS</span> OF THIS AGREEMENT.
                     IN THE EVENT OF A CONFLICT BETWEEN THIS AGREEMENT AND YOUR
-                    CURRENT SERVICES AGREEMENT WITH QUERYTEL (IF ANY),
-                    THE TERMS AND CONDITIONS OF YOUR CURRENT SERVICES AGREEMENT WITH QUERYTEL CONTROLS.
-                    YOU MUST ACCEPT THIS AGREEMENT BEFORE YOU CAN PURCHASE OR USE QUERYTEL SERVICES FROM THIS WEBSITE.
+                    CURRENT SERVICES AGREEMENT WITHAl Musaab(IF ANY),
+                    THE TERMS AND CONDITIONS OF YOUR CURRENT SERVICES AGREEMENT WITHAl MusaabCONTROLS.
+                    YOU MUST ACCEPT THIS AGREEMENT BEFORE YOU CAN PURCHASE OR USEAl MusaabSERVICES FROM THIS WEBSITE.
                 </p>
 
                 <p>
-                    This Agreement for QueryTel Services (<span class="italic text-[#f97316]">‘the agreement’</span>)
+                    This Agreement forAl MusaabServices (<span class="italic text-[#f97316]">‘the agreement’</span>)
                     is entered into by and between the entity ordering the services
                     (<span class="italic font-semibold text-[#f97316]">‘you’, ‘your’ or ‘customer’</span>)
-                    and the closest QueryTel affiliate located in your country or region, unless we designate otherwise
+                    and the closestAl Musaabaffiliate located in your country or region, unless we designate otherwise
                     in
                     Section 9 below (<span class="italic font-semibold text-[#f97316]">‘we’, ‘us’ or ‘our’</span>).
                     <span class="italic text-[#f97316]">‘Affiliate’</span> means any legal entity that you or we own,
@@ -263,7 +263,7 @@
                         <a href="#qa-6" class="block rounded px-2 py-1 hover:bg-neutral-100">6. TAXES</a>
                         <a href="#qa-7" class="block rounded px-2 py-1 hover:bg-neutral-100">7. TERMINATION</a>
                         <a href="#qa-8" class="block rounded px-2 py-1 hover:bg-neutral-100">8. MISCELLANEOUS</a>
-                        <a href="#qa-9" class="block rounded px-2 py-1 hover:bg-neutral-100">9. QUERYTEL CONTRACTING
+                        <a href="#qa-9" class="block rounded px-2 py-1 hover:bg-neutral-100">9. Al Musaab CONTRACTING
                             ENTITY</a>
                     </nav>
                 </div>
@@ -272,7 +272,7 @@
             <!-- Accordion body -->
             <div class="md:col-span-8 lg:col-span-9">
                 <header class="mb-6">
-                    <h2 class="text-2xl md:text-3xl font-bold text-neutral-900">Agreement for QueryTel Services</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold text-neutral-900">Agreement forAl MusaabServices</h2>
                     <p class="text-sm text-neutral-500">Last updated: January 2019</p>
                 </header>
 
@@ -570,7 +570,7 @@
 
                     <details id="qa-9" class="group rounded-xl border border-neutral-200 bg-white p-5 shadow-sm">
                         <summary class="flex cursor-pointer items-center justify-between gap-4">
-                            <span class="text-base md:text-lg font-semibold text-neutral-900">9. QUERYTEL CONTRACTING
+                            <span class="text-base md:text-lg font-semibold text-neutral-900">9. Al Musaab CONTRACTING
                                 ENTITY.</span>
                             <svg class="h-5 w-5 text-neutral-500 transition group-open:rotate-180" viewBox="0 0 20 20"
                                 fill="currentColor">
@@ -579,12 +579,12 @@
                             </svg>
                         </summary>
                         <div class="mt-3 text-[15px] leading-7 text-neutral-800 space-y-4">
-                            <p>The QueryTel contracting entity for this agreement is QueryTel Inc. North America if you
+                            <p>the Al Musaab contracting entity for this agreement is Al Musaab Pakistan if you
                                 are
                                 located in the following countries/regions: Australia, Bangladesh, Hong Kong, India,
                                 Indonesia, Korea, Malaysia, New Zealand, Philippines, Singapore, Sri-Lanka, Taiwan,
-                                Thailand, and Vietnam. The QueryTel contracting entity for this agreement is QueryTel
-                                Inc. North America, Limited if you are located in any country in Europe, Middle East, or
+                                Thailand, and Vietnam. the Al Musaab contracting entity for this agreement is QueryTel
+                                Inc. Pakistan, Limited if you are located in any country in Europe, Middle East, or
                                 Africa. Last updated: January 2019</p>
                         </div>
                     </details>
@@ -611,14 +611,14 @@
                 <div class="mt-6 space-y-6 text-[15px] leading-7 text-neutral-700">
                     <p>
                         LogMeIn (LMI) Rescue is a 3rd party remote assistance product used to provide remote support to
-                        QueryTel customers.
-                        QueryTel support uses the <span class="font-semibold text-orange-600">Enterprise version</span>
+                       Al Musaabcustomers.
+                       Al Musaabsupport uses the <span class="font-semibold text-orange-600">Enterprise version</span>
                         of LogMeIn Rescue as the primary
                         Remote Desktop Assistance tool to troubleshoot and resolve customer issues.
                     </p>
 
                     <p>
-                        With LogMeIn Rescue, QueryTel support engineers can <span
+                        With LogMeIn Rescue,Al Musaabsupport engineers can <span
                             class="font-semibold text-orange-600">view or share control</span>
                         of the remote computer, chat, and highlight sections of the customer’s screen without needing to
                         pre-install software.
@@ -636,7 +636,7 @@
 
                     <p class="text-neutral-600">
                         This product information should not be considered an endorsement by QueryTel.
-                        QueryTel may <span class="font-semibold text-orange-600">discontinue</span> the use of this tool
+                       Al Musaabmay <span class="font-semibold text-orange-600">discontinue</span> the use of this tool
                         without prior notice.
                     </p>
                 </div>

@@ -1,6 +1,6 @@
 <?php
 /**
- * QueryTel — blogs.php (Static, full design restored)
+ *Al Musaab— blogs.php (Static, full design restored)
  * - Exactly like the dynamic design we had earlier.
  * - All layout preserved: hero, featured, filters UI, tags, grid, pagination.
  * - Everything is static HTML with hardcoded content.
@@ -17,7 +17,7 @@
     <title>QueryTel Journal — IT, Security & Cloud</title>
     <meta name="description" content="Field-tested insights on IT, cybersecurity, networking, and cloud." />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -66,7 +66,7 @@
                 <span
                     class="inline-flex items-center gap-2 text-[11px] font-semibold tracking-widest text-orange-600 uppercase">
                     <span class="h-1.5 w-1.5 rounded-full bg-orange-600"></span>
-                    QueryTel Journal
+                   Al MusaabJournal
                 </span>
                 <h1 class="mt-3 text-4xl md:text-6xl font-bold leading-[1.05]">Practical IT. <span
                         class="text-blue-700">Zero fluff.</span></h1>
@@ -122,7 +122,7 @@
                         </li>
                     </ul>
                     <div class="mt-6 text-xs text-neutral-500">
-                        Updated weekly • Curated by QueryTel engineers
+                        Updated weekly • Curated by Al Musaab engineers
                     </div>
                 </div>
             </div>

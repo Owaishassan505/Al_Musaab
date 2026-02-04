@@ -95,7 +95,7 @@ $base = "/Al-Musaab"
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center nav-container" role="navigation"
         aria-label="Main">
         <a href="<?= $base ?>/" class="flex items-center gap-2 flex-shrink-0">
-            <img src="<?= $base . '/assets/images/querytel-icon.png' ?>" alt="QueryTel Logo" class="h-12 w-auto" />
+            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="QueryTel Logo" class="h-8 w-auto" />
         </a>
 
         <!-- Desktop Nav: Shows on lg (1024px) and up -->

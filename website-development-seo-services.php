@@ -7,31 +7,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Website Development & SEO Services | QueryTel Inc</title>
+    <title>Website Development & SEO Services | Al Musaab</title>
     <meta name="description"
-        content="Reach QueryTel Inc for managed IT, cloud, and cybersecurity. Call Toronto HQ or open a support ticket. Mon–Fri, 8am–5pm. North America-wide coverage." />
+        content="Reach Al Musaab for managed IT, cloud, and cybersecurity. Call Karachi HQ or open a support ticket. Mon–Fri, 8am–5pm. Pakistan-wide coverage." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/contactus/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/contactus/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Contact QueryTel Inc — Sales & Support in North America" />
+    <meta property="og:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
     <meta property="og:description"
-        content="Speak with a local expert or reach our helpdesk. Toronto HQ and North America-wide service." />
+        content="Speak with a local expert or reach our helpdesk. Karachi HQ and Pakistan-wide service." />
     <meta property="og:url" content="https://almusaab.com/contactus/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact QueryTel Inc — Sales & Support in North America" />
-    <meta name="twitter:description" content="Call our Toronto HQ or open a support ticket. Mon–Fri, 8am–5pm." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
+    <meta name="twitter:description" content="Call our Karachi HQ or open a support ticket. Mon–Fri, 8am–5pm." />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -44,7 +44,7 @@
     <!-- End Google Tag Manager -->
 
     <!-- Icons -->
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <script src="//unpkg.com/alpinejs" defer></script>
 
@@ -82,9 +82,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -96,10 +96,10 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -124,9 +124,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",

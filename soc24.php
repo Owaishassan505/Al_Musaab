@@ -5,11 +5,11 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SOC 24 — 24/7 Security Operations & Incident Response | QueryTel Inc</title>
+    <title>SOC 24 — 24/7 Security Operations & Incident Response | Al Musaab</title>
     <meta name="description"
         content="SOC 24 by QueryTel: 24/7 monitoring, threat detection, triage and incident response. MDR/XDR, SIEM correlation, playbooks, compliance reporting, and clear SLAs." />
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {

@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Disaster Recovery Cloud - Querytel Inc</title>
+    <title>Disaster Recovery Cloud - Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -46,7 +46,7 @@
     <!-- End Google Tag Manager -->
 
 
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 </head>
 
 <body class="bg-white text-neutral-900 font-sans"><!-- Google Tag Manager (noscript) -->

@@ -7,33 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Digital Marketing Agency in Canada | SEO, PPC & Social Media Experts | QueryTel Inc</title>
+    <title>Digital Marketing Agency in Pakistan | SEO, PPC & Social Media Experts | Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc is a digital marketing agency in Canada specializing in SEO, PPC management, social media marketing, content strategy, and conversion rate optimization. Drive measurable growth with data-backed campaigns." />
+        content="Al Musaab is a digital marketing agency in Pakistan specializing in SEO, PPC management, social media marketing, content strategy, and conversion rate optimization. Drive measurable growth with data-backed campaigns." />
 
     <meta name="robots" content="index,follow,max-image-preview:large" />
-    <link rel="canonical" href="https://almusaab.com/digital-marketing-agency-canada/" />
-    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/digital-marketing-agency-canada/" />
+    <link rel="canonical" href="https://almusaab.com/digital-marketing-agency-Pakistan/" />
+    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/digital-marketing-agency-Pakistan/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Digital Marketing Agency Canada | QueryTel Inc" />
+    <meta property="og:title" content="Digital Marketing Agency Pakistan | Al Musaab" />
     <meta property="og:description"
-        content="SEO, PPC, and social media marketing services that scale. QueryTel Inc helps brands grow with digital marketing strategies engineered for ROI." />
-    <meta property="og:url" content="https://almusaab.com/digital-marketing-agency-canada/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+        content="SEO, PPC, and social media marketing services that scale. Al Musaab  helps brands grow with digital marketing strategies engineered for ROI." />
+    <meta property="og:url" content="https://almusaab.com/digital-marketing-agency-Pakistan/" />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Digital Marketing Agency in Canada | QueryTel Inc" />
+    <meta name="twitter:title" content="Digital Marketing Agency in Pakistan | Al Musaab" />
     <meta name="twitter:description"
         content="Full-service digital marketing agency offering SEO, paid ads, content marketing, and CRO — built to scale your business." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Performance hints -->
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
@@ -77,9 +77,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -91,10 +91,10 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -105,10 +105,10 @@
   {
     "@context":"https://schema.org",
     "@type":"BreadcrumbList",
-    "@id":"https://almusaab.com/digital-marketing-agency-canada/#breadcrumb",
+    "@id":"https://almusaab.com/digital-marketing-agency-Pakistan/#breadcrumb",
     "itemListElement":[
       {"@type":"ListItem","position":1,"name":"Home","item":"https://almusaab.com/"},
-      {"@type":"ListItem","position":2,"name":"Digital Marketing Agency","item":"https://almusaab.com/digital-marketing-agency-canada/"}
+      {"@type":"ListItem","position":2,"name":"Digital Marketing Agency","item":"https://almusaab.com/digital-marketing-agency-Pakistan/"}
     ]
   }
   </script>
@@ -130,7 +130,7 @@
   ],
   "provider": { "@id": "https://almusaab.com/#org" },
   "areaServed": "CA",
-  "description": "Full-service digital marketing agency in Canada offering SEO, PPC management, social media marketing, content marketing, email marketing, CRO, and analytics."
+  "description": "Full-service digital marketing agency in Pakistan offering SEO, PPC management, social media marketing, content marketing, email marketing, CRO, and analytics."
 }
 
   </script>
@@ -141,9 +141,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",

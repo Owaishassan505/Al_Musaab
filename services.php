@@ -7,17 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>IT Services in North America | Managed IT, Cloud, Cybersecurity & VoIP | QueryTel</title>
+    <title>IT Services in Pakistan | Managed IT, Cloud, Cybersecurity & VoIP | Al Musaab</title>
     <meta name="description"
         content="Explore QueryTel’s enterprise IT services: Managed IT, cloud infrastructure, cybersecurity, warehousing & network builds, and Office Connect VoIP. Built for Canadian businesses." />
     <link rel="canonical" href="https://almusaab.com/services/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Open Graph -->
     <meta property="og:title"
-        content="IT Services in North America | Managed IT, Cloud, Cybersecurity & VoIP | QueryTel" />
+        content="IT Services in Pakistan | Managed IT, Cloud, Cybersecurity & VoIP | Al Musaab" />
     <meta property="og:description"
-        content="See all QueryTel services: managed support, cloud, cybersecurity, warehousing & network infrastructure, and Office Connect VoIP." />
+        content="See allAl Musaabservices: managed support, cloud, cybersecurity, warehousing & network infrastructure, and Office Connect VoIP." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://almusaab.com/services/" />
     <meta property="og:image"
@@ -26,9 +26,9 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title"
-        content="IT Services in North America | Managed IT, Cloud, Cybersecurity & VoIP | QueryTel" />
+        content="IT Services in Pakistan | Managed IT, Cloud, Cybersecurity & VoIP | Al Musaab" />
     <meta name="twitter:description"
-        content="Browse the full QueryTel services portfolio for Canadian organizations." />
+        content="Browse the fullAl Musaabservices portfolio for Canadian organizations." />
     <meta name="twitter:image"
         content="https://almusaab.com/wp-content/uploads/2021/10/Business-Strategy-Planning-2b-1024x576.png" />
 

@@ -6,23 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO -->
-  <title>Knowledge Base | QueryTel - Expert Guides & Resources</title>
+  <title>Knowledge Base | Al Musaab - Expert Guides & Resources</title>
   <meta name="description"
     content="Browse QueryTel's comprehensive knowledge base. Expert guides on warehouse labeling, network infrastructure, cybersecurity, and IT best practices for Canadian businesses." />
   <link rel="canonical" href="https://almusaab.com/knowledgebase/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Knowledge Base | QueryTel" />
+  <meta property="og:title" content="Knowledge Base | Al Musaab" />
   <meta property="og:description"
     content="Expert guides and resources for warehouse operations, IT infrastructure, and business technology." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://almusaab.com/knowledgebase/" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Knowledge Base | QueryTel" />
+  <meta name="twitter:title" content="Knowledge Base | Al Musaab" />
   <meta name="twitter:description"
     content="Expert guides and resources for warehouse operations, IT infrastructure, and business technology." />
 
@@ -448,7 +448,7 @@
                 Implementing Wireless Infrastructure for Large Deployments
               </h3>
               <p class="text-gray-600 mb-3">
-                Precision engineering for complex environments. Learn how QueryTel builds wireless infrastructures that
+                Precision engineering for complex environments. Learn howAl Musaabbuilds wireless infrastructures that
                 remain stable, secure, and high-performing across warehouses, campuses, and multi-floor facilities.
               </p>
               <div class="flex flex-wrap gap-2">

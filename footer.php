@@ -3,16 +3,16 @@
 
         <!-- Column 1: Logo + Brief + NAP + Social Media -->
         <div>
-            <img src="<?= $base . '/assets/images/querytel.png' ?>" alt="QueryTel Logo" class="h-10 mb-4"
+            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="QueryTel Logo" class="h-10 mb-4"
                 loading="lazy" />
 
 
-            <b>QueryTel</b> <br>
+            <b>Al-Musaab</b> <br>
             <p>Empowering businesses with reliable managed IT, cybersecurity, and scalable infrastructure since
                 1995.</p>
 
             <div class="mt-4 space-y-1">
-                <p><strong>Address:</strong> 7025 Tomken Road, Suite 244, Mississauga, ON L5S 1R6, Canada</p>
+                <p><strong>Address:</strong> 7025 Tomken Road, Suite 244, Mississauga, ON L5S 1R6, Pakistan</p>
                 <p><strong>Hours:</strong> Mon–Fri 8:00–17:00 (local)</p>
                 <p><strong>Tel:</strong> <a href="tel:+18444478379" class="hover:underline">+1-844-447-8379</a></p>
                 <p><strong>Email:</strong> <a href="mailto:callback@almusaab.com"
@@ -147,7 +147,7 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Bottom bar -->
     <div class="border-t border-neutral-200 text-center text-xs py-6 bg-[#eeeeee]">
-        &copy; 2025 QueryTel Inc. All rights reserved.
+        &copy; 2025 Al Musaab All rights reserved.
     </div>
 
     <!-- SiteNavigationElement JSON-LD (mirrors navbar items) -->

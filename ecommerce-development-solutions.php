@@ -7,33 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Ecommerce Development Solutions | Shopify & WooCommerce Experts | QueryTel Inc</title>
+    <title>Ecommerce Development Solutions | Shopify & WooCommerce Experts | Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc is your Shopify development agency for ecommerce website development, WooCommerce experts, Shopify Plus developers, product feed management, and conversion rate optimization. Scalable, secure, and built for modern retail." />
+        content="Al Musaab is your Shopify development agency for ecommerce website development, WooCommerce experts, Shopify Plus developers, product feed management, and conversion rate optimization. Scalable, secure, and built for modern retail." />
 
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/ecommerce-development-solutions/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/ecommerce-development-solutions/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Open Graph -->
     <meta property="og:title" content="Ecommerce Development Solutions | Shopify & WooCommerce Experts" />
     <meta property="og:description"
         content="Shopify development agency delivering ecommerce website development, WooCommerce customization, product feed & catalog management, and headless commerce solutions." />
     <meta property="og:url" content="https://almusaab.com/ecommerce-development-solutions/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Ecommerce Development Solutions | QueryTel Inc" />
+    <meta name="twitter:title" content="Ecommerce Development Solutions | Al Musaab" />
     <meta name="twitter:description"
         content="Expert Shopify Plus developers, WooCommerce experts, and ecommerce SEO services. From store setup to conversion optimization — we build for growth." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -82,9 +82,9 @@
       "@context":"https://schema.org",
       "@type":"Organization",
       "@id":"https://almusaab.com/#org",
-      "name":"QueryTel Inc.",
+      "name":"Al Musaab",
       "url":"https://almusaab.com/",
-      "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+      "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
       "sameAs":["https://www.linkedin.com/company/querytel"]
     }
     </script>
@@ -96,10 +96,10 @@
       "@type":"ContactPage",
       "@id":"https://almusaab.com/contactus/#contactpage",
       "url":"https://almusaab.com/contactus/",
-      "name":"Contact QueryTel Inc",
+      "name":"Contact Al Musaab",
       "inLanguage":"en-CA",
       "about":{"@id":"https://almusaab.com/#org"},
-      "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+      "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
       "lastReviewed":"2025-08-18",
       "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
     }
@@ -133,9 +133,9 @@
       "@context":"https://schema.org",
       "@type":"LocalBusiness",
       "@id":"https://almusaab.com/#hq",
-      "name":"QueryTel Inc — Toronto HQ",
+      "name":"Al Musaab — Karachi HQ",
       "url":"https://almusaab.com/",
-      "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+      "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
       "telephone":"+1-416-477-1380",
       "address":{
         "@type":"PostalAddress",

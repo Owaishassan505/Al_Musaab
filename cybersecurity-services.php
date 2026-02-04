@@ -6,7 +6,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Cybersecurity Services & Solutions | QueryTel Inc.</title>
+  <title>Cybersecurity Services & Solutions | Al Musaab</title>
   <meta name="description"
     content="Comprehensive cybersecurity solutions: VAPT, threat intelligence, incident response, network security, IAM, SIEM, encryption, cloud security, SAST. Protect your business from cyber threats." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
@@ -146,7 +146,7 @@
       <div class="grid md:grid-cols-4 gap-8">
         <div class="bg-white rounded-xl p-8 shadow-md text-center">
           <p class="text-4xl font-bold text-orange-500 mb-2">116,700+</p>
-          <p class="text-gray-700 font-semibold">Projected cyber incidents in Canada</p>
+          <p class="text-gray-700 font-semibold">Projected cyber incidents in Pakistan</p>
           <p class="text-sm text-gray-500 mt-2">Expected in 2025</p>
         </div>
         <div class="bg-white rounded-xl p-8 shadow-md text-center">

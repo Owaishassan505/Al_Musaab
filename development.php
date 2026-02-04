@@ -6,23 +6,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Web Development, Software & API Services in Canada | QueryTel Inc</title>
+  <title>Web Development, Software & API Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="QueryTel Inc provides modern web development, custom software solutions, and secure API integrations in Canada. Fast, scalable, and built with clean architecture." />
+    content="Al Musaab provides modern web development, custom software solutions, and secure API integrations in Pakistan. Fast, scalable, and built with clean architecture." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <link rel="canonical" href="https://almusaab.com/code-services/" />
   <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/code-services/" />
   <meta name="theme-color" content="#0f172a" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Web Development, Software & API Services in Canada | QueryTel Inc" />
+  <meta property="og:title" content="Web Development, Software & API Services in Pakistan | Al Musaab" />
   <meta property="og:description"
     content="Full-stack code services — websites, web apps, APIs, automation, and e-commerce. Built fast, secure, and scalable for Canadian businesses." />
   <meta property="og:url" content="https://almusaab.com/code-services/" />
-  <meta property="og:site_name" content="QueryTel Inc." />
+  <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:locale" content="en_CA" />
   <meta property="og:image" content="<?= $base . '/assets/images/querytel-code.jpg' ?>" />
   <meta property="og:image:width" content="1200" />
@@ -30,7 +30,7 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Web Development, Software & API Services in Canada | QueryTel Inc" />
+  <meta name="twitter:title" content="Web Development, Software & API Services in Pakistan | Al Musaab" />
   <meta name="twitter:description"
     content="Websites, software, and APIs done right. Modern stacks, clean architecture, and CI/CD by default." />
   <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-code.jpg' ?>" />
@@ -49,7 +49,7 @@
     ],
     "provider":{"@id":"https://almusaab.com/#org"},
     "areaServed":"CA",
-    "description":"Modern web, software, and API services in Canada. Built for speed, scalability, and security."
+    "description":"Modern web, software, and API services in Pakistan. Built for speed, scalability, and security."
   }
   </script>
 

@@ -7,9 +7,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Managed IT Services in North America | QueryTel Inc.</title>
+  <title>Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="All-inclusive managed IT services for Canadian businesses: 24/7 monitoring, helpdesk, servers, firewalls, backups, and cloud. Toronto & nationwide coverage." />
+    content="All-inclusive managed IT services for Canadian businesses: 24/7 monitoring, helpdesk, servers, firewalls, backups, and cloud. Karachi & nationwide coverage." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/managedservices/" />
   <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/managedservices/" />
@@ -17,11 +17,11 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Managed IT Services in North America | QueryTel Inc." />
+  <meta property="og:title" content="Managed IT Services in Pakistan | Al Musaab" />
   <meta property="og:description"
     content="Proactive MSP support: desktops, servers, firewall monitoring, backups, and cloud. Local experts, national reach." />
   <meta property="og:url" content="https://almusaab.com/managedservices/" />
-  <meta property="og:site_name" content="QueryTel Inc." />
+  <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:locale" content="en_CA" />
   <meta property="og:image"
     content="https://almusaab.com/wp-content/uploads/2025/02/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png" />
@@ -40,14 +40,14 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Managed IT Services in North America | QueryTel Inc." />
+  <meta name="twitter:title" content="Managed IT Services in Pakistan | Al Musaab" />
   <meta name="twitter:description"
-    content="End-to-end managed IT with 24/7 monitoring, helpdesk, and cloud. Talk to our Toronto team." />
+    content="End-to-end managed IT with 24/7 monitoring, helpdesk, and cloud. Talk to our Karachi team." />
   <meta name="twitter:image"
     content="https://almusaab.com/wp-content/uploads/2025/02/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png" />
 
   <!-- Icons -->
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
   <!-- Performance hints -->
@@ -60,7 +60,7 @@
 
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Page animations (kept) -->
   <script>
@@ -88,9 +88,9 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://almusaab.com/#org",
-    "name": "QueryTel Inc.",
+    "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs": ["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -188,7 +188,7 @@
         Let’s Talk
       </h1>
       <p class="mt-4 text-gray-600 text-lg">
-        Reach out to us at any of our locations across North America.
+        Reach out to us at any of our locations across Pakistan.
       </p>
     </div>
   </section>
@@ -294,7 +294,7 @@
         </h3>
         <div class="h-px w-20 bg-gray-300"></div>
         <p class="text-gray-700 leading-relaxed text-base">
-          Yes, QueryTel offers exclusive 24-hour helpdesk support to all our clients. This means that a dedicated team
+          Yes,Al Musaaboffers exclusive 24-hour helpdesk support to all our clients. This means that a dedicated team
           of IT masters is always available if you need IT support 24 hours a day.
         </p>
         <p class="text-gray-700 leading-relaxed text-base">
@@ -606,7 +606,7 @@
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            QueryTel makes deploying SIP forwarding with your current PBX system as easy as pie.
+           Al Musaabmakes deploying SIP forwarding with your current PBX system as easy as pie.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>

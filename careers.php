@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Careers at QueryTel Inc — Jobs, Culture & Hiring in North America</title>
+    <title>Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan</title>
     <meta name="description"
-        content="Join QueryTel Inc. to build secure, modern IT for Canadian businesses. Explore our culture, perks, and roles in security, cloud, networking, and engineering." />
+        content="Join Al Musaab to build secure, modern IT for Canadian businesses. Explore our culture, perks, and roles in security, cloud, networking, and engineering." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/careers/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/careers/" />
@@ -17,25 +17,25 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Careers at QueryTel Inc — Jobs, Culture & Hiring in North America" />
+    <meta property="og:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta property="og:description"
         content="Protect enterprises, innovate in security, and shape the future of tech with QueryTel. See roles and life at QueryTel." />
     <meta property="og:url" content="https://almusaab.com/careers/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Careers at QueryTel Inc — Jobs, Culture & Hiring in North America" />
+    <meta name="twitter:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta name="twitter:description"
         content="Grow your career in managed IT, cybersecurity, and cloud. Explore life at QueryTel." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Icons -->
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
     <!-- Performance hints -->
@@ -83,9 +83,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -125,21 +125,21 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Field Sales Representative",
-      "description": "<p>QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Toronto region.</p><p>As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.</p>",
+      "description": "<p>QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.</p><p>As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.</p>",
       "datePosted": "2026-01-09",
       "validThrough": "2026-03-31",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "QueryTel Inc.",
+        "name": "Al Musaab",
         "sameAs": "https://almusaab.com",
-        "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>"
+        "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"
       },
       "jobLocation": {
         "@type": "Place",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Toronto",
+          "addressLocality": "Karachi",
           "addressRegion": "ON",
           "addressCountry": "CA"
         }
@@ -156,7 +156,7 @@
       },
       "applicantLocationRequirements": {
         "@type": "Country",
-        "name": "Canada"
+        "name": "Pakistan"
       }
     }
     </script>
@@ -180,7 +180,7 @@
                 </h1>
                 <p class="mt-6 text-lg text-orange-50">
                     Join a team that protects enterprises, innovates in security, and shapes the future of technology in
-                    North America.
+                    Pakistan.
                 </p>
                 <div class="mt-8 flex gap-4">
                     <a href="#openings"
@@ -209,7 +209,7 @@
                     Join <span class="text-brandorange">QueryTel</span>
                 </h1>
                 <p class="mt-4 text-lg text-gray-600">
-                    Be part of a growing team that’s shaping the future of technology solutions across North America.
+                    Be part of a growing team that’s shaping the future of technology solutions across Pakistan.
                     Explore opportunities to innovate, learn, and lead.
                 </p>
             </div>
@@ -259,7 +259,7 @@
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                                             </svg>
-                                            Toronto, ON (In Person)
+                                            Karachi, ON (In Person)
                                         </span>
                                         <span class="flex items-center gap-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -284,7 +284,7 @@
                             <div class="mt-8 border-t border-gray-100 pt-6">
                                 <h4 class="text-lg font-semibold text-gray-900 mb-2">About QueryTel</h4>
                                 <p class="text-gray-600 mb-4 leading-relaxed">
-                                    QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Toronto region.
+                                   Al Musaabis a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.
                                 </p>
 
                                 <h4 class="text-lg font-semibold text-gray-900 mb-2">Role Overview</h4>
@@ -311,7 +311,7 @@
                                             <li>Excellent communication, negotiation, and interpersonal skills.</li>
                                             <li>Self-motivated and able to work independently.</li>
                                             <li>A Valid driver’s license is mandatory.</li>
-                                            <li>Knowledge of the Toronto market is a strong advantage.</li>
+                                            <li>Knowledge of the Karachi market is a strong advantage.</li>
                                             <li>Flexible schedule to accommodate client needs.</li>
                                         </ul>
                                     </div>

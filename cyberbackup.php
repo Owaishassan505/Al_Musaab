@@ -8,7 +8,7 @@
     <meta name="description"
         content="Air-gapped, encrypted, policy-driven cloud backup for endpoints, servers, and SaaS. Instant recovery. Ransomware-safe snapshots." />
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {
@@ -331,7 +331,7 @@
                 <div class="rounded-xl border border-neutral-200 bg-white p-6" data-animate>
                     <div class="text-sm font-semibold text-orange-700 uppercase">Data residency</div>
                     <ul class="mt-3 text-sm text-neutral-700 space-y-1 list-disc list-inside">
-                        <li>Primary: North America (default)</li>
+                        <li>Primary: Pakistan (default)</li>
                         <li>Optional geo-replica region</li>
                         <li>PIPEDA & SOC 2 aligned</li>
                     </ul>

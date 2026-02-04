@@ -24,7 +24,7 @@
             }
         }
     </script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
                 w[l] = w[l] || []; w[l].push({

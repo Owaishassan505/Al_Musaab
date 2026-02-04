@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>QueryTel Inc. — Managed IT, Cybersecurity & Cloud Services</title>
+  <title>Al Musaab — Managed IT, Cybersecurity & Cloud Services</title>
   <meta name="description"
-    content="QueryTel Inc. delivers managed IT, cybersecurity, & cloud solutions since 1995. Secure, scalable, and fully managed IT support tailored to your growth." />
+    content="Al Musaab delivers managed IT, cybersecurity, & cloud solutions since 1995. Secure, scalable, and fully managed IT support tailored to your growth." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/" />
   <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/" />
@@ -27,23 +27,23 @@
 
   </script>
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="QueryTel Inc. — Managed IT, Cybersecurity & Cloud Services in Canada" />
+  <meta property="og:title" content="Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan" />
   <meta property="og:description"
     content="Managed IT support, enterprise cloud hosting, and Fortinet-powered cybersecurity for Canadian businesses. Since 1995." />
   <meta property="og:image" content="https://almusaab.com/assets/images/homepage-banner.png" />
   <meta property="og:url" content="https://almusaab.com/" />
-  <meta property="og:site_name" content="QueryTel Inc." />
+  <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:locale" content="en_CA" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="QueryTel Inc. — Managed IT, Cybersecurity & Cloud Services in Canada" />
+  <meta name="twitter:title" content="Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan" />
   <meta name="twitter:description"
-    content="Trusted IT, cloud, and cybersecurity partner for Canadian businesses. Grow securely with QueryTel Inc." />
+    content="Trusted IT, cloud, and cybersecurity partner for Canadian businesses. Grow securely with Al Musaab" />
   <meta name="twitter:image" content="https://almusaab.com/assets/images/homepage-banner.png" />
 
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
   <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
@@ -127,9 +127,9 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://almusaab.com/#org",
-    "name": "QueryTel Inc.",
+    "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
     "foundingDate": "1995",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
@@ -167,9 +167,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",
@@ -196,7 +196,7 @@
     "@type":"WebSite",
     "@id":"https://almusaab.com/#website",
     "url":"https://almusaab.com/",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "inLanguage":"en-CA",
     "publisher":{"@id":"https://almusaab.com/#org"},
     "potentialAction":{
@@ -268,7 +268,7 @@
 
           <!-- Slide 1 -->
           <li class="glide__slide relative min-h-[680px] flex items-center">
-            <img src="<?= $base . '/assets/images/hero.png' ?>" alt="Managed IT Services"
+            <img src="<?= $base . '/assets/images/blue_technical_background_1.jpg' ?>" alt="Managed IT Services"
               class="absolute inset-0 w-full h-full object-cover" />
             <div class="absolute inset-0 bg-black/10 backdrop-brightness-90"></div>
             <div class="relative z-10 w-full">
@@ -393,7 +393,7 @@
 
                 <!-- Subtext -->
                 <p class="mt-6 text-[13px] font-semibold tracking-wide italic">
-                  BrokerBand is a part of QueryTel Group of Companies
+                  BrokerBand is a part ofAl MusaabGroup of Companies
                 </p>
 
                 <!-- Button -->
@@ -567,7 +567,7 @@
           Most trusted Managed IT Services Partner
         </p>
         <p class="text-gray-600">
-          QueryTel Inc. has been providing Managed IT services across North America since 1995. With almost three
+          Al Musaab has been providing Managed IT services across Pakistan since 1995. With almost three
           decades of experience servicing clients, we use what we have learned to fulfill your company’s needs.
         </p>
       </div>
@@ -664,7 +664,7 @@
         </h2>
         <div class="h-0.5 w-12 bg-orange-500 mx-auto mt-4 mb-6"></div>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-          Trusted by businesses across North America. Here's what they have to say about partnering with QueryTel.
+          Trusted by businesses across Pakistan. Here's what they have to say about partnering with QueryTel.
         </p>
       </div>
 
@@ -760,7 +760,7 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "The cloud migration was seamless. QueryTel handled everything—planning, execution, training. Zero
+            "The cloud migration was seamless. Al Musaab handled everything—planning, execution, training. Zero
             disruption to our business. Their expertise is unmatched in our industry."
           </p>
           <div class="flex items-center gap-4">
@@ -786,7 +786,7 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "Outstanding service. QueryTel didn't just fix our problems—they prevented future ones. The proactive
+            "Outstanding service. Al Musaab didn't just fix our problems—they prevented future ones. The proactive
             monitoring saved us from a potential disaster. Worth every penny."
           </p>
           <div class="flex items-center gap-4">
@@ -812,7 +812,7 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "From initial consultation to post-implementation support, QueryTel delivered excellence. They understood
+            "From initial consultation to post-implementation support,Al Musaabdelivered excellence. They understood
             our healthcare compliance needs and delivered beyond expectations."
           </p>
           <div class="flex items-center gap-4">
@@ -857,7 +857,7 @@
         <h2 class="text-3xl font-bold text-neutral-900">Our Partners</h2>
         <div class="h-0.5 w-12 bg-orange-500 mx-auto mt-4 mb-6"></div>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-          Trusted by leading businesses across North America — from logistics and technology to healthcare and design.
+          Trusted by leading businesses across Pakistan — from logistics and technology to healthcare and design.
         </p>
       </div>
 
@@ -918,7 +918,7 @@
           <h3 class="text-4xl font-bold text-orange-600 mb-4">30+ Years</h3>
           <h4 class="text-2xl font-semibold text-neutral-900 mb-4">of Professional Experience</h4>
           <p class="text-gray-600 leading-relaxed">
-            With over 50 consultants across North America and three decades of industry expertise, we provide businesses
+            With over 50 consultants across Pakistan and three decades of industry expertise, we provide businesses
             with trusted technology, logistics, and growth solutions tailored to their unique needs.
           </p>
         </div>
@@ -981,78 +981,78 @@
           <!-- Microsoft -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Microsoft_logo.svg.webp' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Microsoft" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Microsoft" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Cisco_Systems-Logo.wine.svg' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Microsoft" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Microsoft" />
           </div>
           <!-- HP -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/HP_logo_630x630.png' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="HP" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="HP" />
           </div>
 
           <!-- Lenovo -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Lenovo-Logo.jpg' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Lenovo" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Lenovo" />
           </div>
 
           <!-- Lenovo -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Amazon_Web_Services-Logo.wine.svg' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Dahua_Technology_logo.svg.png' ?>"
-              class="h-12 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
+              class="h-12 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Hikvision-Logo.wine.svg' ?>"
-              class="h-32 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
+              class="h-32 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Microsoft_Azure-Logo.wine.png' ?>"
-              class="h-32 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Azure" />
+              class="h-32 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Azure" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Polycom-Logo.wine.svg' ?>"
-              class="h-32 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Azure" />
+              class="h-32 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Azure" />
           </div>
 
           <!-- Fortinet -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Fortinet-Logo.wine.svg' ?>"
-              class="h-40 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Fortinet" />
+              class="h-40 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Fortinet" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Honeywell-Logo.wine.svg' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="AWS" />
           </div>
 
           <!-- Bell -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Bell_logo.svg' ?>"
-              class="h-12 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Bell" />
+              class="h-12 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Bell" />
           </div>
 
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/Acronis.svg.png' ?>"
-              class="h-12 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105" alt="Acronis" />
+              class="h-12 w-auto hover:grayscale-0 transition duration-300 hover:scale-105" alt="Acronis" />
           </div>
 
 
           <!-- ExxonMobil -->
           <div class="flex-shrink-0 w-48 flex justify-center items-center">
             <img src="<?= $base . '/assets/partners/ExxonMobil-Logo.wine.svg' ?>"
-              class="h-20 w-auto grayscale hover:grayscale-0 transition duration-300 hover:scale-105"
+              class="h-20 w-auto hover:grayscale-0 transition duration-300 hover:scale-105"
               alt="ExxonMobil" />
           </div>
         </div>
@@ -1079,7 +1079,7 @@
               Solutions
             </div>
             <p class="text-gray-300">
-              QueryTel Inc. Flexible Payment Solutions is partnering with some of the biggest technology brands to help
+              Al Musaab Flexible Payment Solutions is partnering with some of the biggest technology brands to help
               you sell more and support your customers' new demand for virtual working.
             </p>
           </div>
@@ -1290,7 +1290,7 @@
           { icon: "cable", text: "Structured cabling & rack cleanups" },
           { icon: "router", text: "Switches, Wi-Fi, and firewall rollouts" },
           { icon: "laptop", text: "Imaging, staging, and user cutovers" },
-          { icon: "map-pin", text: "Canada/US coverage via vetted techs" }
+          { icon: "map-pin", text: "Pakistan coverage via vetted techs" }
         ]
       },
       // 6 Hardware & Cloud Solution

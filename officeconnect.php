@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>Office Connect VoIP & SIP Trunking | Hosted PBX for Canadian Businesses | QueryTel</title>
+    <title>Office Connect VoIP & SIP Trunking | Hosted PBX for Canadian Businesses | Al Musaab</title>
     <meta name="description"
         content="Office Connect by QueryTel: enterprise-grade VoIP, SIP trunking, and hosted PBX with low latency, call analytics, and easy number porting. Built for Canadian businesses." />
     <link rel="canonical" href="https://almusaab.com/officeconnect/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Open Graph (social) -->
-    <meta property="og:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | QueryTel" />
+    <meta property="og:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | Al Musaab" />
     <meta property="og:description"
         content="Cloud-based phone system with SIP trunking, advanced routing, and zero-downtime number porting. See how Office Connect modernizes calling for Canadian teams." />
     <meta property="og:type" content="website" />
@@ -33,7 +33,7 @@
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | QueryTel" />
+    <meta name="twitter:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | Al Musaab" />
     <meta name="twitter:description"
         content="Modern, scalable VoIP and SIP trunking for Canadian businesses. Easy setup, clear pricing, expert support." />
     <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2021/10/hosted-pbx1-469x500-1.jpg" />
@@ -84,7 +84,7 @@
     "provider": {
       "@type": "Organization",
       "@id": "https://almusaab.com/#org",
-      "name": "QueryTel Inc",
+      "name": "Al Musaab",
       "url": "https://almusaab.com/"
     }
   }
@@ -178,7 +178,7 @@
                     installations, or hardware headaches.
                 </p>
                 <p class="text-gray-700 text-base leading-relaxed">
-                    Hosted PBX by QueryTel gives your team crystal-clear voice over a secure, private network. Work from
+                    Hosted PBX by Al Musaab gives your team crystal-clear voice over a secure, private network. Work from
                     anywhere, scale instantly, and enjoy unified communication all in one low monthly fee.
                 </p>
             </div>
@@ -199,7 +199,7 @@
                     </h2>
                     <div class="w-16 h-1 bg-white mb-6"></div>
                     <p class="text-lg text-white/90 leading-relaxed max-w-xl">
-                        Office Connect from QueryTel helps you cut costs while empowering your team with unmatched
+                        Office Connect fromAl Musaabhelps you cut costs while empowering your team with unmatched
                         flexibility. Add or remove extensions instantly and take calls anywhere—your desk, tablet, or
                         smartphone. Everything’s managed, secure, and bundled into one simple monthly fee.
                     </p>
@@ -209,7 +209,7 @@
                 <div
                     class="bg-white/10 p-10 rounded-2xl backdrop-blur-md shadow-xl text-center border border-white/10 animate-fadeInRight">
                     <h3 class="text-base font-semibold uppercase tracking-widest text-white/80 mb-5">
-                        Speak to a QueryTel Specialist
+                        Speak to aAl MusaabSpecialist
                     </h3>
                     <div class="flex justify-center items-center mb-6">
                         <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-md">
@@ -365,7 +365,7 @@
                     </li>
                     <li class="flex gap-3">
                         <div class="mt-2 w-2 h-2 bg-orange-500 rounded-full shrink-0"></div>
-                        QueryTel Office Connect Is Cost-Effective And Easier To Manage And Maintain Versus Traditional
+                       Al MusaabOffice Connect Is Cost-Effective And Easier To Manage And Maintain Versus Traditional
                         Box Phone Systems
                     </li>
                     <li class="flex gap-3">
@@ -515,8 +515,8 @@
                         from Inside</li>
                     <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> Show Who's Calling
                         from Outside</li>
-                    <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> FREE QueryTel to
-                        QueryTel Calling</li>
+                    <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> FREEAl Musaabto
+                       Al MusaabCalling</li>
                     <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> Enhanced Voicemail
                     </li>
                     <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> Voicemail to Email

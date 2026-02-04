@@ -6,23 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO -->
-  <title>Warehousing Solutions & Network Infrastructure | QueryTel North America</title>
+  <title>Warehousing Solutions & Network Infrastructure | Al Musaab Pakistan</title>
   <meta name="description"
     content="Structured cabling up to 300m, cold-rated CAT6, redundant 10G fiber, IT/OT network design, hybrid cloud, rugged mobile devices, and AI surveillance for warehouse operations." />
   <link rel="canonical" href="https://almusaab.com/warehousing-solutions-and-network-infrastructure/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Warehousing Solutions & Network Infrastructure | QueryTel" />
+  <meta property="og:title" content="Warehousing Solutions & Network Infrastructure | Al Musaab" />
   <meta property="og:description"
     content="Structured cabling, IT/OT segmentation, hybrid cloud, edge compute, rugged mobile, and surveillance—purpose-built for warehouses." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://almusaab.com/warehousing-solutions-and-network-infrastructure/" />
   <meta property="og:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Warehousing Solutions & Network Infrastructure | QueryTel" />
+  <meta name="twitter:title" content="Warehousing Solutions & Network Infrastructure | Al Musaab" />
   <meta name="twitter:description"
     content="Modernize warehouse infrastructure and operations with QueryTel’s end-to-end services." />
   <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
@@ -34,7 +34,7 @@
     imagesizes="(min-width:1024px) 50vw, 100vw">
   <link rel="preload" as="image"
     href="https://almusaab.com/wp-content/uploads/2025/03/Depositphotos_522317172_XL-1-scaled.jpg">
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>

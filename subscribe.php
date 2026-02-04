@@ -21,10 +21,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <table style='max-width:500px; margin:auto; background:#fff; border-radius:10px; box-shadow:0 6px 25px rgba(0,0,0,0.08);'>
             <tr><td style='padding:24px;'>
               <h2 style='color:#0F172A;'>New Newsletter Subscription</h2>
-              <p style='color:#475569;'>A new user has subscribed to the QueryTel newsletter.</p>
+              <p style='color:#475569;'>A new user has subscribed to the Al Musaab newsletter.</p>
               <p style='font-size:1.1rem; margin-top:20px; color:#0ea5e9;'><strong>Email:</strong> $email</p>
               <hr style='margin:24px 0; border:none; border-top:1px solid #e2e8f0;'>
-              <p style='font-size:13px; color:#94a3b8;'>This notification was generated automatically by the QueryTel website.</p>
+              <p style='font-size:13px; color:#94a3b8;'>This notification was generated automatically by the Al Musaab website.</p>
             </td></tr>
           </table>
         </div>",

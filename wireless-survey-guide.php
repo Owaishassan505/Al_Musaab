@@ -6,23 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO -->
-  <title>Why You Need a Wireless Survey | QueryTel Knowledge Base</title>
+  <title>Why You Need a Wireless Survey | Al Musaab Knowledge Base</title>
   <meta name="description"
-    content="A complete explanation of why wireless surveys are critical for designing reliable WiFi networks. Learn how QueryTel uses professional surveying to eliminate performance issues before deployment." />
+    content="A complete explanation of why wireless surveys are critical for designing reliable WiFi networks. Learn howAl Musaabuses professional surveying to eliminate performance issues before deployment." />
   <link rel="canonical" href="https://almusaab.com/wireless-survey-guide/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Why You Need a Wireless Survey | QueryTel" />
+  <meta property="og:title" content="Why You Need a Wireless Survey | Al Musaab" />
   <meta property="og:description"
     content="Predictable performance comes from data, not guessing. Learn how wireless surveys reveal dead zones, interference, and capacity issues before they disrupt operations." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://almusaab.com/wireless-survey-guide/" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Why You Need a Wireless Survey | QueryTel" />
+  <meta name="twitter:title" content="Why You Need a Wireless Survey | Al Musaab" />
   <meta name="twitter:description"
     content="Expert guide on wireless surveys for designing reliable WiFi networks in warehouses, offices, and industrial environments." />
 
@@ -175,7 +175,7 @@
         <div class="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mb-12">
           <p class="text-lg text-gray-900">
             A wireless survey reveals how your space behaves in the real world. It exposes dead zones, interference,
-            capacity issues, and blind spots before they disrupt operations. QueryTel utilizes advanced surveying tools
+            capacity issues, and blind spots before they disrupt operations. Al Musaab utilizes advanced surveying tools
             to design wireless networks that perform exactly as your business needs them to.
           </p>
         </div>
@@ -432,7 +432,7 @@
           </p>
 
           <p class="text-lg text-gray-700 mb-6">
-            A survey helps QueryTel map roaming paths and adjust access point overlap, handoff thresholds, and channel
+            A survey helpsAl Musaabmap roaming paths and adjust access point overlap, handoff thresholds, and channel
             planning to ensure seamless mobility.
           </p>
 
@@ -497,7 +497,7 @@
           </h2>
 
           <p class="text-lg text-gray-700 mb-6">
-            The survey is not the finish line — it is the starting point. Once QueryTel collects the data, we create a
+            The survey is not the finish line — it is the starting point. OnceAl Musaabcollects the data, we create a
             comprehensive wireless design tailored to your specific environment.
           </p>
 
@@ -598,7 +598,7 @@
           </div>
         </section>
 
-        <!-- QueryTel Advantage -->
+        <!--Al MusaabAdvantage -->
         <section id="advantage" class="mb-16">
           <h2 class="text-3xl font-bold text-gray-900 mb-6 pb-3 border-b-2 border-orange-500">
             QueryTel's Survey Advantage
@@ -623,7 +623,7 @@
           <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white p-8 rounded-lg text-center">
             <h2 class="text-3xl font-bold mb-4">Ready for a Professional Wireless Survey?</h2>
             <p class="text-lg mb-6 opacity-90">
-              Let QueryTel design a wireless network that performs exactly as your business needs it to.
+              LetAl Musaabdesign a wireless network that performs exactly as your business needs it to.
             </p>
             <a href="<?= $base ?>/contactus/"
               class="inline-flex items-center gap-2 bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold shadow-lg hover:bg-gray-100 transition">

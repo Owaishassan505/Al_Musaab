@@ -1,5 +1,5 @@
 <?php
-// catalogs-portal.php — Client Catalog Portal styled to the provided QueryTel theme
+// catalogs-portal.php — Client Catalog Portal styled to the providedAl Musaabtheme
 // --------------------------------------------------------------------------------
 // - Uses Tailwind (from theme), lucide icons, navbar/footer includes
 // - Password-gated per-client catalogs
@@ -189,7 +189,7 @@ if ($action === 'place' && $clientId) {
 }
 
 // ----------------------- UI ----------------------- //
-function page_head($title = 'Client Catalogs | QueryTel')
+function page_head($title = 'Client Catalogs | Al Musaab')
 {
     echo <<<HTML
 <!doctype html>
@@ -229,7 +229,7 @@ function flash_msgs()
 
 function list_view($CLIENTS)
 {
-    page_head('Client Catalogs — Private Portal | QueryTel');
+    page_head('Client Catalogs — Private Portal | Al Musaab');
     page_header_nav();
     echo '<section class="relative overflow-hidden bg-white">';
     echo '  <div class="max-w-7xl mx-auto px-6 md:px-12 py-16">';
@@ -275,7 +275,7 @@ function catalog_view($CLIENTS, $CATALOG, $clientId)
     foreach ($cart as $row)
         $subtotal += $row['item']['price'] * $row['qty'];
 
-    page_head(htmlspecialchars($client['name']) . ' — Catalog | QueryTel');
+    page_head(htmlspecialchars($client['name']) . ' — Catalog | Al Musaab');
     page_header_nav();
 
     echo '<section class="relative overflow-hidden bg-white">';

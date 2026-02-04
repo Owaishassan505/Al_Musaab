@@ -36,7 +36,7 @@
             })(window, document, 'script', 'dataLayer', 'GTM-57GG72GW');</script>
     <!-- End Google Tag Manager -->
 
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <style>
         @keyframes floatY {
             0% {
@@ -328,7 +328,7 @@
                     Cybersecurity</h2>
                 <div class="mt-4 h-px w-28 bg-white/20 mx-auto"></div>
                 <p class="mt-6 text-slate-300 max-w-3xl mx-auto">
-                    From Secure SD-WAN to AI-driven security operations and secure remote work, QueryTel offers the most
+                    From Secure SD-WAN to AI-driven security operations and secure remote work,Al Musaaboffers the most
                     comprehensive
                     solutions to help industries accelerate security, maximize productivity, preserve user experience,
                     and lower the total cost of ownership.

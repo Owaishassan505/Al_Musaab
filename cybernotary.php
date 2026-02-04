@@ -8,7 +8,7 @@
   <meta name="description"
     content="Tamper-evident document notarization with blockchain-backed proofs, time-stamping, and easy verification." />
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <script>
     tailwind.config = {
       theme: {

@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 <hr style='margin:24px 0; border:none; border-top:1px solid #e2e8f0;'>
 
-                <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the AI Agents page contact form on the QueryTel website.</p>
+                <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the AI Agents page contact form on the Al Musaab website.</p>
               </td>
             </tr>
           </table>
@@ -93,7 +93,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <head>
       <meta charset='UTF-8'>
       <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-      <title>Inquiry Sent | QueryTel</title>
+      <title>Inquiry Sent | Al Musaab</title>
       <style>
         @keyframes fadeIn {
           from { opacity: 0; transform: translateY(10px); }

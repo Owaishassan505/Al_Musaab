@@ -6,25 +6,25 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>AI Agents for Workflow Automation | QueryTel Inc</title>
+    <title>AI Agents for Workflow Automation | Al Musaab</title>
     <meta name="description"
-        content="Transform your business with custom AI Agents that automate workflows across Healthcare, Supply Chain, Law Firms, Consultancies, and Engineering. QueryTel delivers intelligent automation that saves time and reduces costs." />
+        content="Transform your business with custom AI Agents that automate workflows across Healthcare, Supply Chain, Law Firms, Consultancies, and Engineering. Al Musaab delivers intelligent automation that saves time and reduces costs." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
 
     <link rel="canonical" href="https://almusaab.com/ai-agents/" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/ai-agents/" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="AI Agents for Workflow Automation | QueryTel Inc" />
+    <meta property="og:title" content="AI Agents for Workflow Automation | Al Musaab" />
     <meta property="og:url" content="https://almusaab.com/ai-agents/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="AI Agents for Workflow Automation | QueryTel Inc" />
+    <meta name="twitter:title" content="AI Agents for Workflow Automation | Al Musaab" />
 
     <script type="application/ld+json">
     {

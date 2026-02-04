@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Privacy Policy — QueryTel Inc.</title>
+    <title>Privacy Policy — Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc. Privacy Policy. Learn how we collect, use, store, and protect your information." />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+        content="Al Musaab Privacy Policy. Learn how we collect, use, store, and protect your information." />
+    <link rel="icon" href="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -49,7 +49,7 @@
                     </h1>
                     <p class="mt-6 text-lg text-gray-600 leading-relaxed">
                         This Privacy Policy explains how we collect, use, store, and safeguard your information across
-                        all QueryTel services in North America. Your trust is our priority.
+                        allAl Musaabservices in Pakistan. Your trust is our priority.
                     </p>
                     <div class="mt-8">
                         <a href="#contact"
@@ -128,7 +128,7 @@
             <!-- INTRO TEXT -->
             <div class="opacity-0 animate-fadeIn" style="animation-delay: 0.1s">
                 <p class="text-neutral-700 leading-relaxed text-lg">
-                    This Privacy Policy explains how QueryTel Inc. ("QueryTel", "we", "our", or "us") collects, uses,
+                    This Privacy Policy explains how Al Musaab ("QueryTel", "we", "our", or "us") collects, uses,
                     discloses, and protects your personal information when you visit our website, interact with our
                     online content and advertisements (including Meta Lead Ads), submit a form, request support, or use
                     any of our IT and related services. By using our website or providing your information to us, you
@@ -230,7 +230,7 @@
                     </div>
                     <div>
                         <h4 class="font-semibold text-neutral-900 mb-2">Business Transfers</h4>
-                        <p class="text-sm text-neutral-700">If QueryTel participates in a merger, acquisition, or
+                        <p class="text-sm text-neutral-700">IfAl Musaabparticipates in a merger, acquisition, or
                             similar transaction, your information may be transferred accordingly.</p>
                     </div>
                 </div>
@@ -357,7 +357,7 @@
                     </div>
                 </div>
                 <p class="text-neutral-700 leading-relaxed">
-                    Our website may contain links to external websites that QueryTel does not operate or control. We are
+                    Our website may contain links to external websites thatAl Musaabdoes not operate or control. We are
                     not responsible for their privacy practices.
                 </p>
             </div>
@@ -405,7 +405,7 @@
                 </div>
                 <div class="grid md:grid-cols-2 gap-6">
                     <div class="bg-gradient-to-br from-orange-50 to-amber-50 rounded-lg p-8 border border-orange-100">
-                        <h3 class="font-semibold text-neutral-900 mb-4">QueryTel Inc.</h3>
+                        <h3 class="font-semibold text-neutral-900 mb-4">Al Musaab</h3>
                         <div class="space-y-3">
                             <div class="flex items-start gap-3">
                                 <i data-lucide="mail" class="h-5 w-5 text-orange-600 mt-1"></i>

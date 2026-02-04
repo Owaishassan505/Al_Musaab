@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>IT Support For Small Businesses | QueryTel Inc.</title>
+    <title>IT Support For Small Businesses | Al Musaab</title>
     <meta name="description"
-        content="Affordable IT support for small and medium businesses. QueryTel protects your company with managed IT, cloud backup, and cybersecurity so you can grow without tech headaches." />
+        content="Affordable IT support for small and medium businesses. Al Musaab protects your company with managed IT, cloud backup, and cybersecurity so you can grow without tech headaches." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/small-businesses" />
     <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/" />
@@ -25,23 +25,23 @@
     <!-- End Google Tag Manager -->
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Small Business IT Support | QueryTel Inc." />
+    <meta property="og:title" content="Small Business IT Support | Al Musaab" />
     <meta property="og:description"
-        content="Stop wasting time on lost files, weak passwords, and downtime. QueryTel delivers IT support, cloud backup, and cybersecurity built for small businesses." />
+        content="Stop wasting time on lost files, weak passwords, and downtime. Al Musaab delivers IT support, cloud backup, and cybersecurity built for small businesses." />
     <meta property="og:url" content="https://almusaab.com/small-businesses" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Small Business IT Support | QueryTel Inc." />
+    <meta name="twitter:title" content="Small Business IT Support | Al Musaab" />
     <meta name="twitter:description"
         content="Managed IT and cybersecurity made simple for small businesses. Keep your data safe, avoid downtime, and focus on growth." />
 
 
 
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
@@ -63,9 +63,9 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://almusaab.com/#org",
-    "name": "QueryTel Inc.",
+    "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
     "foundingDate": "1995",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
@@ -103,9 +103,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",
@@ -132,7 +132,7 @@
     "@type":"WebSite",
     "@id":"https://almusaab.com/#website",
     "url":"https://almusaab.com/",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "inLanguage":"en-CA",
     "publisher":{"@id":"https://almusaab.com/#org"},
     "potentialAction":{
@@ -773,7 +773,7 @@
                             </div>
                         </div>
                         <div class="p-8 rounded-2xl bg-gradient-to-br from-blue-50 to-blue-100 ring-1 ring-blue-200">
-                            <h3 class="text-2xl font-semibold text-blue-900">The QueryTel Shield: Instant Recovery</h3>
+                            <h3 class="text-2xl font-semibold text-blue-900">the Al Musaab Shield: Instant Recovery</h3>
                             <p class="mt-4 text-blue-800">Ransomware relies on your inability to access your data. Our
                                 defense model makes paying a ransom obsolete.</p>
                             <div class="mt-6 space-y-6">
@@ -845,7 +845,7 @@
                             </div>
                         </div>
                         <div class="p-8 rounded-2xl bg-gradient-to-br from-green-50 to-green-100 ring-1 ring-green-200">
-                            <h3 class="text-2xl font-semibold text-green-900">The QueryTel Shield: Unphishable Access
+                            <h3 class="text-2xl font-semibold text-green-900">the Al Musaab Shield: Unphishable Access
                             </h3>
                             <p class="mt-4 text-green-800">Phishing works by stealing a secret (your password). Our
                                 approach is to eliminate the secret altogether.</p>
@@ -912,7 +912,7 @@
                         </div>
                         <div
                             class="p-8 rounded-2xl bg-gradient-to-br from-purple-50 to-purple-100 ring-1 ring-purple-200">
-                            <h3 class="text-2xl font-semibold text-purple-900">The QueryTel Shield: Data Integrity</h3>
+                            <h3 class="text-2xl font-semibold text-purple-900">the Al Musaab Shield: Data Integrity</h3>
                             <p class="mt-4 text-purple-800">Your data is your most valuable asset. We protect it from
                                 threats both outside and inside your organization.</p>
                             <div class="mt-6 space-y-6">

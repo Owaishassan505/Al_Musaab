@@ -7,31 +7,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Contact QueryTel Inc — Sales & Support in North America</title>
+  <title>Contact Al Musaab — Sales & Support in Pakistan</title>
   <meta name="description"
-    content="Reach QueryTel Inc for managed IT, cloud, and cybersecurity. Call Toronto HQ or open a support ticket. Mon–Fri, 8am–5pm. North America-wide coverage." />
+    content="Reach Al Musaab for managed IT, cloud, and cybersecurity. Call Karachi HQ or open a support ticket. Mon–Fri, 8am–5pm. Pakistan-wide coverage." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/contactus/" />
   <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/contactus/" />
   <meta name="theme-color" content="#0f172a" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Contact QueryTel Inc — Sales & Support in North America" />
+  <meta property="og:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
   <meta property="og:description"
-    content="Speak with a local expert or reach our helpdesk. Toronto HQ and North America-wide service." />
+    content="Speak with a local expert or reach our helpdesk. Karachi HQ and Pakistan-wide service." />
   <meta property="og:url" content="https://almusaab.com/contactus/" />
-  <meta property="og:site_name" content="QueryTel Inc." />
+  <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:locale" content="en_CA" />
-  <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+  <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Contact QueryTel Inc — Sales & Support in North America" />
-  <meta name="twitter:description" content="Call our Toronto HQ or open a support ticket. Mon–Fri, 8am–5pm." />
-  <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+  <meta name="twitter:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
+  <meta name="twitter:description" content="Call our Karachi HQ or open a support ticket. Mon–Fri, 8am–5pm." />
+  <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
       w[l] = w[l] || []; w[l].push({
@@ -44,7 +44,7 @@
   <!-- End Google Tag Manager -->
 
   <!-- Icons -->
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
   <!-- Performance hints -->
@@ -80,9 +80,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -94,10 +94,10 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -122,9 +122,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",
@@ -165,7 +165,7 @@
           Let’s connect <br> Your solution starts here.
         </h1>
         <p class="mt-6 text-lg text-gray-600">
-          Contact us across North America for IT, cloud, and managed service inquiries. We're always ready to discuss
+          Contact us across Pakistan for IT, cloud, and managed service inquiries. We're always ready to discuss
           tech or
           solve real-world problems.
         </p>
@@ -197,7 +197,7 @@
         Let’s Talk
       </h1>
       <p class="mt-4 text-gray-600 text-lg">
-        Reach out to us at any of our locations across North America.
+        Reach out to us at any of our locations across Pakistan.
       </p>
     </div>
   </section>
@@ -212,7 +212,7 @@
   <section class="bg-gray-50 py-16">
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 lg:grid-cols-3 gap-10">
 
-      <!-- Toronto -->
+      <!-- Karachi -->
       <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
         <div class="flex items-center gap-3 mb-4">
           <svg xmlns="http://www.w3.org/2000/svg"
@@ -221,7 +221,7 @@
             <path
               d="M4 3a1 1 0 00-1 1v12h14V4a1 1 0 00-1-1H4zm1 3h2v2H5V6zm0 3h2v2H5V9zm0 3h2v2H5v-2zm4-6h2v2H9V6zm0 3h2v2H9V9zm0 3h2v2H9v-2zm4-6h2v2h-2V6zm0 3h2v2h-2V9zm0 3h2v2h-2v-2z" />
           </svg>
-          <h2 class="text-xl font-semibold">Toronto</h2>
+          <h2 class="text-xl font-semibold">Karachi</h2>
         </div>
         <p class="text-gray-600 text-sm mb-2">
           7025 Tomken Road, Suite #244<br />
@@ -366,7 +366,7 @@
           <div class="w-full">
             <div class="w-full aspect-video overflow-hidden">
               <iframe id="map-iframe"
-                data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d369421.4094649415!2d-79.68477!3d43.666791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3f02ae724ab3%3A0x5d9af5abd43879f8!2s7025%20Tomken%20Rd%2C%20Mississauga%2C%20ON%20L5T%202J8%2C%20North America!5e0!3m2!1sen!2sus!4v1754486829326!5m2!1sen!2sus"
+                data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d369421.4094649415!2d-79.68477!3d43.666791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3f02ae724ab3%3A0x5d9af5abd43879f8!2s7025%20Tomken%20Rd%2C%20Mississauga%2C%20ON%20L5T%202J8%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1754486829326!5m2!1sen!2sus"
                 width="100%" height="100%" style="border: 0" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

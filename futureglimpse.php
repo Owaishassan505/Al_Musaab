@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Technology Solutions | QueryTel Inc.</title>
+    <title>Technology Solutions | Al Musaab</title>
     <meta name="description"
         content="Technology solutions for exceptional IT experiences. Video-first hero section in Microsoft-style layout." />
     <link rel="icon" href="/favicon.ico" />
@@ -36,7 +36,7 @@
             }
         }
     </script>
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <style>
         .vignette::after {
             content: '';
@@ -922,7 +922,7 @@
                 <div class="md:col-span-6 lg:col-span-5">
                     <div class="relative rounded-2xl bg-white/5 ring-1 ring-white/10 p-6 md:p-8 backdrop-blur">
                         <p class="text-slate-300 leading-relaxed">
-                            QueryTel is actively deploying warehouse-grade IT solutions across Canada, including
+                           Al Musaabis actively deploying warehouse-grade IT solutions across Pakistan, including
                             hardened network infrastructure, AI-powered video surveillance, and identity-based remote
                             access. From cold-rated CAT6 cabling to redundant 10G fiber, our systems are built for
                             uptime in the harshest operational environments.

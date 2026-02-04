@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <tr>
               <td style='padding:24px;'>
                 <h2 style='color:#0F172A; margin-bottom:8px;'>New Contact Submission</h2>
-                <p style='color:#475569; margin-bottom:24px;'>A new message has been received from the QueryTel website contact form.</p>
+                <p style='color:#475569; margin-bottom:24px;'>A new message has been received from the Al Musaab website contact form.</p>
 
                 <table width='100%' cellpadding='6' cellspacing='0' style='border-collapse:collapse;'>
                   <tr><td style='color:#334155;'><strong>Name:</strong></td><td>$name</td></tr>
@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 <hr style='margin:24px 0; border:none; border-top:1px solid #e2e8f0;'>
 
-                <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the QueryTel website contact form.</p>
+                <p style='color:#94a3b8; font-size:13px;'>This email was sent automatically from the Al Musaab website contact form.</p>
               </td>
             </tr>
           </table>
@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <head>
       <meta charset='UTF-8'>
       <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-      <title>Message Status | QueryTel</title>
+      <title>Message Status | Al Musaab</title>
       <style>
         @keyframes fadeIn {
           from { opacity: 0; transform: translateY(10px); }

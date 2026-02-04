@@ -7,23 +7,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>AI & Machine Learning Services in Canada | QueryTel Inc</title>
+    <title>AI & Machine Learning Services in Pakistan | Al Musaab</title>
     <meta name="description"
-        content="QueryTel Inc provides AI, machine learning, and deep learning services in Canada — from predictive analytics to NLP and computer vision — built for business growth." />
+        content="Al Musaab provides AI, machine learning, and deep learning services in Pakistan — from predictive analytics to NLP and computer vision — built for business growth." />
 
     <meta name="robots" content="index,follow,max-image-preview:large" />
-    <link rel="canonical" href="https://almusaab.com/ai-ml-services-canada/" />
-    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/ai-ml-services-canada/" />
+    <link rel="canonical" href="https://almusaab.com/ai-ml-services-Pakistan/" />
+    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/ai-ml-services-Pakistan/" />
 
     <meta name="theme-color" content="#0f172a" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="AI & Machine Learning Services in Canada | QueryTel Inc" />
+    <meta property="og:title" content="AI & Machine Learning Services in Pakistan | Al Musaab" />
     <meta property="og:description"
         content="AI, ML, and DL services for Canadian businesses. Predictive analytics, NLP, computer vision, and generative AI solutions that drive growth." />
-    <meta property="og:url" content="https://almusaab.com/ai-ml-services-canada/" />
-    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:url" content="https://almusaab.com/ai-ml-services-Pakistan/" />
+    <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
     <meta property="og:image" content="<?= $base . '/assets/images/querytel-ai.jpg' ?>" />
     <meta property="og:image:width" content="1200" />
@@ -31,10 +31,10 @@
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="AI & Machine Learning Services in Canada | QueryTel Inc" />
+    <meta name="twitter:title" content="AI & Machine Learning Services in Pakistan | Al Musaab" />
     <meta name="twitter:description"
         content="Full-service AI/ML/DL solutions — predictive analytics, NLP, computer vision, generative AI. Helping Canadian businesses grow smarter." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Performance hints -->
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
@@ -78,9 +78,9 @@
     "@context":"https://schema.org",
     "@type":"Organization",
     "@id":"https://almusaab.com/#org",
-    "name":"QueryTel Inc.",
+    "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -92,10 +92,10 @@
     "@type":"ContactPage",
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
-    "name":"Contact QueryTel Inc",
+    "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/querytel-icon.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -117,7 +117,7 @@
       "@type": "ListItem",
       "position": 2,
       "name": "AI & ML Services",
-      "item": "https://almusaab.com/ai-ml-services-canada/"
+      "item": "https://almusaab.com/ai-ml-services-Pakistan/"
     }
   ]
 }
@@ -141,7 +141,7 @@
   ],
   "provider": { "@id": "https://almusaab.com/#org" },
   "areaServed": "CA",
-  "description": "AI, ML, and DL services in Canada including predictive analytics, NLP, computer vision, and generative AI for smarter business growth."
+  "description": "AI, ML, and DL services in Pakistan including predictive analytics, NLP, computer vision, and generative AI for smarter business growth."
 }
 </script>
 
@@ -152,9 +152,9 @@
     "@context":"https://schema.org",
     "@type":"LocalBusiness",
     "@id":"https://almusaab.com/#hq",
-    "name":"QueryTel Inc — Toronto HQ",
+    "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
     "telephone":"+1-416-477-1380",
     "address":{
       "@type":"PostalAddress",
@@ -242,7 +242,7 @@
                     </div>
                     <div class="flex items-center gap-2">
                         <span class="h-2 w-2 rounded-full bg-orange-600"></span>
-                        Trusted by Enterprises Across Canada
+                        Trusted by Enterprises Across Pakistan
                     </div>
                 </div>
             </div>
@@ -532,7 +532,7 @@
                     Our 5-Step Approach to Building AI Solutions
                 </h2>
                 <p class="mt-4 text-base text-neutral-600 leading-relaxed">
-                    Every AI journey with QueryTel begins with your challenges and ends with your results. Our
+                    Every AI journey withAl Musaabbegins with your challenges and ends with your results. Our
                     structured process ensures measurable outcomes, reliable performance, and innovation you can scale.
                 </p>
             </div>

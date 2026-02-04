@@ -5,10 +5,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Intrusion Prevention - Querytel Inc</title>
+    <title>Intrusion Prevention - Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4/dist/css/splide.min.css">
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {
@@ -69,7 +69,7 @@
                 </h1>
                 <p class="mt-6 text-lg text-gray-600">
                     From warehouses to retail, our access control and live video monitoring keep criminals out and your
-                    assets secure 24/7, across North America.
+                    assets secure 24/7, across Pakistan.
                 </p>
                 <div class="mt-8 flex gap-4 opacity-0 animate-fadeIn delay-500">
                     <a href="#contact"
@@ -237,7 +237,7 @@
                 </div>
 
                 <p class="mt-6 text-[15px] leading-relaxed text-slate-200">
-                    According to estimates, construction companies in North America lose half a billion dollars annually
+                    According to estimates, construction companies in Pakistan lose half a billion dollars annually
                     due to stolen equipment and goods from the site.
                 </p>
                 <p class="mt-3 text-[15px] leading-relaxed text-slate-200">

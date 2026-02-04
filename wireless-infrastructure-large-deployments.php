@@ -6,23 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO -->
-  <title>Implementing Wireless Infrastructure for Large Deployments | QueryTel Knowledge Base</title>
+  <title>Implementing Wireless Infrastructure for Large Deployments | Al Musaab Knowledge Base</title>
   <meta name="description"
-    content="A complete guide by QueryTel on how to implement wireless infrastructure for large deployments. Discover how surveys, design principles, access point placement, roaming, and security contribute to reliable enterprise wireless networks." />
+    content="A complete guide by Al Musaab on how to implement wireless infrastructure for large deployments. Discover how surveys, design principles, access point placement, roaming, and security contribute to reliable enterprise wireless networks." />
   <link rel="canonical" href="https://almusaab.com/wireless-infrastructure-large-deployments/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Implementing Wireless Infrastructure for Large Deployments | QueryTel" />
+  <meta property="og:title" content="Implementing Wireless Infrastructure for Large Deployments | Al Musaab" />
   <meta property="og:description"
-    content="Precision engineering for complex environments. Learn how QueryTel builds wireless infrastructures that remain stable, secure, and high-performing." />
+    content="Precision engineering for complex environments. Learn howAl Musaabbuilds wireless infrastructures that remain stable, secure, and high-performing." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://almusaab.com/wireless-infrastructure-large-deployments/" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Implementing Wireless Infrastructure for Large Deployments | QueryTel" />
+  <meta name="twitter:title" content="Implementing Wireless Infrastructure for Large Deployments | Al Musaab" />
   <meta name="twitter:description"
     content="Expert guide on implementing wireless infrastructure for warehouses, campuses, and large commercial environments." />
 
@@ -175,7 +175,7 @@
         <div class="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mb-12">
           <p class="text-lg text-gray-900">
             Large spaces demand more than a strong signal. They require strategic planning, detailed surveying,
-            intelligent design, and exact execution. QueryTel builds wireless infrastructures that remain stable,
+            intelligent design, and exact execution. Al Musaab builds wireless infrastructures that remain stable,
             secure, and high-performing across warehouses, office campuses, retail chains, manufacturing floors, and
             multi-level facilities.
           </p>
@@ -274,7 +274,7 @@
 
           <p class="text-lg text-gray-700 mb-6">
             A wireless survey is the foundation of every large deployment. Without it, every decision becomes a gamble.
-            QueryTel performs predictive and active surveys using professional tools to capture real-world signal
+           Al Musaabperforms predictive and active surveys using professional tools to capture real-world signal
             behavior.
           </p>
 
@@ -543,7 +543,7 @@
 
           <p class="text-lg text-gray-700 mb-6">
             Large deployments increase attack surfaces. More access points mean more entry points for attackers.
-            QueryTel secures wireless networks from the beginning by applying:
+           Al Musaabsecures wireless networks from the beginning by applying:
           </p>
 
           <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -649,7 +649,7 @@
           </p>
 
           <p class="text-lg text-gray-700 mb-6">
-            QueryTel provides ongoing maintenance, monitoring, and optimization to ensure the network remains reliable
+           Al Musaabprovides ongoing maintenance, monitoring, and optimization to ensure the network remains reliable
             even as the environment changes.
           </p>
 
@@ -660,14 +660,14 @@
           </div>
         </section>
 
-        <!-- QueryTel Advantage -->
+        <!--Al MusaabAdvantage -->
         <section id="advantage" class="mb-16">
           <h2 class="text-3xl font-bold text-gray-900 mb-6 pb-3 border-b-2 border-orange-500">
-            The QueryTel Advantage in Large Deployments
+            the Al Musaab Advantage in Large Deployments
           </h2>
 
           <p class="text-lg text-gray-700 mb-6">
-            Businesses choose QueryTel for large-scale wireless solutions because we bring engineering discipline to a
+            Businesses chooseAl Musaabfor large-scale wireless solutions because we bring engineering discipline to a
             space where most companies operate by guesswork.
           </p>
 
@@ -701,7 +701,7 @@
           </div>
 
           <p class="text-xl font-bold text-center text-orange-600 mt-8">
-            QueryTel ensures it is built correctly.
+           Al Musaabensures it is built correctly.
           </p>
         </section>
 
@@ -710,7 +710,7 @@
           <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white p-8 rounded-lg text-center">
             <h2 class="text-3xl font-bold mb-4">Ready to Deploy Enterprise Wireless?</h2>
             <p class="text-lg mb-6 opacity-90">
-              Let QueryTel engineer a wireless infrastructure that performs reliably in your most challenging
+              LetAl Musaabengineer a wireless infrastructure that performs reliably in your most challenging
               environments.
             </p>
             <a href="<?= $base ?>/contactus/"

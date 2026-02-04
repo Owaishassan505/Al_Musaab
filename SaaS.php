@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SaaS Solutions — Secure, Managed & Scalable | QueryTel Inc</title>
+  <title>SaaS Solutions — Secure, Managed & Scalable | Al Musaab</title>
 
   <!-- Primary SEO -->
   <meta name="description"
@@ -14,7 +14,7 @@
     content="Managed SaaS, Microsoft 365 management, Zoho integration, Acronis backups, Teams Voice, SaaS migration, HIPAA PIPEDA compliance, Intune MDM, SSO MFA, QueryTel" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="SaaS Solutions — Secure, Managed & Scalable | QueryTel Inc" />
+  <meta property="og:title" content="SaaS Solutions — Secure, Managed & Scalable | Al Musaab" />
   <meta property="og:description"
     content="Stress-free SaaS: we deploy, integrate, secure, and back up your cloud apps with real support and clear SLAs." />
   <meta property="og:type" content="website" />
@@ -33,20 +33,20 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="SaaS Solutions — Secure, Managed & Scalable | QueryTel Inc" />
+  <meta name="twitter:title" content="SaaS Solutions — Secure, Managed & Scalable | Al Musaab" />
   <meta name="twitter:description" content="We run your SaaS like a product team—secure, backed up, and measurable." />
   <meta name="twitter:image" content="https://www.almusaab.com/assets/og/saas-hero.jpg" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- JSON-LD -->
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
     "@type":"ProfessionalService",
-    "name":"QueryTel Inc",
+    "name":"Al Musaab",
     "url":"https://www.almusaab.com",
     "logo":"https://www.almusaab.com/assets/logo.png",
     "description":"Managed SaaS solutions: Microsoft 365, Zoho, Acronis, Teams Voice. We deploy, integrate, secure, and back up your cloud apps with real support.",
-    "areaServed":["Canada","United States"],
+    "areaServed":["Pakistan","United States"],
     "sameAs":["https://www.linkedin.com/company/querytel"],
     "serviceType":[
       "Managed SaaS",
@@ -758,7 +758,7 @@
         </div>
         <div class="rounded-xl border border-slate-200 p-6">
           <p class="text-sm text-slate-500">Data Residency</p>
-          <p class="mt-1 text-xl font-semibold">Canada-first options with transparent cross-border flows</p>
+          <p class="mt-1 text-xl font-semibold">Pakistan-first options with transparent cross-border flows</p>
         </div>
         <div class="rounded-xl border border-slate-200 p-6">
           <p class="text-sm text-slate-500">SLA</p>
@@ -805,7 +805,7 @@
   <section class="relative bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 py-20">
     <div class="max-ww-5xl max-w-5xl mx-auto text-center px-6">
       <h2 class="text-3xl md:text-4xl font-bold text-white">Ready to stop babysitting software?</h2>
-      <p class="mt-4 text-lg text-slate-300 max-w-2xl mx-auto">Let QueryTel run your SaaS so your team can actually
+      <p class="mt-4 text-lg text-slate-300 max-w-2xl mx-auto">LetAl Musaabrun your SaaS so your team can actually
         work. Clean onboarding, steady ops, predictable costs.</p>
       <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
         <a href="<?= $base ?? '' ?>/contactus"

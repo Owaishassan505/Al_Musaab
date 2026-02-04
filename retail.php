@@ -5,10 +5,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Retail - Querytel Inc</title>
+    <title>Retail - Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
         tailwind.config = {
             theme: {
@@ -110,7 +110,7 @@
                 </h1>
                 <p class="mt-6 text-lg text-neutral-700">
                     From store floors to stockrooms, our innovative retail hardware ensures seamless performance, fast
-                    installs, and secure operations all across North America.
+                    installs, and secure operations all across Pakistan.
                 </p>
                 <div class="mt-8 flex gap-4 opacity-0 animate-fadeIn delay-500">
                     <a href="#contact"

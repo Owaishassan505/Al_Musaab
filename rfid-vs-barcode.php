@@ -6,23 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>RFID vs Barcode: Choosing the Right Technology | QueryTel Knowledge Base</title>
+    <title>RFID vs Barcode: Choosing the Right Technology | Al Musaab Knowledge Base</title>
     <meta name="description"
-        content="A comprehensive guide by QueryTel comparing RFID and barcode technologies for warehouse inventory management. Learn about cost, accuracy, implementation, and best use cases for each." />
+        content="A comprehensive guide by Al Musaab comparing RFID and barcode technologies for warehouse inventory management. Learn about cost, accuracy, implementation, and best use cases for each." />
     <link rel="canonical" href="https://almusaab.com/rfid-vs-barcode/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="RFID vs Barcode: Choosing the Right Technology | QueryTel" />
+    <meta property="og:title" content="RFID vs Barcode: Choosing the Right Technology | Al Musaab" />
     <meta property="og:description"
         content="Expert comparison of RFID and barcode technologies for warehouse operations and inventory management." />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://almusaab.com/rfid-vs-barcode/" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="RFID vs Barcode: Choosing the Right Technology | QueryTel" />
+    <meta name="twitter:title" content="RFID vs Barcode: Choosing the Right Technology | Al Musaab" />
     <meta name="twitter:description"
         content="Expert guide comparing RFID and barcode technologies for warehouse and inventory operations." />
 
@@ -870,7 +870,7 @@
                         </div>
                     </div>
 
-                    <h3 class="text-xl font-bold text-gray-900 mb-4">The QueryTel Approach</h3>
+                    <h3 class="text-xl font-bold text-gray-900 mb-4">Al MusaabApproach</h3>
 
                     <p class="text-2xl font-bold text-center text-orange-600 mb-8">We align technology with your goals.
                     </p>

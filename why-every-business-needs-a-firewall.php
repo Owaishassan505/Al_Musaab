@@ -6,25 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>Why Every Business Needs a Firewall | QueryTel Knowledge Base</title>
+    <title>Why Every Business Needs a Firewall | Al Musaab Knowledge Base</title>
     <meta name="description"
-        content="A complete guide by QueryTel explaining why every business needs a properly configured firewall. Learn how firewalls block threats, prevent lateral movement, enforce policies, and keep networks secure." />
+        content="A complete guide by Al Musaab explaining why every business needs a properly configured firewall. Learn how firewalls block threats, prevent lateral movement, enforce policies, and keep networks secure." />
     <link rel="canonical" href="https://almusaab.com/why-every-business-needs-a-firewall/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Why Every Business Needs a Firewall | QueryTel" />
+    <meta property="og:title" content="Why Every Business Needs a Firewall | Al Musaab" />
     <meta property="og:description"
-        content="A complete guide by QueryTel explaining why every business needs a properly configured firewall. Learn how firewalls block threats, prevent lateral movement, enforce policies, and keep networks secure." />
+        content="A complete guide by Al Musaab explaining why every business needs a properly configured firewall. Learn how firewalls block threats, prevent lateral movement, enforce policies, and keep networks secure." />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://almusaab.com/why-every-business-needs-a-firewall/" />
-    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Why Every Business Needs a Firewall | QueryTel" />
+    <meta name="twitter:title" content="Why Every Business Needs a Firewall | Al Musaab" />
     <meta name="twitter:description"
-        content="A complete guide by QueryTel explaining why every business needs a properly configured firewall." />
+        content="A complete guide by Al Musaab explaining why every business needs a properly configured firewall." />
 
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -280,7 +280,7 @@
                     </p>
 
                     <p class="text-lg text-gray-700">
-                        Without a firewall enforcing these boundaries, your systems operate with open access. Attackers love open access. It eliminates the need for sophisticated exploits. They walk in. QueryTel ensures the door stays locked, monitored, and intelligently controlled.
+                        Without a firewall enforcing these boundaries, your systems operate with open access. Attackers love open access. It eliminates the need for sophisticated exploits. They walk in. Al Musaab ensures the door stays locked, monitored, and intelligently controlled.
                     </p>
                 </section>
 
@@ -348,7 +348,7 @@
                             Internal Segmentation
                         </h4>
                         <p class="text-gray-300">
-                            QueryTel configures internal firewall zones to limit access between departments, servers, and critical systems. Even if an attacker gains a foothold, segmentation stops them instantly. They encounter locked doors at every turn.
+                           Al Musaabconfigures internal firewall zones to limit access between departments, servers, and critical systems. Even if an attacker gains a foothold, segmentation stops them instantly. They encounter locked doors at every turn.
                         </p>
                     </div>
                     <p class="text-lg text-gray-700">
@@ -375,7 +375,7 @@
                         <strong>Threat Overview (CVE-2025-59718):</strong> Attackers exploited an authentication bypass in the FortiCloud SSO feature via crafted SAML messages. This allowed for the creation of rogue admin accounts (e.g., cloud-init@mail.io) and the immediate export of sensitive firewall configurations. Over 11,000 devices remained exposed online during the height of the campaign.
                     </div>
                     
-                    <h4 class="text-lg font-bold text-gray-900 mb-4 italic">How QueryTel Responds:</h4>
+                    <h4 class="text-lg font-bold text-gray-900 mb-4 italic">HowAl MusaabResponds:</h4>
                     <p class="text-gray-700 mb-6 leading-relaxed">
                         Security is not "set it and forget it." When these exploits occur, QueryTel's managed security services respond instantly. For our clients, we immediately verify patch levels and, if necessary, disable vulnerable features (like FortiCloud SSO) via CLI to block attacks until stable patches are verified.
                     </p>
@@ -454,7 +454,7 @@
                         </table>
                     </div>
                     <p class="text-lg text-gray-700">
-                        QueryTel customizes these policies to fit your workflow, ensuring the network remains secure without compromising productivity. Policies should empower your team, not frustrate them.
+                       Al Musaabcustomizes these policies to fit your workflow, ensuring the network remains secure without compromising productivity. Policies should empower your team, not frustrate them.
                     </p>
                 </section>
 
@@ -468,7 +468,7 @@
                     </p>
                     <div class="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-lg mb-6 shadow-sm">
                         <p class="text-gray-700">
-                            Without a firewall enforcing secure tunnels, encrypted communication, and access controls, your business becomes exposed across hundreds of entry points. QueryTel configures VPNs, secure cloud gateways, and zero-trust access to protect your environment, regardless of where employees work.
+                            Without a firewall enforcing secure tunnels, encrypted communication, and access controls, your business becomes exposed across hundreds of entry points. Al Musaab configures VPNs, secure cloud gateways, and zero-trust access to protect your environment, regardless of where employees work.
                         </p>
                     </div>
                     <p class="text-lg text-gray-700">
@@ -482,12 +482,12 @@
                         Monitoring and Logging for Complete Visibility
                     </h2>
                     <p class="text-lg text-gray-700 mb-6">
-                        A firewall is also your eyes. It logs traffic, alerts you to anomalies, and exposes early signs of intrusion. These logs become critical during investigations, audits, or security reviews. QueryTel integrates firewall logs into your monitoring ecosystem so you can see:
+                        A firewall is also your eyes. It logs traffic, alerts you to anomalies, and exposes early signs of intrusion. These logs become critical during investigations, audits, or security reviews. Al Musaab integrates firewall logs into your monitoring ecosystem so you can see:
                     </p>
                     <div class="bg-white border border-gray-100 p-8 rounded-xl mb-8 shadow-sm">
                         <p class="text-gray-700 mb-4 font-medium uppercase text-xs tracking-widest text-orange-600">Unified Monitoring Insights</p>
                         <p class="text-sm text-gray-700 leading-relaxed">
-                            QueryTel integrates firewall logs into your security ecosystem to surface <strong>unauthorized access attempts</strong>, identify <strong>abnormal data transfers</strong>, flag <strong>blocked malware incidents</strong>, and investigate <strong>suspicious outbound connections</strong> in real-time.
+                           Al Musaabintegrates firewall logs into your security ecosystem to surface <strong>unauthorized access attempts</strong>, identify <strong>abnormal data transfers</strong>, flag <strong>blocked malware incidents</strong>, and investigate <strong>suspicious outbound connections</strong> in real-time.
                         </p>
                     </div>
                     <p class="text-lg text-gray-700">
@@ -507,7 +507,7 @@
                         An improperly configured firewall creates an illusion of safety while offering no real protection.
                     </p>
                     <p class="text-lg text-gray-700 mb-6">
-                        QueryTel engineers every rule with purpose. No open attack surfaces. No blind spots. A firewall should enforce structure, not chaos.
+                       Al Musaabengineers every rule with purpose. No open attack surfaces. No blind spots. A firewall should enforce structure, not chaos.
                     </p>
                 </section>
 

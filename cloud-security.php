@@ -4,26 +4,26 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cloud Security & Managed IT Services in North America | QueryTel</title>
+  <title>Cloud Security & Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
     content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak with QueryTel’s experts today." />
   <link rel="canonical" href="https://almusaab.com/cloud-security/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:site_name" content="QueryTel Inc" />
-  <meta property="og:title" content="Cloud Security & Managed IT Services in North America | QueryTel" />
+  <meta property="og:site_name" content="Al Musaab" />
+  <meta property="og:title" content="Cloud Security & Managed IT Services in Pakistan | Al Musaab" />
   <meta property="og:description"
     content="Enterprise-grade cloud security, centralized management, and threat prevention for Canadian enterprises. Powered by Fortinet." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://almusaab.com/cloud-security/" />
   <meta property="og:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
   <meta property="og:locale" content="en_CA" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@QueryTel" />
-  <meta name="twitter:title" content="Cloud Security & Managed IT Services in North America | QueryTel" />
+  <meta name="twitter:title" content="Cloud Security & Managed IT Services in Pakistan | Al Musaab" />
   <meta name="twitter:description"
     content="Fortinet-powered cloud security, built to scale across Canadian enterprises." />
   <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
@@ -36,18 +36,18 @@
   {
     "@context": "https://schema.org",
     "@type": "ITService",
-    "name": "QueryTel Inc",
+    "name": "Al Musaab",
     "url": "https://almusaab.com/cloud-security/",
     "logo": "https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png",
     "description": "Enterprise-grade cloud security and managed IT services for Canadian businesses, powered by Fortinet.",
     "provider": {
       "@type": "Organization",
-      "name": "QueryTel Inc",
+      "name": "Al Musaab",
       "url": "https://almusaab.com"
     },
     "areaServed": {
       "@type": "Country",
-      "name": "North America"
+      "name": "Pakistan"
     }
   }
   </script>
@@ -257,7 +257,7 @@
             <h2 class="text-4xl font-bold tracking-tight">Centralized Management & Visibility</h2>
             <p class="text-gray-600 mt-6 leading-relaxed">
               Simplify cloud security with centralized policy management and intuitive control,
-              leveraging Fortinet's powerful tools with QueryTel expertise.
+              leveraging Fortinet's powerful tools withAl Musaabexpertise.
             </p>
             <ul class="mt-6 space-y-3 text-gray-700 list-disc list-inside">
               <li>Unified security policies across all environments</li>

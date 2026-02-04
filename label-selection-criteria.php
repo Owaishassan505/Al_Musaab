@@ -6,23 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Primary SEO -->
-  <title>Criteria for Selecting the Right Labels | QueryTel Knowledge Base</title>
+  <title>Criteria for Selecting the Right Labels | Al Musaab Knowledge Base</title>
   <meta name="description"
-    content="A detailed guide by QueryTel explaining the criteria for selecting the correct labels for warehouses, cold storage, manufacturing, and retail. Learn how environment, materials, adhesives, and printing methods affect label performance." />
+    content="A detailed guide by Al Musaab explaining the criteria for selecting the correct labels for warehouses, cold storage, manufacturing, and retail. Learn how environment, materials, adhesives, and printing methods affect label performance." />
   <link rel="canonical" href="https://almusaab.com/label-selection-criteria/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Criteria for Selecting the Right Labels | QueryTel" />
+  <meta property="og:title" content="Criteria for Selecting the Right Labels | Al Musaab" />
   <meta property="og:description"
     content="Small details with massive operational impact. Learn how to select labels that survive your environment and support your operations reliably." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://almusaab.com/label-selection-criteria/" />
-  <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+  <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Criteria for Selecting the Right Labels | QueryTel" />
+  <meta name="twitter:title" content="Criteria for Selecting the Right Labels | Al Musaab" />
   <meta name="twitter:description"
     content="Expert guide on selecting labels for warehouses, cold storage, manufacturing, and retail operations." />
 
@@ -602,7 +602,7 @@
 
           <div class="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mt-8">
             <p class="text-gray-900">
-              QueryTel guides clients toward the right pairing of printer and label to avoid premature fading or
+             Al Musaabguides clients toward the right pairing of printer and label to avoid premature fading or
               unreadable barcodes.
             </p>
           </div>
@@ -719,10 +719,10 @@
           </div>
         </section>
 
-        <!-- QueryTel Approach -->
+        <!--Al MusaabApproach -->
         <section id="approach" class="mb-16">
           <h2 class="text-3xl font-bold text-gray-900 mb-6 pb-3 border-b-2 border-orange-500">
-            The QueryTel Approach to Label Selection
+            the Al Musaab Approach to Label Selection
           </h2>
 
           <p class="text-2xl font-bold text-center text-orange-600 mb-8">We don't guess.</p>
