@@ -203,7 +203,7 @@
                 </h1>
 
                 <p class="mt-6 text-lg sm:text-xl text-slate-600 max-w-2xl">
-                    At QueryTel, digital marketing isn’t about clicks, it’s about your business results. We design
+                    At Al Musaab, digital marketing isn’t about clicks, it’s about your business results. We design
                     ROI-driven strategies that make your website visible, competitive, and profitable. Every service is
                     built around your success, from SEO services and PPC campaigns to social media, content, and
                     conversion optimization.

@@ -138,7 +138,7 @@
           </div>
           <div class="flex items-center gap-2">
             <i data-lucide="user" class="w-4 h-4"></i>
-            <span>QueryTel Team</span>
+            <span>Al Musaab Team</span>
           </div>
         </div>
       </div>
@@ -160,7 +160,7 @@
             <a href="#adhesives" class="toc-link block text-gray-600 py-1">Adhesive Types</a>
             <a href="#printing" class="toc-link block text-gray-600 py-1">Printing Methods</a>
             <a href="#considerations" class="toc-link block text-gray-600 py-1">Additional Considerations</a>
-            <a href="#approach" class="toc-link block text-gray-600 py-1">QueryTel Approach</a>
+            <a href="#approach" class="toc-link block text-gray-600 py-1">Al Musaab Approach</a>
             <a href="#contact" class="toc-link block text-gray-600 py-1">Get Expert Help</a>
           </nav>
         </div>
@@ -202,7 +202,7 @@
           </div>
 
           <p class="text-lg text-gray-700">
-            At QueryTel, we observe label failures in environments where the wrong materials were chosen due to
+            At Al Musaab, we observe label failures in environments where the wrong materials were chosen due to
             convenience or assumption. When we help businesses select the correct labels, accuracy improves, downtime is
             reduced, and scanning becomes effortless.
           </p>
@@ -666,7 +666,7 @@
                   <span class="font-medium">Hot</span> vs <span class="font-medium">Cold</span>
                 </div>
               </div>
-              <p class="mt-4 text-sm text-gray-600">QueryTel performs environment and surface checks before recommending
+              <p class="mt-4 text-sm text-gray-600">Al Musaab performs environment and surface checks before recommending
                 any label type.</p>
             </div>
 
@@ -711,7 +711,7 @@
                   label is rarely the most cost-effective in the long term.</p>
                 <p class="text-gray-700"><i data-lucide="x" class="w-5 h-5 text-red-600 inline mr-2"></i>The most
                   expensive label might be unnecessary.</p>
-                <p class="text-gray-700"><i data-lucide="check" class="w-5 h-5 text-green-600 inline mr-2"></i>QueryTel
+                <p class="text-gray-700"><i data-lucide="check" class="w-5 h-5 text-green-600 inline mr-2"></i>Al Musaab
                   balances cost and durability by choosing labels that match the exact operational need — nothing more,
                   nothing less.</p>
               </div>

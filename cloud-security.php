@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cloud Security & Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak with QueryTel’s experts today." />
+    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak withAl Musaab’s experts today." />
   <link rel="canonical" href="https://almusaab.com/cloud-security/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
@@ -22,7 +22,7 @@
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@QueryTel" />
+  <meta name="twitter:site" content="@al_musaab" />
   <meta name="twitter:title" content="Cloud Security & Managed IT Services in Pakistan | Al Musaab" />
   <meta name="twitter:description"
     content="Fortinet-powered cloud security, built to scale across Canadian enterprises." />

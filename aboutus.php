@@ -7,22 +7,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>About Al Musaab — Sales & Support in Pakistan</title>
+    <title>About Al Musaab — Expert IT Support in Pakistan</title>
     <meta name="description"
-        content="Get in touch with Al Musaab for managed IT, cybersecurity, and cloud services. Call our Karachi HQ or reach our support desk. Open Mon–Fri, 8am–5pm." />
+        content="Learn about Al Musaab, providing reliable managed IT, cybersecurity, and cloud solutions in Pakistan since 1995. Trusted by over 50+ IT consultants." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
-    <link rel="canonical" href="https://almusaab.com/contactus/" />
-    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/contactus/" />
+    <link rel="canonical" href="https://almusaab.com/aboutus/" />
+    <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/aboutus/" />
     <meta name="theme-color" content="#0f172a" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
+    <meta property="og:title" content="About Al Musaab — Reliable IT Solutions in Pakistan" />
     <meta property="og:description"
-        content="Speak with a local expert or open a support ticket. Karachi HQ and Pakistan-wide service." />
-    <meta property="og:url" content="https://almusaab.com/contactus/" />
+        content="Over 25 years of experience in IT, cloud, and cybersecurity. Based in Karachi, serving all of Pakistan." />
+    <meta property="og:url" content="https://almusaab.com/aboutus/" />
     <meta property="og:site_name" content="Al Musaab" />
-    <meta property="og:locale" content="en_CA" />
+    <meta property="og:locale" content="en_PK" />
     <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -104,29 +104,29 @@
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
     "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
+    "description": "Managed IT, cybersecurity, and cloud solutions for businesses in Pakistan.",
     "foundingDate": "1995",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Office#212 Anum Estate Building, Shahrah e Faisal",
       "addressLocality": "Karachi",
-      "addressRegion": "ON",
+      "addressRegion": "Sindh",
       "postalCode": "75350",
-      "addressCountry": "CA"
+      "addressCountry": "PK"
     },
     "contactPoint": [{
       "@type": "ContactPoint",
       "contactType": "Sales",
       "telephone": "+92-213-4321900",
-      "areaServed": "CA",
+      "areaServed": "PK",
       "availableLanguage": ["en"]
     },{
       "@type": "ContactPoint",
       "contactType": "Technical Support",
       "email": "support@almusaab.com",
       "url": "https://helpdesk.almusaab.com/portal/en/home",
-      "areaServed": "CA",
+      "areaServed": "PK",
       "availableLanguage": ["en"]
     }]
   }
@@ -148,9 +148,9 @@
       "addressLocality":"Karachi",
       "addressRegion":"Sindh",
       "postalCode":"75350",
-      "addressRegion":"PK",
+      "addressRegion":"PK"
     },
-    "geo":{"@type":"GeoCoordinates","latitude":43.6519,"longitude":-79.6803},
+    "geo":{"@type":"GeoCoordinates","latitude":24.8607,"longitude":67.0011},
     "openingHoursSpecification":[{
       "@type":"OpeningHoursSpecification",
       "dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],
@@ -168,7 +168,7 @@
     "@id":"https://almusaab.com/#website",
     "url":"https://almusaab.com/",
     "name":"Al Musaab",
-    "inLanguage":"en-CA",
+    "inLanguage":"en-PK",
     "publisher":{"@id":"https://almusaab.com/#org"},
     "potentialAction":{
       "@type":"SearchAction",
@@ -186,7 +186,7 @@
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
     "name":"Contact Al Musaab",
-    "inLanguage":"en-CA",
+    "inLanguage":"en-PK",
     "about":{"@id":"https://almusaab.com/#org"},
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"},
     "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
@@ -224,10 +224,10 @@
     <section class="bg-white py-24">
         <div class="max-w-7xl mx-auto px-6 text-center">
             <h1 class="text-4xl md:text-5xl font-bold text-neutral-900">
-                Who We Are
+                Helping Businesses Since 1995
             </h1>
             <p class="mt-4 text-gray-600 text-lg">
-                Delivering secure IT solutions and trusted infrastructure to Canadian businesses since 1995.
+                Providing reliable IT support, secure cloud, and expert technology solutions to businesses in Pakistan.
             </p>
         </div>
     </section>
@@ -248,80 +248,73 @@
             <!-- Right: Text -->
             <div>
                 <h2 class="text-2xl md:text-3xl font-semibold text-neutral-900">
-                    Managed IT Services, Cybersecurity & Cloud Solutions in Pakistan
+                    IT Support, Security & Cloud Services in Pakistan
                 </h2>
 
                 <h3 class="text-xl font-medium text-neutral-700 mt-2 mb-4">
-                    Powering Businesses with Secure IT Since 1995
+                    Helping Businesses with Reliable Technology Since 1995
                 </h3>
 
                 <p class="text-gray-700 text-base leading-relaxed">
-                    At <span class="font-semibold">QueryTel</span>, we’ve delivered cutting-edge IT solutions
-                    across Pakistan for over two decades.
-                    Founded in 1995, our mission has always been clear: help businesses embrace technology with
-                    <span class="font-semibold">confidence, security, and reliability</span>.
+                    At <span class="font-semibold">Al Musaab</span>, we have been providing the best IT services 
+                    across Pakistan for over 25 years. 
+                    Since 1995, our goal has been simple: to help businesses use technology without any
+                    <span class="font-semibold">stress, fear, or hidden costs</span>.
                     <br /><br />
-                    With <span class="font-semibold">50+ certified IT consultants</span> and hands-on experience across
-                    <span class="font-semibold">healthcare, warehousing, retail, and professional services</span>,
-                    we blend time-tested expertise with modern infrastructure to help clients scale, secure, and
-                    succeed.
+                    With <span class="font-semibold">50+ expert IT consultants</span> and real experience in 
+                    <span class="font-semibold">hospitals, warehouses, shops, and offices</span>, 
+                    we use our deep knowledge to help our clients grow and stay safe from hackers.
                     <br /><br />
-
                 </p>
 
-                <span class="font-semibold text-lg block mb-2">Our Core Strengths</span>
+                <span class="font-semibold text-lg block mb-2">What We Do Best</span>
                 <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Greenfield & Brownfield Projects</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">New Office IT Setup</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            Whether building from scratch or reviving legacy systems, we deliver scalable, future-proof
-                            solutions.
+                            Starting a new office? We handle everything from wiring to servers so your team can start working immediately.
                         </p>
                     </div>
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Network Security & Firewall Audits</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Network Security</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            We lock down your network with precision audits, hardened firewalls, and intelligent threat
-                            defense.
+                            We check your network for gaps and block hackers and viruses before they can reach your data.
                         </p>
                     </div>
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Cloud Solutions & Migrations</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Cloud Backup</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            From cloud-first to hybrid, we migrate and manage with zero downtime and bulletproof
-                            reliability.
+                            Never lose a file again. We move your data to the cloud so it is always safe and reachable from anywhere.
                         </p>
                     </div>
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Secure Hosting & Domain Services</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Domains & Hosting</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            High-performance hosting with ironclad security, SSL, DNS management, and domain lifecycle
-                            handling.
+                            Fast website hosting with professional email and daily backups to keep your business online 24/7.
                         </p>
                     </div>
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Custom Development</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Software Development</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            Tailored web and app solutions — built clean, optimized, and aligned with your business
-                            logic.
+                            We build custom websites and business software that is easy to use and fits your specific needs.
                         </p>
                     </div>
 
                     <div
                         class="rounded-xl bg-neutral-50 border border-neutral-200 p-6 shadow-sm hover:shadow-md transition">
-                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">24/7 SOC & Helpdesk</h4>
+                        <h4 class="text-lg font-semibold text-neutral-800 mb-2">Quick Tech Support</h4>
                         <p class="text-sm text-neutral-600 leading-relaxed">
-                            Real-time threat monitoring and tech support that never sleeps — your uptime is our mission.
+                            Our team is always available to fix your tech problems quickly so you don't face any downtime.
                         </p>
                     </div>
 
@@ -364,54 +357,47 @@
             <div>
                 <span class="uppercase text-sm font-semibold text-orange-600 tracking-wider">Our Skills</span>
                 <!-- <h2 class="text-3xl md:text-4xl font-bold mt-2 text-neutral-900">Our Expertise</h2> -->
-                <p class="text-gray-600 mt-4 mb-8">At QueryTel, we specialize in:</p>
+                <p class="text-gray-600 mt-4 mb-8">At Al Musaab, we specialize in:</p>
 
                 <div class="space-y-6">
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Greenfield & Brownfield Projects</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">Office IT Setups</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-orange-500 w-[100%] rounded-full"></div>
                         </div>
                     </div>
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Firewalls Audit & Network Security</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">Cyber Security & Protection</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-emerald-600 w-[100%] rounded-full"></div>
                         </div>
                     </div>
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Cloud Solutions & Migrations</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">Cloud Backup & Storage</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-sky-500 w-[100%] rounded-full"></div>
                         </div>
                     </div>
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Secure Web Hosting & Domain Services</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">Web Hosting & Emails</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-rose-600 w-[100%] rounded-full"></div>
                         </div>
                     </div>
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Customized Development</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">Software & App Development</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-indigo-500 w-[100%] rounded-full"></div>
                         </div>
                     </div>
 
                     <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">Tailored Marketing Campaigns</p>
-                        <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
-                            <div class="h-full bg-yellow-500 w-[100%] rounded-full"></div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <p class="text-sm font-medium text-neutral-800 mb-1">24/7 SOC & Helpdesk</p>
+                        <p class="text-sm font-medium text-neutral-800 mb-1">24/7 Technical Support</p>
                         <div class="h-2 bg-neutral-200 rounded-full overflow-hidden">
                             <div class="h-full bg-purple-500 w-[100%] rounded-full"></div>
                         </div>
@@ -458,15 +444,12 @@
         <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-3 gap-12 items-center">
             <!-- Left: Our Clients -->
             <div>
-                <h3 class="text-2xl text-neutral-900 mb-4">Proud Partners of Over <b>50 Leading IT Consultants</b>
+                <h3 class="text-2xl text-neutral-900 mb-4">Working Together with <b>50+ IT Experts</b>
                     across Pakistan</h3>
                 <div class="h-0.5 w-10 bg-neutral-300 mb-6"></div>
                 <p class="text-gray-600 text-md leading-relaxed">
-                    At QueryTel, collaboration is at the heart of what we do. We proudly partner with over 50 of
-                    Pakistan’s top IT consultants, combining their expertise with our innovative solutions to
-                    deliver
-                    exceptional value to businesses nationwide. Together, we ensure organizations have access to the
-                    latest technologies, strategic insights, and reliable support that drive long-term success.
+                    At Al Musaab, we believe in teamwork. We work with over 50 of
+                    Pakistan’s best IT consultants to bring you the best technology and advice. Together, we make sure your business has everything it needs to grow and succeed in today’s world.
                 </p>
             </div>
 
@@ -479,13 +462,11 @@
             <!-- Right: 26 Years Experience -->
             <div>
                 <h3 class="text-4xl font-bold text-orange-600 leading-tight">
-                    <span class="block">Time-Tested </span>
-                    <span class="text-neutral-900">Solutions & Experience</span>
+                    <span class="block">Proven Experience, </span>
+                    <span class="text-neutral-900">Better Results</span>
                 </h3>
                 <div class="h-0.5 w-10 bg-neutral-300 my-6"></div>
-                <p class="text-gray-600 text-md leading-relaxed">At QueryTel, we invest time understanding your business
-                    goals and long-term vision. Our IT experts ensure that your technology aligns perfectly with your
-                    <b>growth strategy, modernization needs, and competitive edge.</b>
+                <p class="text-gray-600 text-md leading-relaxed">At Al Musaab, we spend time to understand your business first. Our team makes sure your tech works perfectly with your <b>long-term goals, growth, and team needs.</b>
                 </p>
             </div>
         </div>
@@ -516,19 +497,13 @@
 
                 <!-- Paragraphs -->
                 <p class="text-lg text-gray-700 leading-relaxed">
-                    At QueryTel, every project we take on comes with one promise: <b>we deliver results that last</b>.
-                    We don’t
-                    stop at solving your problem we redefine it, expand the opportunity, and build a solution that is
-                    designed to scale across your entire organization.
-                    No quick fixes. No temporary patches. Our solutions are engineered from the ground up to be robust,
-                    enterprise-ready, and built with performance, cost, and long-term ROI in mind.
+                    At Al Musaab, we promise one thing: <b>we fix things for good</b>. We don’t just handle your problems; we build systems that grow with you and help your entire business run better.
+                    No quick fixes or cheap patches. Our solutions are built to be strong, fast, and simple to manage.
                 </p>
 
                 <p class="text-lg text-gray-700 leading-relaxed mt-6">
-                    Our experts go beyond the obvious, looking at the implications for every corner of your business. We
-                    guarantee technology that reduces risk, cuts costs, drives growth, and aligns perfectly with your
-                    future.
-                    With us, satisfaction isn’t a hope — <b>it’s a certainty.</b>
+                    Our experts look at every part of your business to make sure the tech helps you save money and grow. 
+                    With us, you don't have to worry about your IT — <b>it just works.</b>
                 </p>
 
             </div>

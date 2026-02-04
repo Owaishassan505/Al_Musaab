@@ -7,22 +7,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Contact Al Musaab — Sales & Support in Pakistan</title>
+  <title>Contact Al Musaab — IT Support & Sales in Pakistan</title>
   <meta name="description"
-    content="Reach Al Musaab for managed IT, cloud, and cybersecurity. Call Karachi HQ or open a support ticket. Mon–Fri, 8am–5pm. Pakistan-wide coverage." />
+    content="Get in touch with Al Musaab for managed IT, cloud, and cybersecurity in Pakistan. Call our Karachi HQ or reach our support desk. Mon–Fri, 8am–5pm." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/contactus/" />
-  <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/contactus/" />
+  <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/contactus/" />
   <meta name="theme-color" content="#0f172a" />
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
+  <meta property="og:title" content="Contact Al Musaab — Expert IT Support in Pakistan" />
   <meta property="og:description"
-    content="Speak with a local expert or reach our helpdesk. Karachi HQ and Pakistan-wide service." />
+    content="Speak with a local expert or reach our helpdesk. Karachi HQ and Pakistan-wide services." />
   <meta property="og:url" content="https://almusaab.com/contactus/" />
   <meta property="og:site_name" content="Al Musaab" />
-  <meta property="og:locale" content="en_CA" />
+  <meta property="og:locale" content="en_PK" />
   <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -95,7 +95,7 @@
     "@id":"https://almusaab.com/contactus/#contactpage",
     "url":"https://almusaab.com/contactus/",
     "name":"Contact Al Musaab",
-    "inLanguage":"en-CA",
+    "inLanguage":"en-PK",
     "about":{"@id":"https://almusaab.com/#org"},
     "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
     "lastReviewed":"2025-08-18",
@@ -162,12 +162,10 @@
       <!-- Text Column -->
       <div class="opacity-0 animate-fadeInLeft">
         <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-neutral-900 leading-tight">
-          Let’s connect <br> Your solution starts here.
+          Let’s Connect. <br> Your solution starts here.
         </h1>
         <p class="mt-6 text-lg text-gray-600">
-          Contact us across Pakistan for IT, cloud, and managed service inquiries. We're always ready to discuss
-          tech or
-          solve real-world problems.
+          Contact us for IT support, cloud services, and any technology inquiries. Our Karachi-based team is ready to help your business grow.
         </p>
         <div class="mt-8 flex gap-4 opacity-0 animate-fadeIn delay-500">
           <a href="#contact"
@@ -228,7 +226,7 @@
           Karachi, Pakistan
         </p>
         <p class="text-sm text-gray-500 mb-4">
-          Mon – Fri · 8:00 a.m. – 5:00 p.m. EST
+          Mon – Fri · 8:00 a.m. – 5:00 p.m. PKT
         </p>
         <p class="text-gray-700 font-medium">Phone:</p>
         <a href="tel:+922134321900" class="text-sm ">+92-213-4321900</a>
@@ -411,7 +409,7 @@
           <div class="w-full">
             <div class="w-full aspect-video overflow-hidden">
               <iframe id="map-iframe"
-                data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d369421.4094649415!2d-79.68477!3d43.666791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3f02ae724ab3%3A0x5d9af5abd43879f8!2s7025%20Tomken%20Rd%2C%20Karachi%2C%20ON%20L5T%202J8%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1754486829326!5m2!1sen!2sus"
+                data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.9168131338603!2d67.07077421500366!3d24.86073428405527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33ea0a8a71999%3A0x67399589d8d172e!2sShahrah-e-Faisal%2C%20Karachi%2C%20Pakistan!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s"
                 width="100%" height="100%" style="border: 0" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

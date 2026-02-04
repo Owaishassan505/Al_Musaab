@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Office Connect Plans — QueryTel</title>
+    <title>Office Connect Plans —Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
@@ -1106,7 +1106,7 @@
     <section class="bg-gray-50 py-20">
         <div class="max-w-5xl mx-auto px-6 text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-neutral-900">Ready to modernize your voice?</h2>
-            <p class="mt-4 text-gray-600 max-w-2xl mx-auto">QueryTel Office Connect brings clarity, simplicity, and
+            <p class="mt-4 text-gray-600 max-w-2xl mx-auto">Al Musaab Office Connect brings clarity, simplicity, and
                 reliability to every call.</p>
             <div class="mt-8 flex justify-center gap-4">
                 <a href="<?= $base ?>/contactus?s=office-connect" class="oc-btn oc-btn-primary px-8 py-4">Request a

@@ -137,7 +137,7 @@
                     </div>
                     <div class="flex items-center gap-2">
                         <i data-lucide="user" class="w-4 h-4"></i>
-                        <span>QueryTel Team</span>
+                        <span>Al Musaab Team</span>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@
 
                     <div class="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-lg mb-6 shadow-sm">
                         <p class="text-gray-700 italic">
-                            At QueryTel, we treat firewalls as strategic security devices, not simple network accessories. When deployed correctly, a firewall becomes the architectural backbone of your cybersecurity posture.
+                            At Al Musaab, we treat firewalls as strategic security devices, not simple network accessories. When deployed correctly, a firewall becomes the architectural backbone of your cybersecurity posture.
                         </p>
                     </div>
 
@@ -377,7 +377,7 @@
                     
                     <h4 class="text-lg font-bold text-gray-900 mb-4 italic">HowAl MusaabResponds:</h4>
                     <p class="text-gray-700 mb-6 leading-relaxed">
-                        Security is not "set it and forget it." When these exploits occur, QueryTel's managed security services respond instantly. For our clients, we immediately verify patch levels and, if necessary, disable vulnerable features (like FortiCloud SSO) via CLI to block attacks until stable patches are verified.
+                        Security is not "set it and forget it." When these exploits occur,Al Musaab's managed security services respond instantly. For our clients, we immediately verify patch levels and, if necessary, disable vulnerable features (like FortiCloud SSO) via CLI to block attacks until stable patches are verified.
                     </p>
                     
                     <div class="bg-orange-600 text-white p-6 rounded-xl shadow-lg">
@@ -399,7 +399,7 @@
                         Expert Guide: Firewall Rule Best Practices
                     </h2>
                     <p class="text-lg text-gray-700 mb-6">
-                        A firewall is only as effective as its configuration. At QueryTel, we follow a rigorous <strong>"Default Deny"</strong> philosophy. If a connection isn't explicitly required for your business to function, it is blocked by default.
+                        A firewall is only as effective as its configuration. At Al Musaab, we follow a rigorous <strong>"Default Deny"</strong> philosophy. If a connection isn't explicitly required for your business to function, it is blocked by default.
                     </p>
 
                     <div class="grid md:grid-cols-2 gap-8 mb-8">
@@ -535,7 +535,7 @@
                 <div id="contact" class="bg-gradient-to-r from-orange-500 to-orange-600 rounded-2xl p-8 md:p-12 text-center text-white mb-8">
                     <h2 class="text-3xl font-bold mb-4">Ready to Secure Your Perimeter?</h2>
                     <p class="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-                        Don't leave your business exposed. Get a comprehensive firewall assessment and expert configuration from QueryTel.
+                        Don't leave your business exposed. Get a comprehensive firewall assessment and expert configuration fromAl Musaab.
                     </p>
                     <div class="flex flex-wrap gap-4 justify-center">
                         <a href="<?= $base ?>/contactus/" class="bg-white text-orange-600 px-8 py-4 rounded-lg font-semibold shadow-lg transition flex items-center gap-2 hover:bg-gray-100">

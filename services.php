@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>IT Services in Pakistan | Managed IT, Cloud, Cybersecurity & VoIP | Al Musaab</title>
+    <title>IT Services in Pakistan | IT Support, Cloud & Security | Al Musaab</title>
     <meta name="description"
-        content="Explore QueryTel’s enterprise IT services: Managed IT, cloud infrastructure, cybersecurity, warehousing & network builds, and Office Connect VoIP. Built for Canadian businesses." />
+        content="Simple and reliable IT services in Pakistan: IT Support, Cloud, Security, and Networking. Helping local businesses grow since 1995." />
     <link rel="canonical" href="https://almusaab.com/services/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
@@ -254,7 +254,7 @@
     "@context":"https://schema.org",
     "@type":"ItemList",
     "@id":"https://almusaab.com/services/#list",
-    "name":"QueryTel Services",
+    "name":"Al Musaab Services",
     "itemListOrder":"https://schema.org/ItemListOrderAscending",
     "itemListElement":[
       { "@type":"ListItem", "position":1, "url":"https://almusaab.com/managedservices/", "name":"Managed Services" },
@@ -291,15 +291,14 @@
         <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
             <div>
                 <h1 class="text-4xl md:text-5xl font-semibold tracking-tight leading-tight">
-                    Services that make your IT invisible and your team faster.
+                    IT services that work quietly so you can work faster.
                 </h1>
                 <p class="mt-6 text-lg text-neutral-700">
-                    From network rollouts to endpoint hardening, pick what you need or bundle it. Flat, predictable,
-                    scalable.
+                    From setting up a new office to keeping your data safe. Pick what you need or get a full package. Simple, reliable, and affordable.
                 </p>
                 <div class="mt-8 flex gap-3">
-                    <a href="#catalog" class="qt-btn qt-btn-primary px-8 py-3">Browse Services</a>
-                    <a href="<?= $base ?>/contactus" class="qt-btn qt-btn-secondary px-8 py-3">Get a Quote</a>
+                    <a href="#catalog" class="qt-btn qt-btn-primary px-8 py-3">View Services</a>
+                    <a href="<?= $base ?>/contactus" class="qt-btn qt-btn-secondary px-8 py-3">Contact Us</a>
                 </div>
             </div>
             <div class="md:block hidden">
@@ -320,41 +319,41 @@
                     <?php
                     $services = [
                         // title, category, desc, image(url), slug
-                        // Managed Services
-                        ["24/7 Help Desk Support", "Managed Services", "Always-on user support with clear SLAs.", "/assets/images/SAO.webp", "24-7-help-desk-support"],
-                        ["Field Services", "Managed Services", "On-site install, break/fix, and structured cabling.", "/assets/images/field-service.jpeg", "field-services"],
-                        ["Datacenter Operations", "Managed Services", "Monitoring, maintenance, and capacity planning.", "/assets/images/Depositphotos_287797174_XL-1024x576.jpg", "datacenter-operations"],
-                        ["Network Infrastructure Operations", "Managed Services", "Lifecycle, config, and change control for switches/routers.", "/assets/images/NIO.jpg", "network-infrastructure-operations"],
-                        ["End-User Computing Infrastructure", "Managed Services", "Device imaging, policies, and updates at scale.", "/assets/images/EUC.webp", "end-user-computing-infrastructure"],
-                        ["Greenfield Projects", "Managed Services", "New-site buildouts from design to go-live.", "/assets/images/Greenfield-Project.jpg", "greenfield-projects"],
-                        ["Procurement Services", "Managed Services", "Sourcing, licensing, and logistics with preferred pricing.", "/assets/images/1653946676832-1-1024x683.jpeg", "procurement-services"],
-                        ["Staff Augmentation / Outsourcing", "Managed Services", "Extra hands or full teams to hit deadlines.", "/assets/images/SAO1.webp", "staff-augmentation-outsourcing"],
+                        // IT Support
+                        ["24/7 Help Desk Support", "IT Support", "Technical support available 24/7 to fix any problem.", "/assets/images/SAO.webp", "24-7-help-desk-support"],
+                        ["Field Services", "IT Support", "On-site visits to install equipment and fix hardware.", "/assets/images/field-service.jpeg", "field-services"],
+                        ["Server & Data Support", "IT Support", "Keeping your servers running smoothly and safely.", "/assets/images/Depositphotos_287797174_XL-1024x576.jpg", "datacenter-operations"],
+                        ["Network & Router Support", "IT Support", "Setting up and managing your office Wi-Fi and cables.", "/assets/images/NIO.jpg", "network-infrastructure-operations"],
+                        ["Computers & Mobile Support", "IT Support", "Setting up and fixing laptops, desktops, and phones.", "/assets/images/EUC.webp", "end-user-computing-infrastructure"],
+                        ["New Office IT Setup", "IT Support", "We handle all IT setup for your new office or site.", "/assets/images/Greenfield-Project.jpg", "greenfield-projects"],
+                        ["Buying IT Equipment", "IT Support", "We help you buy the right laptops and gear at best prices.", "/assets/images/1653946676832-1-1024x683.jpeg", "procurement-services"],
+                        ["Extra IT Staff Support", "IT Support", "Providing temporary experts for your big IT projects.", "/assets/images/SAO1.webp", "staff-augmentation-outsourcing"],
 
-                        // Managed Security Services
-                        ["Infrastructure Security", "Managed Security Services", "Harden networks, segment traffic, & enforce policy.", "/assets/images/iNTERNET-SECURITY-1024x761.png", "infrastructure-security"],
-                        ["24-Hour Monitoring & Mitigation", "Managed Security Services", "Continuous detection and response.", "/assets/images/24-hour-security.webp", "24-hour-monitoring-mitigation"],
-                        ["Patch/Vulnerability Monitoring", "Managed Security Services", "Track CVEs, patch cadence, and exceptions.", "/assets/images/Vulnerability-Monitoring-Assessment-Mitigation.webp", "patch-vulnerability-monitoring"],
-                        ["Securing Segregation of IT/OT Devices", "Managed Security Services", "Segment critical systems safely.", "/assets/images/SOC-monitoring.png", "securing-segregation-it-ot"],
-                        ["Certificate Management", "Managed Security Services", "Issue, rotate, and audit certs without surprises.", "/assets/images/Certificate-Management.webp", "certificate-management"],
+                        // Security Services
+                        ["Network Protection", "Security Services", "Protecting your network from hackers and threats.", "/assets/images/iNTERNET-SECURITY-1024x761.png", "infrastructure-security"],
+                        ["24/7 Security Monitoring", "Security Services", "Continuous watch to stop attacks immediately.", "/assets/images/24-hour-security.webp", "24-hour-monitoring-mitigation"],
+                        ["Update & Gap Checks", "Security Services", "Scanning for weak points and keeping software updated.", "/assets/images/Vulnerability-Monitoring-Assessment-Mitigation.webp", "patch-vulnerability-monitoring"],
+                        ["Secure Office Connections", "Security Services", "Making sure your office devices connect safely.", "/assets/images/SOC-monitoring.png", "securing-segregation-it-ot"],
+                        ["Security Certificate Management", "Security Services", "Managing website and email security certificates.", "/assets/images/Certificate-Management.webp", "certificate-management"],
 
-                        // Web & Digital Services
-                        ["Dynamic Web Development", "Web & Digital Services", "Modern, performant sites on proven stacks.", "/assets/images/depositphotos_652767038-stock-illustration-man-code-guy-writes-code.webp", "dynamic-web-development"],
-                        ["E-Commerce Site Development & Management", "Web & Digital Services", "Secure storefronts with smooth ops.", "/assets/images/ecommerce.webp", "ecommerce-development-management"],
-                        ["Intranet/SharePoint Development & Management", "Web & Digital Services", "Internal portals that people use.", "/assets/images/intranet.webp", "intranet-sharepoint-development-management"],
-                        ["Web Catalog Development & Management", "Web & Digital Services", "Product catalogs with a search that finds things.", "/assets/images/web-catalog.webp", "web-catalog-development-management"],
-                        ["Chatbot Deployment & Training", "Web & Digital Services", "Automate FAQs and workflows safely.", "/assets/images/chatbot.webp", "chatbot-deployment-training"],
-                        ["Workflow Automation", "Web & Digital Services", "Zap the busywork; ship the work that matters.", "/assets/images/workflow-automation.webp", "workflow-automation"],
+                        // Web & App Services
+                        ["Website Development", "Web & App Services", "Modern and fast websites for your business.", "/assets/images/depositphotos_652767038-stock-illustration-man-code-guy-writes-code.webp", "dynamic-web-development"],
+                        ["E-Commerce Shop Setup", "Web & App Services", "Building secure online stores for your products.", "/assets/images/ecommerce.webp", "ecommerce-development-management"],
+                        ["Staff Portals & Intranet", "Web & App Services", "Simple internal websites for your staff to work together.", "/assets/images/intranet.webp", "intranet-sharepoint-development-management"],
+                        ["Online Product Catalogs", "Web & App Services", "Listing your products online with easy search.", "/assets/images/web-catalog.webp", "web-catalog-development-management"],
+                        ["Auto-Chat Solutions", "Web & App Services", "Chatbots to answer customer questions automatically.", "/assets/images/chatbot.webp", "chatbot-deployment-training"],
+                        ["Work Automation", "Web & App Services", "Automating boring tasks to save time and money.", "/assets/images/workflow-automation.webp", "workflow-automation"],
 
                         // Application Security
-                        ["Secure Onboarding", "Application Security", "Provision users/apps securely from day one.", "/assets/images/Untitled-design-7.png", "secure-onboarding"],
-                        ["Single Sign-On (SSO)", "Application Security", "One login, strong authentication, happy users.", "/assets/images/Single-Sign-On-SSO.webp", "single-sign-on-sso"],
-                        ["Monitoring", "Application Security", "Watch app health and threats in one place.", "/assets/images/threat-monitoring.webp", "application-monitoring"],
-                        ["Lifecycle Management", "Application Security", "Joiners/movers/leavers done right.", "/assets/images/undefined.png", "lifecycle-management"],
+                        ["Secure User Setup", "Application Security", "Setting up new staff on software safely.", "/assets/images/Untitled-design-7.png", "secure-onboarding"],
+                        ["One-Click Login (SSO)", "Application Security", "One safe login for all your business apps.", "/assets/images/Single-Sign-On-SSO.webp", "single-sign-on-sso"],
+                        ["App Health Monitoring", "Application Security", "Watching your business apps for speed and safety.", "/assets/images/threat-monitoring.webp", "application-monitoring"],
+                        ["Software Access Control", "Application Security", "Managing who can access what software in your office.", "/assets/images/undefined.png", "lifecycle-management"],
 
                         // Testing & Auditing
-                        ["Penetration Testing", "Testing & Auditing", "Find issues before attackers do.", "/assets/images/Penetration-testing-1.webp", "penetration-testing"],
-                        ["Auditing Security Controls", "Testing & Auditing", "Evidence, controls, and gaps documented.", "/assets/images/Untitled-design-9.png", "auditing-security-controls"],
-                        ["Remediation", "Testing & Auditing", "Fix quickly with prioritized actions.", "/assets/images/Untitled-design-10.png", "remediation"],
+                        ["Security Guard Testing", "Testing & Auditing", "Testing your security to find gaps before hackers do.", "/assets/images/Penetration-testing-1.webp", "penetration-testing"],
+                        ["Security Check-ups", "Testing & Auditing", "Checking if your security rules are working correctly.", "/assets/images/Untitled-design-9.png", "auditing-security-controls"],
+                        ["Fixing Security Gaps", "Testing & Auditing", "Quickly fixing any weak points we find in your system.", "/assets/images/Untitled-design-10.png", "remediation"],
                     ];
                     $cats = array_values(array_unique(array_map(fn($s) => $s[1], $services)));
                     ?>
@@ -403,18 +402,15 @@
             <div class="space-y-6">
                 <details class="qt-card p-5">
                     <summary class="font-medium cursor-pointer">Can I combine multiple services?</summary>
-                    <p class="mt-3 text-sm text-neutral-700">Yes. Mix-and-match or pick a bundle. We’ll scope and price
-                        predictably.</p>
+                    <p class="mt-3 text-sm text-neutral-700">Yes. You can pick one service or many together. We will give you a clear and fixed price before we start any work.</p>
                 </details>
                 <details class="qt-card p-5">
-                    <summary class="font-medium cursor-pointer">Do you handle multi-site rollouts?</summary>
-                    <p class="mt-3 text-sm text-neutral-700">Yep. Standardized configs, staged deployment, nightly
-                        windows, zero-drama cutovers.</p>
+                    <summary class="font-medium cursor-pointer">Do you handle new setups for multiple offices?</summary>
+                    <p class="mt-3 text-sm text-neutral-700">Yes. We can setup IT for all your office locations. We handle everything carefully so your business stays online without any trouble.</p>
                 </details>
                 <details class="qt-card p-5">
-                    <summary class="font-medium cursor-pointer">Support &amp; SLAs?</summary>
-                    <p class="mt-3 text-sm text-neutral-700">24/7 monitoring options with clear SLAs. We’ll match what
-                        your operations need.</p>
+                    <summary class="font-medium cursor-pointer">What kind of support do you provide?</summary>
+                    <p class="mt-3 text-sm text-neutral-700">We offer 24/7 technical support. Our team is always ready to fix any problems quickly so your work never stops.</p>
                 </details>
             </div>
         </div>
@@ -522,13 +518,11 @@
                 <main class="flex-1 min-h-0 overflow-y-auto px-6 md:px-8 pb-6">
                     <article id="svc-sheet-desc" class="mt-4 space-y-4 text-neutral-900"></article>
 
-                    <div class="mt-8 flex flex-col sm:flex-row gap-3">
+                <div class="mt-8 flex flex-col sm:flex-row gap-3">
                         <a href="<?= $base ?>/contactus"
-                            class="qt-btn qt-btn-primary px-6 py-3 text-base text-center sm:w-auto w-full">Talk to an
-                            Expert</a>
+                            class="qt-btn qt-btn-primary px-6 py-3 text-base text-center sm:w-auto w-full">Talk to an Expert</a>
                         <a id="svc-sheet-quote" href="#"
-                            class="qt-btn qt-btn-secondary px-6 py-3 text-base text-center sm:w-auto w-full">Get a
-                            Quote</a>
+                            class="qt-btn qt-btn-secondary px-6 py-3 text-base text-center sm:w-auto w-full">Contact Us</a>
                     </div>
                 </main>
             </div>
@@ -539,41 +533,41 @@
         document.addEventListener('DOMContentLoaded', () => {
             // ========= Long copy (valid JS) =========
             const longCopy = {
-                // Managed Services
-                "24-7-help-desk-support": `QueryTel provides 24/7 Help Desk Support to maintain operational continuity and reduce downtime across your IT environment. Our dedicated support teams handle technical incidents, service requests, and general user assistance with transparent processes and defined SLAs. We ensure rapid response, efficient issue resolution, and escalation management to keep your business operations uninterrupted, day or night.`,
-                "field-services": `QueryTel offers Field Services to support on-site infrastructure requirements across distributed environments. Our certified technicians provide hardware installation, maintenance, troubleshooting, and emergency response for critical systems. These services ensure physical IT assets remain operational, secure, and aligned with organizational standards, reducing operational risks associated with downtime or technical failures.`,
-                "datacenter-operations": `QueryTel delivers comprehensive Data Center Operations to ensure critical infrastructure availability, performance, and security. Our services cover routine maintenance, proactive monitoring, incident response, and capacity management to support business continuity. We align operations with industry best practices and compliance standards, helping organizations optimize data center efficiency while minimizing risk and downtime.`,
-                "network-infrastructure-operations": `QueryTel provides Network Infrastructure Operations to maintain secure, resilient, high-performance network environments. Our services include proactive monitoring, configuration management, fault resolution, and performance optimization for wired and wireless networks. We ensure stable connectivity across core, distribution, and access layers, supporting critical business applications and communications with minimal disruption.`,
-                "end-user-computing-infrastructure": `QueryTel manages End-User Computing Infrastructure to support the full lifecycle of workplace devices, including desktops, laptops, mobile devices, and peripherals. Our services cover provisioning, maintenance, updates, and security management to ensure a consistent and reliable user experience. We help organizations enhance productivity by maintaining device compliance, performance, and security across diverse operational environments.`,
-                "greenfield-projects": `QueryTel provides end-to-end services for Greenfield Projects, delivering new IT infrastructure deployments aligned with business objectives and industry standards. Our solutions cover planning, design, procurement, installation, and operational handover of IT systems. We ensure new environments are scalable, secure, and optimized to support future growth, minimizing risk during initial build phases and enabling seamless operational readiness.`,
-                "procurement-services": `QueryTel offers Procurement Services to simplify the acquisition of IT hardware, software, and licensing. We leverage established vendor relationships to ensure timely delivery, competitive pricing, and alignment with technical and operational requirements. Our procurement process reduces lead times, controls costs, and ensures compatibility with existing and planned IT environments.`,
-                "staff-augmentation-outsourcing": `QueryTel provides staff augmentation and outsourcing services to extend internal IT capabilities with skilled professionals across key disciplines. We offer flexible engagement models to support project-based needs or ongoing operations. Our resources integrate with existing teams to address skill gaps, manage workload fluctuations, and deliver specialized expertise without the overhead of permanent hiring.`,
+                // IT Support
+                "24-7-help-desk-support": `Al Musaab provides 24/7 help desk support to keep your business running smoothly. Our team is always ready to fix any tech problems, answer questions, and help your staff quickly. We make sure you don't face any downtime, day or night.`,
+                "field-services": `Al Musaab offers on-site visits to fix hardware and setup network cables. Our expert technicians come to your office to install equipment and solve physical IT problems as soon as they happen.`,
+                "datacenter-operations": `Al Musaab manages your server rooms and data to make sure your business information is always safe and reachable. We monitor your systems daily to prevent any crashes or data loss.`,
+                "network-infrastructure-operations": `Al Musaab sets up and manages your office Wi-Fi, routers, and network switches. We make sure you have stable and fast internet across your entire office without any interruptions.`,
+                "end-user-computing-infrastructure": `Al Musaab handles all your office devices like laptops, desktops, and mobile phones. We set them up with the right software and rules so your team can work securely.`,
+                "greenfield-projects": `Al Musaab handles the full IT setup for new offices. From initial wiring to setting up servers and Wi-Fi, we make sure your new office is ready for work from day one.`,
+                "procurement-services": `Al Musaab helps you buy the best IT hardware and software at the right prices. We handle the shopping and delivery so you get the equipment that fits your business needs perfectly.`,
+                "staff-augmentation-outsourcing": `Al Musaab provides expert IT staff to help your team with big projects. We give you the extra hands you need to finish work on time without hiring permanent staff.`,
 
-                // Managed Security Services
-                "infrastructure-security": `QueryTel delivers comprehensive Infrastructure Security services to protect critical IT environments from evolving cyber threats. Our approach combines continuous monitoring, proactive threat management, and enforced security controls to safeguard network infrastructure, data centers, and hybrid environments. We help organizations maintain operational resilience, meet compliance standards, and reduce risk across their infrastructure.`,
-                "24-hour-monitoring-mitigation": `QueryTel provides 24-hour security monitoring and threat mitigation to safeguard critical infrastructure. Our continuous surveillance detects anomalies in real time, enabling rapid identification, containment, and resolution of security incidents to minimize operational impact.`,
-                "patch-vulnerability-monitoring": `QueryTel offers proactive vulnerability management, including continuous monitoring, risk assessment, and structured patching. We prioritize remediation that is aligned with best practices to protect systems against known vulnerabilities. `,
-                "securing-segregation-it-ot": `We implement and enforce security measures to segregate IT and Operational Technology (OT) environments, reducing the risk of cross-contamination between critical systems. Our solutions align with industry frameworks to enhance resilience and maintain regulatory compliance.`,
-                "certificate-management": `QueryTel provides centralized Certificate Management to ensure digital certificates' validity, security, and lifecycle control. We maintain visibility, automate renewals, and enforce policies to protect secure communications and organizational assets.`,
+                // Security Services
+                "infrastructure-security": `Al Musaab protects your business network from hackers and online threats. We set up strong safety walls (firewalls) and monitor your data to keep everything safe for your team.`,
+                "24-hour-monitoring-mitigation": `Al Musaab watches your systems 24 hours a day to stop any cyber attacks immediately. If we see anything strange, we fix it before it can harm your business.`,
+                "patch-vulnerability-monitoring": `Al Musaab scans your systems for any weak points and keeps all your software updated. This stops hackers from finding easy ways into your business data.`,
+                "securing-segregation-it-ot": `We separate your office devices from your critical business machines to make sure a problem in one area doesn't spread to the other. This keeps your main systems safe.`,
+                "certificate-management": `Al Musaab manages your website security certificates to keep your online pages and emails safe. We make sure they never expire, so your customers always trust your site.`,
 
-                // Web & Digital Services
-                "dynamic-web-development": `QueryTel delivers Dynamic Web Development tailored to modern business needs. We build responsive, scalable, and secure web applications for customer-facing and internal use cases, aligning technical capabilities with business objectives and long-term maintainability.`,
-                "ecommerce-development-management": `QueryTel provides end-to-end E-Commerce Site Development and management. We integrate platforms with payment, inventory, and logistics to ensure operational efficiency and data integrity and maintain performance, security, and scalability over time.`,
-                "intranet-sharepoint-development-management": `QueryTel delivers Intranet/SharePoint solutions to enhance collaboration, document management, and communication. We design secure, scalable platforms aligned with processes and governance, with customization, integration, and lifecycle management.`,
-                "web-catalog-development-management": `QueryTel builds web catalogs that handle complex product inventories with a search function that finds things. We integrate with ERP/CRM/ CRM/e-commerce for real-time accuracy across pricing, stock, and specifications, focusing on integrity and performance.`,
-                "chatbot-deployment-training": `QueryTel deploys enterprise-grade chatbots integrated with CRM, service desks, and knowledge bases to automate FAQs and workflows. We handle data-driven training, conversation optimization, and lifecycle management to keep responses accurate and on-brand.`,
-                "workflow-automation": `QueryTel delivers Workflow Automation that connects systems, triggers actions, and streamlines approvals, reporting, and notifications. We reduce manual intervention without disrupting core processes, emphasizing accuracy, consistency, and maintainability.`,
+                // Web & App Services
+                "dynamic-web-development": `Al Musaab builds fast and modern websites for your business that work perfectly on phones and computers. We make sure your site is easy to use and helps you get more customers.`,
+                "ecommerce-development-management": `Al Musaab builds secure online shops where you can sell your products easily. We handle the payment setup and inventory so you can focus on selling.`,
+                "intranet-sharepoint-development-management": `Al Musaab builds simple internal websites for your staff to share files and work together. This makes it easy for your team to communicate and find information.`,
+                "web-catalog-development-management": `Al Musaab builds online product catalogs that are easy for customers to browse. We include a smart search feature so people can find exactly what they are looking for.`,
+                "chatbot-deployment-training": `Al Musaab sets up auto-chat systems that answer common customer questions instantly. This saves your staff time and gives your customers quick answers 24/7.`,
+                "workflow-automation": `Al Musaab automates repetitive office tasks like reporting and approvals. This saves your team hours of work every week and stops manual mistakes.`,
 
                 // Application Security
-                "secure-onboarding": `QueryTel provides Secure Onboarding to integrate new applications with appropriate controls from day one. We assess configurations, enforce policies, and align onboarding with organizational security standards.`,
-                "single-sign-on-sso": `We deliver Single Sign-On (SSO) solutions to simplify authentication and improve security posture. Centralized access management reduces credential risk and improves user experience across apps.`,
-                "application-monitoring": `QueryTel implements continuous application monitoring to detect anomalies, unauthorized access, and threats. Our monitoring integrates with broader security operations for proactive detection and rapid response.`,
-                "lifecycle-management": `We manage application security lifecycles from deployment through decommissioning, including assessments, updates, and control enforcement to stay aligned with evolving threats and compliance.`,
+                "secure-onboarding": `Al Musaab makes sure newly hired staff are set up with the right software and safety rules from their first day. We handle the permissions so they can start working safely.`,
+                "single-sign-on-sso": `We set up one-click login for all your office software. This means your staff only needs to remember one password to access everything securely.`,
+                "application-monitoring": `Al Musaab watches your business software to make sure it is always fast and safe. We fix any speed issues or threats before they affect your work.`,
+                "lifecycle-management": `We manage who has access to your business software from the day they join until the day they leave. This keeps your sensitive company data safe.`,
 
                 // Testing & Auditing
-                "penetration-testing": `QueryTel conducts Penetration Testing to identify exploitable vulnerabilities across networks, applications, and infrastructure. We simulate real-world attacks and provide prioritized remediation guidance.`,
-                "auditing-security-controls": `We perform comprehensive audits of security controls for effectiveness and compliance, providing visibility into control performance and gaps with clear, actionable findings.`,
-                "remediation": `QueryTel delivers structured Remediation to address vulnerabilities and deficiencies identified in assessments and audits, with prioritized actions and implementation support for measurable improvement.`
+                "penetration-testing": `Al Musaab tests your security by trying to "hack" it like a real attacker would. This helps us find and fix any gaps before real hackers can find them.`,
+                "auditing-security-controls": `We check your security rules to make sure they are actually working. We give you a clear report on what is safe and what needs to be improved.`,
+                "remediation": `Al Musaab quickly fixes any gaps or weak points found in your security checks. We prioritize the most important areas to keep your business safe immediately.`
             };
 
             // Merge with any existing map
@@ -716,7 +710,7 @@
             });
 
             // Optional API
-            window.QuerytelModal = { open: openSheet, close: closeSheet };
+            window.AlMusaabModal = { open: openSheet, close: closeSheet };
         });
     </script>
 </body>

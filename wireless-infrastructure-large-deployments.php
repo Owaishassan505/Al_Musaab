@@ -137,7 +137,7 @@
           </div>
           <div class="flex items-center gap-2">
             <i data-lucide="user" class="w-4 h-4"></i>
-            <span>QueryTel Team</span>
+            <span>Al Musaab Team</span>
           </div>
         </div>
       </div>
@@ -163,7 +163,7 @@
             <a href="#security" class="toc-link block text-gray-600 py-1">Security</a>
             <a href="#testing" class="toc-link block text-gray-600 py-1">Testing & Validation</a>
             <a href="#monitoring" class="toc-link block text-gray-600 py-1">Ongoing Monitoring</a>
-            <a href="#advantage" class="toc-link block text-gray-600 py-1">QueryTel Advantage</a>
+            <a href="#advantage" class="toc-link block text-gray-600 py-1">Al Musaab Advantage</a>
           </nav>
         </div>
       </aside>
@@ -211,7 +211,7 @@
 
           <div class="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-lg">
             <p class="text-lg font-semibold text-gray-900">
-              At QueryTel, we engineer wireless networks for large environments by relying on data, planning, and
+              At Al Musaab, we engineer wireless networks for large environments by relying on data, planning, and
               precision. Nothing is left to guesswork because guesswork is what creates downtime, dead zones, and daily
               operational headaches.
             </p>
@@ -331,7 +331,7 @@
           </p>
 
           <div class="bg-green-50 p-6 rounded-lg border border-green-200 mb-6">
-            <p class="font-semibold text-gray-900 mb-4">QueryTel designs for:</p>
+            <p class="font-semibold text-gray-900 mb-4">Al Musaab designs for:</p>
             <div class="grid md:grid-cols-2 gap-3">
               <div class="flex items-center gap-2">
                 <i data-lucide="check-circle" class="w-5 h-5 text-green-600 flex-shrink-0"></i>
@@ -399,7 +399,7 @@
           </p>
 
           <div class="bg-blue-50 p-6 rounded-lg border border-blue-200 mb-6">
-            <p class="font-semibold text-gray-900 mb-4">QueryTel ensures:</p>
+            <p class="font-semibold text-gray-900 mb-4">Al Musaab ensures:</p>
             <ul class="space-y-3 text-gray-700">
               <li class="flex items-start gap-3">
                 <i data-lucide="ruler" class="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5"></i>
@@ -501,7 +501,7 @@
           </p>
 
           <div class="bg-orange-50 p-6 rounded-lg border border-orange-200">
-            <p class="font-semibold text-gray-900 mb-4">QueryTel designs for:</p>
+            <p class="font-semibold text-gray-900 mb-4">Al Musaab designs for:</p>
             <ul class="space-y-2 text-gray-700">
               <li class="flex items-start gap-2">
                 <i data-lucide="users" class="w-5 h-5 text-orange-600 flex-shrink-0 mt-0.5"></i>
@@ -710,7 +710,7 @@
           <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white p-8 rounded-lg text-center">
             <h2 class="text-3xl font-bold mb-4">Ready to Deploy Enterprise Wireless?</h2>
             <p class="text-lg mb-6 opacity-90">
-              LetAl Musaabengineer a wireless infrastructure that performs reliably in your most challenging
+              Let Al Musaab engineer a wireless infrastructure that performs reliably in your most challenging
               environments.
             </p>
             <a href="<?= $base ?>/contactus/"

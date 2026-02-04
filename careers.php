@@ -7,22 +7,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan</title>
+    <title>Careers at Al Musaab — Jobs & Hiring in Pakistan</title>
     <meta name="description"
-        content="Join Al Musaab to build secure, modern IT for Canadian businesses. Explore our culture, perks, and roles in security, cloud, networking, and engineering." />
+        content="Join Al Musaab to build secure, modern IT for businesses in Pakistan. Explore our culture, perks, and roles in security, cloud, and networking." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/careers/" />
-    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/careers/" />
+    <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/careers/" />
     <meta name="theme-color" content="#0f172a" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta property="og:description"
-        content="Protect enterprises, innovate in security, and shape the future of tech with QueryTel. See roles and life at QueryTel." />
+        content="Protect enterprises, innovate in security, and shape the future of tech withAl Musaab. See roles and life at Al Musaab." />
     <meta property="og:url" content="https://almusaab.com/careers/" />
     <meta property="og:site_name" content="Al Musaab" />
-    <meta property="og:locale" content="en_CA" />
+    <meta property="og:locale" content="en_PK" />
     <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -31,7 +31,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta name="twitter:description"
-        content="Grow your career in managed IT, cybersecurity, and cloud. Explore life at QueryTel." />
+        content="Grow your career in managed IT, cybersecurity, and cloud. Explore life at Al Musaab." />
     <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
 
     <!-- Icons -->
@@ -97,8 +97,8 @@
     "@type":"WebPage",
     "@id":"https://almusaab.com/careers/#webpage",
     "url":"https://almusaab.com/careers/",
-    "name":"Careers at QueryTel",
-    "inLanguage":"en-CA",
+    "name":"Careers at Al Musaab",
+    "inLanguage":"en-PK",
     "isPartOf":{"@id":"https://almusaab.com/#website"},
     "about":{"@id":"https://almusaab.com/#org"},
     "lastReviewed":"2025-08-18",
@@ -125,7 +125,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Field Sales Representative",
-      "description": "<p>QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.</p><p>As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.</p>",
+      "description": "<p>Al Musaab is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.</p><p>As an IT Field Sales Representative at Al Musaab, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.</p>",
       "datePosted": "2026-01-09",
       "validThrough": "2026-03-31",
       "employmentType": "FULL_TIME",
@@ -140,18 +140,17 @@
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Karachi",
-          "addressRegion": "ON",
-          "addressCountry": "CA"
+          "addressRegion": "Sindh",
+          "addressCountry": "PK"
         }
       },
       "baseSalary": {
         "@type": "MonetaryAmount",
-        "currency": "CAD",
+        "currency": "PKR",
         "value": {
           "@type": "QuantitativeValue",
-          "minValue": 25.00,
-          "maxValue": 30.00,
-          "unitText": "HOUR"
+          "value": 0,
+          "unitText": "MONTH"
         }
       },
       "applicantLocationRequirements": {
@@ -176,11 +175,10 @@
         <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
             <div class="animate-fadeUp">
                 <h1 class="text-4xl md:text-5xl font-bold leading-tight">
-                    Build the Future with <span class="text-white">Querytel</span>
+                    Build the Future with <span class="text-white">Al Musaab</span>
                 </h1>
                 <p class="mt-6 text-lg text-orange-50">
-                    Join a team that protects enterprises, innovates in security, and shapes the future of technology in
-                    Pakistan.
+                    Join our team to help build and protect the future of IT in Pakistan.
                 </p>
                 <div class="mt-8 flex gap-4">
                     <a href="#openings"
@@ -189,7 +187,7 @@
                     </a>
                     <!-- <a href="#life"
                         class="inline-block border border-white text-white px-6 py-3 rounded hover:bg-white hover:text-brandorange transition">
-                        Life at Querytel
+                        Life at Al Musaab
                     </a> -->
                 </div>
             </div>
@@ -206,7 +204,7 @@
             <!-- Header -->
             <div class="text-center max-w-3xl mx-auto">
                 <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">
-                    Join <span class="text-brandorange">QueryTel</span>
+                    Join <span class="text-brandorange">Al Musaab</span>
                 </h1>
                 <p class="mt-4 text-lg text-gray-600">
                     Be part of a growing team that’s shaping the future of technology solutions across Pakistan.
@@ -223,22 +221,21 @@
             <!-- Why Join Us -->
             <div class="mt-16 grid md:grid-cols-3 gap-10">
                 <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
-                    <h3 class="text-xl font-semibold text-gray-900">Innovative Culture</h3>
+                    <h3 class="text-xl font-semibold text-gray-900">Great Workplace</h3>
                     <p class="mt-3 text-gray-600">
-                        Work in an environment that fosters creativity, collaboration, and the freedom to bring your
-                        ideas to life.
+                        Work in a friendly environment where your new ideas are always welcome and valued.
                     </p>
                 </div>
                 <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
                     <h3 class="text-xl font-semibold text-gray-900">Growth & Learning</h3>
                     <p class="mt-3 text-gray-600">
-                        Access training, certifications, and mentorship programs to expand your skills and career path.
+                        Learn new skills with our experts and get the training you need to grow your career.
                     </p>
                 </div>
                 <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
-                    <h3 class="text-xl font-semibold text-gray-900">Impactful Work</h3>
+                    <h3 class="text-xl font-semibold text-gray-900">Important Work</h3>
                     <p class="mt-3 text-gray-600">
-                        Join projects that make a real difference in industries' security, networking, and IT solutions.
+                        Join projects that make a real difference for businesses across Pakistan.
                     </p>
                 </div>
             </div>
@@ -259,7 +256,7 @@
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                                             </svg>
-                                            Karachi, ON (In Person)
+                                            Karachi, Pakistan (In Person)
                                         </span>
                                         <span class="flex items-center gap-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -271,7 +268,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                                             </svg>
-                                            CA$25.00 - CA$30.00 / hour
+                                            Competitive Salary
                                         </span>
                                     </div>
                                 </div>
@@ -282,14 +279,14 @@
                             </div>
 
                             <div class="mt-8 border-t border-gray-100 pt-6">
-                                <h4 class="text-lg font-semibold text-gray-900 mb-2">About QueryTel</h4>
+                                <h4 class="text-lg font-semibold text-gray-900 mb-2">About Al Musaab </h4>
                                 <p class="text-gray-600 mb-4 leading-relaxed">
-                                   Al Musaabis a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.
+                                   Al Musaab is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Karachi region.
                                 </p>
 
                                 <h4 class="text-lg font-semibold text-gray-900 mb-2">Role Overview</h4>
                                 <p class="text-gray-600 mb-4 leading-relaxed">
-                                    As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.
+                                    As an IT Field Sales Representative at Al Musaab, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.
                                 </p>
 
                                 <div class="grid md:grid-cols-2 gap-8">
@@ -297,7 +294,7 @@
                                         <h4 class="text-lg font-semibold text-gray-900 mb-2">Key Responsibilities</h4>
                                         <ul class="list-disc list-inside text-gray-600 space-y-2 mb-4">
                                             <li>Identify and approach potential clients through cold calls, networking, and in-person meetings.</li>
-                                            <li>Present and demonstrate QueryTel’s products and services effectively to prospects.</li>
+                                            <li>Present and demonstrateAl Musaab’s products and services effectively to prospects.</li>
                                             <li>Negotiate and close sales to achieve and exceed targets.</li>
                                             <li>Maintain detailed records of sales activities and client information in the CRM system.</li>
                                             <li>Provide feedback on market trends, customer needs, and competitive activity.</li>
@@ -319,10 +316,10 @@
 
                                 <h4 class="text-lg font-semibold text-gray-900 mb-2">What We Offer</h4>
                                 <ul class="list-disc list-inside text-gray-600 mb-4 space-y-1">
-                                    <li>Competitive base salary plus commission.</li>
-                                    <li>Travel allowance.</li>
-                                    <li>Ongoing training and professional growth opportunities.</li>
-                                    <li>A dynamic, supportive team environment.</li>
+                                    <li>Good salary and bonuses based on your performance.</li>
+                                    <li>Travel allowance for field visits.</li>
+                                    <li>Chances to learn and grow your career with us.</li>
+                                    <li>A friendly and supportive team environment.</li>
                                 </ul>
                             </div>
                             <div class="mt-6 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-500 border-t border-gray-100 pt-4">

@@ -1148,7 +1148,7 @@
     <section id="heatmap" class="relative py-24 bg-slate-50">
         <div class="max-w-6xl mx-auto px-6 text-center mb-12">
             <h2 class="text-4xl font-bold text-slate-900">Coverage, Visualized</h2>
-            <p class="mt-3 text-lg text-slate-600">Drag the slider to compare network health before and after QueryTel
+            <p class="mt-3 text-lg text-slate-600">Drag the slider to compare network health before and afterAl Musaab
                 optimization.</p>
         </div>
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cyber Backup Cloud - QueryTel</title>
+    <title>Cyber Backup Cloud -Al Musaab</title>
     <meta name="description"
         content="Air-gapped, encrypted, policy-driven cloud backup for endpoints, servers, and SaaS. Instant recovery. Ransomware-safe snapshots." />
     <script src="https://cdn.tailwindcss.com"></script>

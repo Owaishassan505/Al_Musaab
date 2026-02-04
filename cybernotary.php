@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cyber Notary - QueryTel</title>
+  <title>Cyber Notary -Al Musaab</title>
   <meta name="description"
     content="Tamper-evident document notarization with blockchain-backed proofs, time-stamping, and easy verification." />
   <script src="https://cdn.tailwindcss.com"></script>

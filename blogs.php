@@ -14,7 +14,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>QueryTel Journal — IT, Security & Cloud</title>
+    <title>Al Musaab Journal — IT, Security & Cloud</title>
     <meta name="description" content="Field-tested insights on IT, cybersecurity, networking, and cloud." />
     <meta name="theme-color" content="#0f172a" />
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />

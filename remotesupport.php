@@ -193,7 +193,7 @@
     <section class="bg-neutral-900 text-white py-16">
         <div class="max-w-6xl mx-auto px-6">
             <h1 class="text-3xl md:text-4xl font-bold">
-                Receive Remote Assistance Support from QueryTel
+                Receive Remote Assistance Support fromAl Musaab
             </h1>
             <p class="mt-4 text-white/80 max-w-4xl">
                 Remote Assistance Support fromAl Musaaballows aAl Musaabsupport professional in another location
@@ -206,7 +206,7 @@
     <section class="bg-white py-16">
         <div class="max-w-6xl mx-auto px-6">
             <h2 class="text-3xl md:text-4xl font-extrabold text-neutral-900">
-                Agreement For <span class="text-[#f97316]">QueryTel Services</span>
+                Agreement For <span class="text-[#f97316]">Al Musaab Services</span>
             </h2>
             <div class="mt-3 h-[2px] w-24 bg-neutral-200"></div>
 
@@ -231,7 +231,7 @@
                     This Agreement forAl MusaabServices (<span class="italic text-[#f97316]">‘the agreement’</span>)
                     is entered into by and between the entity ordering the services
                     (<span class="italic font-semibold text-[#f97316]">‘you’, ‘your’ or ‘customer’</span>)
-                    and the closestAl Musaabaffiliate located in your country or region, unless we designate otherwise
+                    and the closest Al Musaab affiliate located in your country or region, unless we designate otherwise
                     in
                     Section 9 below (<span class="italic font-semibold text-[#f97316]">‘we’, ‘us’ or ‘our’</span>).
                     <span class="italic text-[#f97316]">‘Affiliate’</span> means any legal entity that you or we own,
@@ -583,7 +583,7 @@
                                 are
                                 located in the following countries/regions: Australia, Bangladesh, Hong Kong, India,
                                 Indonesia, Korea, Malaysia, New Zealand, Philippines, Singapore, Sri-Lanka, Taiwan,
-                                Thailand, and Vietnam. the Al Musaab contracting entity for this agreement is QueryTel
+                                Thailand, and Vietnam. the Al Musaab contracting entity for this agreement isAl Musaab
                                 Inc. Pakistan, Limited if you are located in any country in Europe, Middle East, or
                                 Africa. Last updated: January 2019</p>
                         </div>
@@ -635,7 +635,7 @@
                     </p>
 
                     <p class="text-neutral-600">
-                        This product information should not be considered an endorsement by QueryTel.
+                        This product information should not be considered an endorsement byAl Musaab.
                        Al Musaabmay <span class="font-semibold text-orange-600">discontinue</span> the use of this tool
                         without prior notice.
                     </p>

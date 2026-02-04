@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cyber Protect — QueryTel</title>
+    <title>Cyber Protect —Al Musaab</title>
     <meta name="description"
         content="Next-gen cyber protection: backup, anti-malware, patching, and recovery in one lightweight platform." />
     <script src="https://cdn.tailwindcss.com"></script>

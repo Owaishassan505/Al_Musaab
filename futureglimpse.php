@@ -844,7 +844,7 @@
             <div class="relative bg-gradient-to-br from-orange-600 to-blue-700 text-white flex items-center">
                 <div class="px-8 py-20 lg:px-16 max-w-xl">
 
-                    <span class="block text-sm font-semibold tracking-wider uppercase text-white/80">QueryTel</span>
+                    <span class="block text-sm font-semibold tracking-wider uppercase text-white/80">Al Musaab</span>
 
                     <h2 class="mt-3 text-3xl md:text-5xl font-extrabold leading-tight">
                         Experience Technology<br>
@@ -922,7 +922,7 @@
                 <div class="md:col-span-6 lg:col-span-5">
                     <div class="relative rounded-2xl bg-white/5 ring-1 ring-white/10 p-6 md:p-8 backdrop-blur">
                         <p class="text-slate-300 leading-relaxed">
-                           Al Musaabis actively deploying warehouse-grade IT solutions across Pakistan, including
+                           Al Musaab is actively deploying warehouse-grade IT solutions across Pakistan, including
                             hardened network infrastructure, AI-powered video surveillance, and identity-based remote
                             access. From cold-rated CAT6 cabling to redundant 10G fiber, our systems are built for
                             uptime in the harshest operational environments.

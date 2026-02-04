@@ -3,7 +3,7 @@
 
         <!-- Column 1: Logo + Brief + NAP + Social Media -->
         <div>
-            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="QueryTel Logo" class="h-10 mb-4"
+            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="Al Musaab Logo" class="h-10 mb-4"
                 loading="lazy" />
 
 
@@ -12,7 +12,7 @@
                 1995.</p>
 
             <div class="mt-4 space-y-1">
-                <p><strong>Address:</strong> Office#212 Anum Estate Building, Shahrah e Faisal, Karachi, ON 75350, Pakistan</p>
+                <p><strong>Address:</strong> Office#212 Anum Estate Building, Shahrah e Faisal, Karachi, Sindh 75350, Pakistan</p>
                 <p><strong>Hours:</strong> Mon–Fri 8:00–17:00 (local)</p>
                 <p><strong>Tel:</strong> <a href="tel:+922134321900" class="hover:underline">+92-213-4321900</a></p>
                 <p><strong>Email:</strong> <a href="mailto:callback@almusaab.com"

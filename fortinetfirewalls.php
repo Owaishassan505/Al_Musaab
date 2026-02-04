@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fortinet Firewalls (FortiGate) - QueryTel</title>
+    <title>Fortinet Firewalls (FortiGate) -Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {

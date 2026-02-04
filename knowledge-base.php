@@ -8,7 +8,7 @@
   <!-- Primary SEO -->
   <title>Knowledge Base | Al Musaab - Expert Guides & Resources</title>
   <meta name="description"
-    content="Browse QueryTel's comprehensive knowledge base. Expert guides on warehouse labeling, network infrastructure, cybersecurity, and IT best practices for Canadian businesses." />
+    content="BrowseAl Musaab's comprehensive knowledge base. Expert guides on warehouse labeling, network infrastructure, cybersecurity, and IT best practices for Canadian businesses." />
   <link rel="canonical" href="https://almusaab.com/knowledgebase/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 

@@ -217,7 +217,7 @@
                     Your AI. Your Decisions. Your Growth.
                 </span>
                 <p class="mt-6 text-lg sm:text-xl text-slate-600 max-w-2xl">
-                    Your business deserves more than just data — it deserves intelligence that drives results. QueryTel
+                    Your business deserves more than just data — it deserves intelligence that drives results.Al Musaab
                     helps enterprises unlock the power of Artificial Intelligence with solutions built for your
                     industry. From predictive analytics and NLP to computer vision and generative AI, we design and
                     deploy models that accelerate efficiency, innovation, and long-term growth.
@@ -310,7 +310,7 @@
                 </h2>
                 <p class="mt-4 text-xl text-neutral-600">
                     AI isn’t the future, it’s your competitive edge today. We combine AI, Machine Learning, and Deep
-                    Learning to build solutions around your challenges, data, and growth goals. With QueryTel, AI
+                    Learning to build solutions around your challenges, data, and growth goals. WithAl Musaab, AI
                     doesn’t just work, it works for you.
                 </p>
             </div>

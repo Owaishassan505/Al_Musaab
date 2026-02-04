@@ -1174,7 +1174,7 @@
                         <i class="fas fa-arrow-right text-orange-600 text-2xl mb-2"></i>
                     </div>
                     <div>
-                        <h4 class="font-bold text-neutral-900 mb-2">QueryTel Agent Mindset</h4>
+                        <h4 class="font-bold text-neutral-900 mb-2">Al Musaab Agent Mindset</h4>
                         <p class="text-sm text-neutral-600">
                             "We build it. You own it. You have the code. You control the security. If you want to leave,
                             take it with you. No vendor lock-in."

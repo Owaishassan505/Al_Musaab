@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Acronis Cyber Files Cloud — QueryTel</title>
+    <title>Acronis Cyber Files Cloud —Al Musaab</title>
     <meta name="description"
         content="Secure, enterprise-grade file sync & share with policy controls, auditing, and deep Microsoft integration. Brand it your way and manage centrally." />
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>

@@ -128,7 +128,7 @@
             <!-- INTRO TEXT -->
             <div class="opacity-0 animate-fadeIn" style="animation-delay: 0.1s">
                 <p class="text-neutral-700 leading-relaxed text-lg">
-                    This Privacy Policy explains how Al Musaab ("QueryTel", "we", "our", or "us") collects, uses,
+                    This Privacy Policy explains how Al Musaab ("Al Musaab", "we", "our", or "us") collects, uses,
                     discloses, and protects your personal information when you visit our website, interact with our
                     online content and advertisements (including Meta Lead Ads), submit a form, request support, or use
                     any of our IT and related services. By using our website or providing your information to us, you
@@ -195,7 +195,7 @@
                 <p class="text-neutral-700 leading-relaxed mb-6">
                     Where you have provided consent or where permitted by law, we may use your contact information to
                     send you service updates, newsletters, invitations to events, and marketing communications related
-                    to QueryTel's services. You may opt out of marketing communications at any time.
+                    toAl Musaab's services. You may opt out of marketing communications at any time.
                 </p>
                 <p class="text-neutral-700 leading-relaxed">
                     We may use your information to comply with legal and regulatory obligations, respond to lawful
@@ -357,7 +357,7 @@
                     </div>
                 </div>
                 <p class="text-neutral-700 leading-relaxed">
-                    Our website may contain links to external websites thatAl Musaabdoes not operate or control. We are
+                    Our website may contain links to external websites thAt Al Musaabdoes not operate or control. We are
                     not responsible for their privacy practices.
                 </p>
             </div>

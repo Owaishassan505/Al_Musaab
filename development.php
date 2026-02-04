@@ -247,7 +247,7 @@ export const route = {
   <section class="relative bg-white py-20">
     <div class="max-w-7xl mx-auto px-6 text-center">
       <h2 class="text-3xl md:text-4xl font-bold text-neutral-900">
-        Why build with <span class="text-orange-600">QueryTel</span>?
+        Why build with <span class="text-orange-600">Al Musaab</span>?
       </h2>
       <p class="mt-4 text-lg text-neutral-600 max-w-2xl mx-auto">
         We don’t just write code — we deliver solutions that scale, stay secure, and look damn good while doing it.

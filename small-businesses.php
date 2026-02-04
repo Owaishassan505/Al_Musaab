@@ -476,7 +476,7 @@
                                 finger, or one-tap login. Fast for your team. Blocked for attackers.
                             </p>
                             <p class="text-gray-600 leading-relaxed">
-                                <span class="font-semibold text-gray-900">With Querytel:</span> You get big-company
+                                <span class="font-semibold text-gray-900">With Al Musaab:</span> You get big-company
                                 security without the big-company hassle. Setup is simple, and your team never wastes
                                 time on passwords again.
                             </p>
@@ -506,7 +506,7 @@
                                 second. Stops new attacks before they start. Works anywhere.
                             </p>
                             <p class="text-gray-600 leading-relaxed">
-                                <span class="font-semibold text-gray-900">With Querytel:</span> You get nonstop
+                                <span class="font-semibold text-gray-900">With Al Musaab:</span> You get nonstop
                                 protection without needing a big IT team. Everything just runs in the background while
                                 your staff works without worry.
                             </p>
@@ -537,7 +537,7 @@
                                 saved in cloud. One click, everything back.
                             </p>
                             <p class="text-gray-600 leading-relaxed">
-                                <span class="font-semibold text-gray-900">With Querytel:</span> You don’t have to think
+                                <span class="font-semibold text-gray-900">With Al Musaab:</span> You don’t have to think
                                 about backups again. We set it up, monitor it, and make sure it’s always ready so you
                                 can relax knowing your files are safe.
                             </p>

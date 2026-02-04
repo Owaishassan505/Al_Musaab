@@ -188,7 +188,7 @@
                 </span>
                 <p class="mt-6 text-lg sm:text-xl text-slate-600 max-w-2xl">
                     Your business needs more than code — it needs solutions that scale, connect, and drive measurable
-                    results. At QueryTel, we engineer full-stack applications, APIs, automations, and dashboards
+                    results. At Al Musaab, we engineer full-stack applications, APIs, automations, and dashboards
                     designed to remove your bottlenecks and accelerate your growth. From SaaS platforms to enterprise
                     workflows, we design and deliver systems that adapt to your business today and evolve with your
                     goals tomorrow.

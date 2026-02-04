@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Al Musaab — Managed IT, Cybersecurity & Cloud Services</title>
+  <title>Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan</title>
   <meta name="description"
-    content="Al Musaab delivers managed IT, cybersecurity, & cloud solutions since 1995. Secure, scalable, and fully managed IT support tailored to your growth." />
+    content="Al Musaab provides managed IT, cybersecurity, & cloud solutions in Pakistan since 1995. Reliable, secure, and expert IT support for your business growth." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/" />
-  <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/" />
+  <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/" />
   <meta name="theme-color" content="#0f172a" />
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
@@ -29,18 +29,18 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan" />
   <meta property="og:description"
-    content="Managed IT support, enterprise cloud hosting, and Fortinet-powered cybersecurity for Canadian businesses. Since 1995." />
+    content="Managed IT support, enterprise cloud hosting, and Fortinet-powered cybersecurity for businesses in Pakistan. Serving since 1995." />
   <meta property="og:image" content="https://almusaab.com/assets/images/homepage-banner.png" />
   <meta property="og:url" content="https://almusaab.com/" />
   <meta property="og:site_name" content="Al Musaab" />
-  <meta property="og:locale" content="en_CA" />
+  <meta property="og:locale" content="en_PK" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan" />
   <meta name="twitter:description"
-    content="Trusted IT, cloud, and cybersecurity partner for Canadian businesses. Grow securely with Al Musaab" />
+    content="Trusted IT, cloud, and cybersecurity partner for businesses in Pakistan. Grow securely with Al Musaab" />
   <meta name="twitter:image" content="https://almusaab.com/assets/images/homepage-banner.png" />
 
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
@@ -130,23 +130,23 @@
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
     "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
+    "description": "Managed IT, cybersecurity, and cloud solutions for businesses in Pakistan.",
     "foundingDate": "1995",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Office#212 Anum Estate Building, Shahrah e Faisal",
       "addressLocality": "Karachi",
-      "addressRegion": "ON",
+      "addressRegion": "Sindh",
       "postalCode": "75350",
-      "addressCountry": "CA"
+      "addressCountry": "PK"
     },
     "contactPoint": [
       {
         "@type": "ContactPoint",
         "contactType": "Sales",
         "telephone": "+92-213-4321900",
-        "areaServed": "CA",
+        "areaServed": "PK",
         "availableLanguage": ["en"]
       },
       {
@@ -154,7 +154,7 @@
         "contactType": "Technical Support",
         "email": "support@almusaab.com",
         "url": "https://helpdesk.almusaab.com/portal/en/home",
-        "areaServed": "CA",
+        "areaServed": "PK",
         "availableLanguage": ["en"]
       }
     ]
@@ -177,9 +177,9 @@
       "addressLocality":"Karachi",
       "addressRegion":"Sindh",
       "postalCode":"75350",
-      "addressRegion":"PK",
+      "addressRegion":"PK"
     },
-    "geo":{"@type":"GeoCoordinates","latitude":43.6519,"longitude":-79.6803},
+    "geo":{"@type":"GeoCoordinates","latitude":24.8607,"longitude":67.0011},
     "openingHoursSpecification":[{
       "@type":"OpeningHoursSpecification",
       "dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],
@@ -197,7 +197,7 @@
     "@id":"https://almusaab.com/#website",
     "url":"https://almusaab.com/",
     "name":"Al Musaab",
-    "inLanguage":"en-CA",
+    "inLanguage":"en-PK",
     "publisher":{"@id":"https://almusaab.com/#org"},
     "potentialAction":{
       "@type":"SearchAction",
@@ -215,7 +215,7 @@
     "@id":"https://almusaab.com/#services",
     "serviceType":"Managed IT, Cybersecurity & Cloud",
     "provider":{"@id":"https://almusaab.com/#org"},
-    "areaServed":"CA",
+    "areaServed":"PK",
     "offers":{
       "@type":"OfferCatalog",
       "name":"IT & Cybersecurity",
@@ -275,16 +275,15 @@
               <div class="mx-auto px-6 md:px-12 grid md:grid-cols-2 items-center min-h-[680px]">
                 <div class="max-w-xl text-white">
                   <h1 class="text-4xl md:text-5xl font-semibold tracking-tight leading-tight">
-                    Managed IT & Cybersecurity Solutions for your Business
+                    Expert IT Support & Cyber Security for Your Business
                   </h1>
                   <p class="mt-5 text-lg text-white/90 leading-relaxed">
-                    Scale your business with world-class IT solutions designed for reliability, security, and measurable
-                    ROI so you can focus on what matters most.
+                    Grow your business with reliable IT services that keep your systems running smoothly and securely. We handle the tech so you can focus on your work.
                   </p>
                   <div class="mt-8">
                     <a href="<?= $base . '/contactus' ?>"
                       class="inline-block bg-white text-black px-6 py-3 rounded-md font-medium shadow hover:bg-gray-200 transition">
-                      Let’s Transform Your IT
+                      Get Expert IT Support
                     </a>
                   </div>
                 </div>
@@ -297,11 +296,10 @@
             <div class="max-w-7xl mx-auto px-6 md:px-12 grid md:grid-cols-2 gap-12 items-center min-h-[650px]">
               <div>
                 <h2 class="text-4xl md:text-5xl font-semibold tracking-tight text-neutral-900 leading-tight">
-                  Digital Infrastructure<br />Made Human.
+                  Easy IT Setup <br />for Your Office.
                 </h2>
                 <p class="mt-6 text-lg text-gray-600">
-                  Your network shouldn’t be complex. We design and manage the backbone of your tech so you can focus on
-                  growth, speed, and control.
+                  Setting up your business network shouldn’t be a headache. We design and manage your office tech so you can focus on working and growing your business.
                 </p>
                 <div class="mt-8 flex gap-4">
                   <a href="#services"
@@ -323,11 +321,10 @@
             <div class="max-w-7xl mx-auto px-6 md:px-12 grid md:grid-cols-2 gap-12 items-center min-h-[650px]">
               <div>
                 <h2 class="text-4xl md:text-5xl font-semibold tracking-tight text-neutral-900 leading-tight">
-                  Scale Securely. <br />Lead Confidently.
+                  Work Securely. <br />Grow Faster.
                 </h2>
                 <p class="mt-6 text-lg text-gray-600">
-                  Whether it’s cloud, hybrid, or a rushed setup from last year, we secure, streamline, and future-proof
-                  your infrastructure without disruption.
+                  Whether you are using cloud or office servers, we keep your data safe and your systems running without any breaks.
                 </p>
                 <div class="mt-8 flex gap-4">
 
@@ -349,11 +346,10 @@
             <div class="max-w-7xl mx-auto px-6 md:px-12 grid md:grid-cols-2 gap-12 items-center min-h-[650px]">
               <div>
                 <h2 class="text-4xl md:text-5xl font-semibold tracking-tight text-neutral-900 leading-tight">
-                  One Dashboard.<br /> Total Control.
+                  One Simple Screen.<br /> Total Control.
                 </h2>
                 <p class="mt-6 text-lg text-gray-600">
-                  Monitor, automate, and manage your entire IT infrastructure from a single, clean interface, no more
-                  guessing games.
+                  Watch and control all your office computers and servers from one simple screen. No more confusing tech problems or guessing games.
                 </p>
                 <div class="mt-8 flex gap-4">
 
@@ -382,13 +378,12 @@
                 </div>
 
                 <h2 class="text-4xl md:text-5xl font-semibold tracking-tight text-neutral-900 leading-tight">
-                  One Stop Shop for Your
-                  <br />IT Needs
+                  Easy Way to Buy
+                  <br />IT Equipment
                 </h2>
 
                 <p class="mt-6 text-lg text-gray-600">
-                  Brokerband provides reliable IT products, networking equipment, and business-ready technology sourced
-                  from trusted distributors. Designed for efficient purchasing and dependable delivery.
+                  Buy the best laptops, Wi-Fi routers, and office gear easily. We provide trusted tech products and handle the delivery so everything reaches your office safely.
                 </p>
 
                 <!-- Subtext -->
@@ -462,58 +457,57 @@
           [
             "icon" => '<i data-lucide="shield-check" class="h-8 w-8 mx-auto text-red-500"></i>',
             "title" => "Cyber Security",
-            "desc" => "We protect your business from hackers, data leaks, and online threats with smart security tools. Our AI-driven system works 24/7 to block attacks before they happen, giving you peace of mind that your files, emails, and systems stay safe.",
+            "desc" => "Protect your business from hackers and online threats. Our security tools work 24/7 to block attacks before they happen, keeping your files and emails safe.",
             "link" => "cyberprotect"
           ],
           [
             "icon" => '<i data-lucide="cloud-download" class="h-8 w-8 mx-auto text-sky-500"></i>',
             "title" => "Cloud Backup",
-            "desc" => "Never lose your important files again. We back up your data automatically in the cloud, with strong encryption so only you can access it. Even if your computer crashes or ransomware hits, your information is safe and easy to restore.",
+            "desc" => "Never lose your important data. We back up your files automatically in the cloud. Even if your computer crashes, your information is safe and easy to get back.",
             "link" => "cyberbackup"
           ],
           [
             "icon" => '<i data-lucide="wrench" class="h-8 w-8 mx-auto text-amber-500"></i>',
-            "title" => "Managed Services",
-            "desc" => "Think of us as your full-time IT team at a fraction of the cost. We take care of updates, monitoring, and tech support, so you can focus on running your business without worrying about computers slowing you down or systems breaking.",
+            "title" => "Managed IT Services",
+            "desc" => "Think of us as your own IT team. We handle all updates, monitoring, and tech support so you don’t have to worry about computers breaking down.",
             "link" => "managedservices"
           ],
           [
             "icon" => '<i data-lucide="headphones" class="h-8 w-8 mx-auto text-green-500"></i>',
             "title" => "24/7 Helpdesk",
-            "desc" => "When something breaks, you don’t want to wait until tomorrow. Our helpdesk is available day and night with real people answering within 15 minutes. From password issues to system crashes, we’ve got your back anytime you need us.",
+            "desc" => "If something breaks, we are here to help day or night. Our team responds quickly to fix any issue, from password resets to system crashes.",
             "link" => "contactus"
           ],
           [
             "icon" => '<i data-lucide="code-2" class="h-8 w-8 mx-auto text-purple-500"></i>',
-            "title" => "Development & Marketing",
-            "desc" => "We build custom websites and apps that look great and work fast. On top of that, our marketing experts help you get found on Google, reach the right audience, and grow your sales through smart online strategies.",
+            "title" => "Web & App Development",
+            "desc" => "We build professional websites and mobile apps that work fast. We also help you reach more customers through smart online marketing.",
             "link" => "development"
           ],
           [
             "icon" => '<i data-lucide="wrench" class="h-8 w-8 mx-auto text-blue-500"></i>',
-            "title" => "Field Services",
-            "desc" => "Sometimes you need an expert on-site, not just online. Our field technicians come directly to your office, shop, or warehouse to fix hardware, install systems, and keep your operations running without interruptions.",
+            "title" => "On-Site Support",
+            "desc" => "If you need an expert at your office, we’ve got you covered. Our technicians come directly to your location to fix hardware and install new systems.",
             "link" => "fieldservices"
           ],
           [
             "icon" => '<i data-lucide="monitor" class="h-8 w-8 mx-auto text-indigo-500"></i>',
-            "title" => "Hardware & Cloud Solution",
-            "desc" => "Whether you need powerful laptops, secure servers, or cloud systems like AWS and Azure, we match the right technology to your business. We partner with trusted brands like Lenovo and HP to deliver reliable solutions that fit your budget.",
+            "title" => "Hardware & Laptops",
+            "desc" => "Get the best laptops, servers, and software for your business. We partner with top brands like HP and Lenovo to give you the right tools for your budget.",
             "link" => "retail"
           ],
           [
             "icon" => '<i data-lucide="server" class="h-8 w-8 mx-auto text-cyan-500"></i>',
-            "title" => "Cloud Hosting & Co-Location",
-            "desc" => "Host your website, apps, or data in our secure cloud or place your servers in our facilities. With 24/7 monitoring, backups, and expert support, you get reliable performance and peace of mind without the hassle of managing it yourself.",
+            "title" => "Cloud Hosting",
+            "desc" => "Host your website or data in our secure facilities. With 24/7 monitoring and expert support, you get fast performance without the technical hassle.",
             "link" => "soc24"
           ],
           [
             "icon" => '<i data-lucide="phone" class="h-8 w-8 mx-auto text-orange-500"></i>',
-            "title" => "Business Phone Systems",
-            "desc" => "Stay connected with a modern cloud-based phone solution. Enjoy clear calls, easy number porting, and advanced features like voicemail-to-email and call routing. All managed for you in one affordable monthly plan.",
+            "title" => "Office Phone Systems",
+            "desc" => "Get a modern phone system for your office with clear calls and advanced features. It’s affordable, easy to use, and we manage it all for you.",
             "link" => "officeconnect"
           ],
-
         ];
 
 
@@ -562,13 +556,12 @@
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
       <!-- Who We Are Block -->
       <div>
-        <h2 class="text-3xl font-bold mb-4">Who we are?</h2>
+        <h2 class="text-3xl font-bold mb-4">Who are we?</h2>
         <p class="text-lg text-neutral-700 font-semibold mb-3">
-          Most trusted Managed IT Services Partner
+          Your Trusted Partner for IT Support
         </p>
         <p class="text-gray-600">
-          Al Musaab has been providing Managed IT services across Pakistan since 1995. With almost three
-          decades of experience servicing clients, we use what we have learned to fulfill your company’s needs.
+          Al Musaab has been helping businesses in Pakistan with IT since 1995. With over 25 years of experience, we know exactly how to fix your tech problems and help your business grow.
         </p>
       </div>
 
@@ -606,8 +599,7 @@
         </h2>
         <div class="h-0.5 w-12 bg-orange-500 mx-auto mt-4 mb-6"></div>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-          Technology shouldn’t slow you down. At QueryTel, we protect and empower small businesses with the same grade
-          of IT support, security, and cloud solutions trusted by big enterprises — without the big headaches.
+          Technology should help your business, not slow it down. At Al Musaab, we provide small businesses with professional IT support and security that is affordable and easy to manage.
         </p>
       </div>
 
@@ -664,7 +656,7 @@
         </h2>
         <div class="h-0.5 w-12 bg-orange-500 mx-auto mt-4 mb-6"></div>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-          Trusted by businesses across Pakistan. Here's what they have to say about partnering with QueryTel.
+          Trusted by businesses across Pakistan. Here's what our local partners have to say about working with Al Musaab.
         </p>
       </div>
 
@@ -681,17 +673,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "QueryTel transformed our IT infrastructure overnight. Their team was professional, responsive, and didn't
-            leave until everything was perfect. We went from constant downtime to 99.9% uptime. Highly recommend."
+            "Al Musaab transformed our office IT overnight. Their team was professional, quick, and didn't
+            leave until everything was perfect. We haven't had any downtime since they took over. Highly recommend."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-orange-500 flex items-center justify-center text-white font-bold text-lg">
-              JM
+              SA
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">James Mitchell</p>
-              <p class="text-sm text-gray-600">Operations Director</p>
+              <p class="font-semibold text-neutral-900">Salman Ali</p>
+              <p class="text-sm text-gray-600">Operations Manager</p>
             </div>
           </div>
         </div>
@@ -707,18 +699,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "As a growing retail business, we needed security we could trust. QueryTel's cybersecurity suite gave us
-            peace of mind. Their 24/7 support team is always there when we need them. Best investment we've made this
-            year."
+            "As a growing retail business, we needed security we could trust. Al Musaab's cyber security tools gave us
+            peace of mind. Their 24/7 support team is always there when we need them. Best investment for our shop."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-blue-500 flex items-center justify-center text-white font-bold text-lg">
-              SR
+              HA
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">Sarah Rodriguez</p>
-              <p class="text-sm text-gray-600">CEO</p>
+              <p class="font-semibold text-neutral-900">Hafsa Ahmed</p>
+              <p class="text-sm text-gray-600">Business Owner</p>
             </div>
           </div>
         </div>
@@ -734,17 +725,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "We switched from our previous MSP and never looked back. QueryTel's proactive approach means we spend less
-            time firefighting and more time growing. Their team feels like an extension of ours."
+            "We switched to Al Musaab and never looked back. Their team is very proactive, which means we spend less
+            time fixing problems and more time doing our work. They feel like part of our own team."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-green-500 flex items-center justify-center text-white font-bold text-lg">
-              DK
+              KS
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">David Kim</p>
-              <p class="text-sm text-gray-600">IT Manager</p>
+              <p class="font-semibold text-neutral-900">Khurram Shahzad</p>
+              <p class="text-sm text-gray-600">IT In-charge</p>
             </div>
           </div>
         </div>
@@ -760,17 +751,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "The cloud migration was seamless. Al Musaab handled everything—planning, execution, training. Zero
-            disruption to our business. Their expertise is unmatched in our industry."
+            "The cloud migration was very smooth. Al Musaab handled everything—planning, technical work, and training. No
+            disturbances for our business. Truly experts in their field."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-purple-500 flex items-center justify-center text-white font-bold text-lg">
-              LP
+              SK
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">Lisa Park</p>
-              <p class="text-sm text-gray-600">Director of IT</p>
+              <p class="font-semibold text-neutral-900">Dr. Saima Khan</p>
+              <p class="text-sm text-gray-600">Tech Lead</p>
             </div>
           </div>
         </div>
@@ -786,17 +777,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "Outstanding service. Al Musaab didn't just fix our problems—they prevented future ones. The proactive
-            monitoring saved us from a potential disaster. Worth every penny."
+            "Great service. Al Musaab didn't just fix our issues—they made sure they don't happen again. Their
+            monitoring saved us from a big disaster. Totally worth it."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-red-500 flex items-center justify-center text-white font-bold text-lg">
-              MC
+              UJ
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">Marcus Chen</p>
-              <p class="text-sm text-gray-600">Owner</p>
+              <p class="font-semibold text-neutral-900">Uzair Jaffer</p>
+              <p class="text-sm text-gray-600">Company Owner</p>
             </div>
           </div>
         </div>
@@ -812,17 +803,17 @@
             <i class="fas fa-star text-yellow-400"></i>
           </div>
           <p class="text-gray-700 mb-6 leading-relaxed italic">
-            "From initial consultation to post-implementation support,Al Musaabdelivered excellence. They understood
-            our healthcare compliance needs and delivered beyond expectations."
+            "From the first meeting to final support, Al Musaab stayed on top of everything. They understood
+            our specific business needs and delivered exactly what was promised."
           </p>
           <div class="flex items-center gap-4">
             <div
               class="w-12 h-12 rounded-full bg-indigo-500 flex items-center justify-center text-white font-bold text-lg">
-              AH
+              AS
             </div>
             <div>
-              <p class="font-semibold text-neutral-900">Dr. Angela Harris</p>
-              <p class="text-sm text-gray-600">Practice Manager</p>
+              <p class="font-semibold text-neutral-900">Dr. Amna Sheikh</p>
+              <p class="text-sm text-gray-600">Office Manager</p>
             </div>
           </div>
         </div>
@@ -1067,40 +1058,35 @@
       <!-- Left Content -->
       <div>
         <h2 class="text-3xl md:text-4xl font-bold leading-tight mb-6">
-          Power Up with <span class="font-extrabold">0% Financing</span> on <span
-            class="text-white font-extrabold">Laptops*</span>
+          Get New Laptops with <span class="font-extrabold text-orange-500">0% Easy Installments*</span>
         </h2>
 
         <div class="space-y-10 text-sm">
           <!-- Point 1 -->
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
-              <span class="text-xl text-orange-500">●</span> Flexible Payment
-              Solutions
+              <span class="text-xl text-orange-500">●</span> Easy Monthly Payments
             </div>
             <p class="text-gray-300">
-              Al Musaab Flexible Payment Solutions is partnering with some of the biggest technology brands to help
-              you sell more and support your customers' new demand for virtual working.
+              We work with top technology brands to help you get the latest laptops with easy monthly payments. No need to pay full price at once.
             </p>
           </div>
           <!-- Point 2 -->
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
-              <span class="text-xl text-orange-500">●</span> Pay Less
+              <span class="text-xl text-orange-500">●</span> Pay Less Every Month
             </div>
             <p class="text-gray-300">
-              Cut a check today or pay less over time on select laptop
-              devices.
+              Choose from select laptop models and pay in small parts over time. It’s better for your budget.
             </p>
           </div>
           <!-- Point 3 -->
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
-              <span class="text-xl text-orange-500">●</span> Unlock
-              Promotional Pricing
+              <span class="text-xl text-orange-500">●</span> Special Discount Prices
             </div>
             <p class="text-gray-300">
-              Contact us today to unlock your promotional pricing!
+              Contact us now to get special discount prices and promotional offers on all business laptops!
             </p>
           </div>
         </div>
@@ -1128,11 +1114,11 @@
 
         <!-- Logos -->
         <div class="flex flex-wrap items-center gap-6 pt-4">
-          <img src="https://logo.clearbit.com/microsoft.com" alt="Microsoft" class="h-6 md:h-8 w-auto" />
-          <img src="https://logo.clearbit.com/dell.com" alt="Dell" class="h-6 md:h-8 w-auto" />
-          <img src="https://logo.clearbit.com/lenovo.com" alt="Lenovo" class="h-6 md:h-8 w-auto" />
-          <img src="https://logo.clearbit.com/hp.com" alt="HP" class="h-6 md:h-8 w-auto" />
-          <img src="https://logo.clearbit.com/intel.com" alt="Intel" class="h-6 md:h-8 w-auto" />
+          <img src="https://img.logo.dev/microsoft.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Microsoft" class="h-6 md:h-8 w-auto" />
+          <img src="https://img.logo.dev/dell.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Dell" class="h-6 md:h-8 w-auto" />
+          <img src="https://img.logo.dev/lenovo.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Lenovo" class="h-6 md:h-8 w-auto" />
+          <img src="https://img.logo.dev/hp.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="HP" class="h-6 md:h-8 w-auto" />
+          <img src="https://img.logo.dev/intel.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Intel" class="h-6 md:h-8 w-auto" />
 
         </div>
       </div>

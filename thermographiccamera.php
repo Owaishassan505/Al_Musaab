@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Thermographic Cameras – QueryTel</title>
+    <title>Thermographic Cameras –Al Musaab</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {

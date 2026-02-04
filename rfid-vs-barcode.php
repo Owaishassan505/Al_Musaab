@@ -141,7 +141,7 @@
                     </div>
                     <div class="flex items-center gap-2">
                         <i data-lucide="user" class="w-4 h-4"></i>
-                        <span>QueryTel Team</span>
+                        <span>Al Musaab Team</span>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@
                     </div>
 
                     <p class="text-lg text-gray-700">
-                        At QueryTel, we've helped dozens of businesses evaluate, select, and implement both barcode and
+                        At Al Musaab, we've helped dozens of businesses evaluate, select, and implement both barcode and
                         RFID systems. This guide distills that experience into practical guidance to help you make the
                         right choice for your operation.
                     </p>

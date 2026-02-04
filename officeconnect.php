@@ -9,7 +9,7 @@
     <!-- Primary SEO -->
     <title>Office Connect VoIP & SIP Trunking | Hosted PBX for Canadian Businesses | Al Musaab</title>
     <meta name="description"
-        content="Office Connect by QueryTel: enterprise-grade VoIP, SIP trunking, and hosted PBX with low latency, call analytics, and easy number porting. Built for Canadian businesses." />
+        content="Office Connect byAl Musaab: enterprise-grade VoIP, SIP trunking, and hosted PBX with low latency, call analytics, and easy number porting. Built for Canadian businesses." />
     <link rel="canonical" href="https://almusaab.com/officeconnect/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />

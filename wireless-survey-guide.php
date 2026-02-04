@@ -138,7 +138,7 @@
           </div>
           <div class="flex items-center gap-2">
             <i data-lucide="user" class="w-4 h-4"></i>
-            <span>QueryTel Team</span>
+            <span>Al Musaab Team</span>
           </div>
         </div>
       </div>
@@ -163,7 +163,7 @@
             <a href="#interference" class="toc-link block text-gray-600 py-1">Avoiding Interference</a>
             <a href="#blueprint" class="toc-link block text-gray-600 py-1">Design Blueprint</a>
             <a href="#savings" class="toc-link block text-gray-600 py-1">Cost Savings</a>
-            <a href="#advantage" class="toc-link block text-gray-600 py-1">QueryTel Advantage</a>
+            <a href="#advantage" class="toc-link block text-gray-600 py-1">Al Musaab Advantage</a>
           </nav>
         </div>
       </aside>
@@ -198,7 +198,7 @@
 
           <p class="text-lg text-gray-700 mb-6">
             A wireless survey is the process that reveals the truth long before a single access point is installed. At
-            QueryTel, we treat surveys as the scientific foundation of every wireless deployment, because without data,
+           Al Musaab, we treat surveys as the scientific foundation of every wireless deployment, because without data,
             even the best equipment will fail.
           </p>
         </section>
@@ -296,7 +296,7 @@
           </p>
 
           <div class="bg-blue-50 p-6 rounded-lg border border-blue-200 mb-6">
-            <p class="font-semibold text-gray-900 mb-4">QueryTel measures:</p>
+            <p class="font-semibold text-gray-900 mb-4">Al Musaab measures:</p>
             <div class="grid md:grid-cols-2 gap-3">
               <div class="flex items-start gap-2">
                 <i data-lucide="check" class="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5"></i>
@@ -481,7 +481,7 @@
           </div>
 
           <p class="text-lg text-gray-700 mb-4">
-            QueryTel's survey tools detect these interference sources and give us the data needed to select the correct
+           Al Musaab's survey tools detect these interference sources and give us the data needed to select the correct
             frequencies, channels, and antenna types.
           </p>
 
@@ -601,7 +601,7 @@
         <!--Al MusaabAdvantage -->
         <section id="advantage" class="mb-16">
           <h2 class="text-3xl font-bold text-gray-900 mb-6 pb-3 border-b-2 border-orange-500">
-            QueryTel's Survey Advantage
+           Al Musaab's Survey Advantage
           </h2>
 
           <p class="text-lg text-gray-700 mb-6">
@@ -623,7 +623,7 @@
           <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white p-8 rounded-lg text-center">
             <h2 class="text-3xl font-bold mb-4">Ready for a Professional Wireless Survey?</h2>
             <p class="text-lg mb-6 opacity-90">
-              LetAl Musaabdesign a wireless network that performs exactly as your business needs it to.
+              Let Al Musaab design a wireless network that performs exactly as your business needs it to.
             </p>
             <a href="<?= $base ?>/contactus/"
               class="inline-flex items-center gap-2 bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold shadow-lg hover:bg-gray-100 transition">

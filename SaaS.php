@@ -9,9 +9,9 @@
 
   <!-- Primary SEO -->
   <meta name="description"
-    content="QueryTel plans, deploys, and operates your SaaS stack—Microsoft 365, Zoho, Acronis, Teams Voice—with security, backups, and real support. Simple onboarding, clear outcomes, no drama." />
+    content="Al Musaab plans, deploys, and operates your SaaS stack—Microsoft 365, Zoho, Acronis, Teams Voice—with security, backups, and real support. Simple onboarding, clear outcomes, no drama." />
   <meta name="keywords"
-    content="Managed SaaS, Microsoft 365 management, Zoho integration, Acronis backups, Teams Voice, SaaS migration, HIPAA PIPEDA compliance, Intune MDM, SSO MFA, QueryTel" />
+    content="Managed SaaS, Microsoft 365 management, Zoho integration, Acronis backups, Teams Voice, SaaS migration, HIPAA PIPEDA compliance, Intune MDM, SSO MFA,Al Musaab" />
 
   <!-- Open Graph -->
   <meta property="og:title" content="SaaS Solutions — Secure, Managed & Scalable | Al Musaab" />
@@ -192,7 +192,7 @@
             <span class="h-2.5 w-2.5 rounded-full bg-red-400"></span>
             <span class="h-2.5 w-2.5 rounded-full bg-yellow-400"></span>
             <span class="h-2.5 w-2.5 rounded-full bg-green-400"></span>
-            <span class="ml-3 text-xs font-medium text-blue-700">QueryTel • SaaSOps Overview</span>
+            <span class="ml-3 text-xs font-medium text-blue-700">Al Musaab • SaaSOps Overview</span>
           </div>
           <div class="p-6 sm:p-8">
             <div class="grid gap-4 sm:grid-cols-3">
@@ -805,7 +805,7 @@
   <section class="relative bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 py-20">
     <div class="max-ww-5xl max-w-5xl mx-auto text-center px-6">
       <h2 class="text-3xl md:text-4xl font-bold text-white">Ready to stop babysitting software?</h2>
-      <p class="mt-4 text-lg text-slate-300 max-w-2xl mx-auto">LetAl Musaabrun your SaaS so your team can actually
+      <p class="mt-4 text-lg text-slate-300 max-w-2xl mx-auto">Let Al Musaab run your SaaS so your team can actually
         work. Clean onboarding, steady ops, predictable costs.</p>
       <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
         <a href="<?= $base ?? '' ?>/contactus"
