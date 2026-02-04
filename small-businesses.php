@@ -71,17 +71,17 @@
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "7025 Tomken Road, Suite 244",
-      "addressLocality": "Mississauga",
+      "streetAddress": "Office#212 Anum Estate Building, Shahrah e Faisal",
+      "addressLocality": "Karachi",
       "addressRegion": "ON",
-      "postalCode": "L5S 1R6",
+      "postalCode": "75350",
       "addressCountry": "CA"
     },
     "contactPoint": [
       {
         "@type": "ContactPoint",
         "contactType": "Sales",
-        "telephone": "+1-844-447-8379",
+        "telephone": "+92-213-4321900",
         "areaServed": "CA",
         "availableLanguage": ["en"]
       },
@@ -106,14 +106,14 @@
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
     "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "telephone":"+1-416-477-1380",
+    "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",
-      "streetAddress":"7025 Tomken Road, Suite 244",
-      "addressLocality":"Mississauga",
-      "addressRegion":"ON",
-      "postalCode":"L5S 1R6",
-      "addressCountry":"CA"
+      "streetAddress":"Office#212 Anum Estate Building, Shahrah e Faisal",
+      "addressLocality":"Karachi",
+      "addressRegion":"Sindh",
+      "postalCode":"75350",
+      "addressRegion":"PK",
     },
     "geo":{"@type":"GeoCoordinates","latitude":43.6519,"longitude":-79.6803},
     "openingHoursSpecification":[{
@@ -289,9 +289,9 @@
                                         class="bg-neutral-900 text-white px-6 py-3 rounded-md font-medium shadow hover:bg-neutral-800 transition">
                                         Get a Free Security Consultation
                                     </a>
-                                    <a href="tel:+18444478379"
+                                    <a href="tel:+922134321900"
                                         class="bg-orange-500 text-white px-6 py-3 rounded-md font-medium shadow hover:bg-orange-800 transition">
-                                        +1-844-447-8379
+                                        +92-213-4321900
                                     </a>
                                 </div>
                             </div>
@@ -551,7 +551,7 @@
                 </div>
             </div>
             <div class="mt-8 flex justify-center">
-                <a href="tel:+18444478379" class="relative inline-flex items-center px-12 py-4 rounded-lg font-semibold shadow-lg
+                <a href="tel:+922134321900" class="relative inline-flex items-center px-12 py-4 rounded-lg font-semibold shadow-lg
               text-white bg-orange-500 overflow-hidden group">
                     <span class="relative z-10 flex items-center">
                         Get My Business Secured
@@ -961,7 +961,7 @@
             </div>
         </div>
         <div class="mt-8 flex justify-center">
-            <a href="tel:+18444478379" class="relative inline-flex items-center px-12 py-4 rounded-lg font-semibold shadow-lg 
+            <a href="tel:+922134321900" class="relative inline-flex items-center px-12 py-4 rounded-lg font-semibold shadow-lg 
           text-white bg-orange-500 overflow-hidden group">
                 <span class="relative z-10 flex items-center">
                     Get My Business Secured

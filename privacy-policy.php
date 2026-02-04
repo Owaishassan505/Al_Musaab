@@ -419,8 +419,8 @@
                                 <i data-lucide="phone" class="h-5 w-5 text-orange-600 mt-1"></i>
                                 <div>
                                     <p class="text-sm font-medium text-neutral-700">Phone</p>
-                                    <a href="tel:+1-844-447-8379"
-                                        class="text-orange-600 hover:underline">+1-844-447-8379</a>
+                                    <a href="tel:+92-213-4321900"
+                                        class="text-orange-600 hover:underline">+92-213-4321900</a>
                                 </div>
                             </div>
                             <div class="flex items-start gap-3">

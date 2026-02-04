@@ -85,9 +85,9 @@
                         class="inline-flex items-center justify-center rounded-lg bg-white text-orange-600 font-semibold px-6 py-3 hover:bg-orange-50 transition">
                         Connect to Technician
                     </a>
-                    <a href="tel:+18444478379"
+                    <a href="tel:+922134321900"
                         class="inline-flex items-center justify-center rounded-lg bg-white/10 ring-1 ring-white/30 text-white px-6 py-3 hover:bg-white/15 transition">
-                        Or call +1-844-447-8379
+                        Or call +92-213-4321900
                     </a>
                 </div>
 
@@ -169,7 +169,7 @@
                 </form>
 
                 <div class="mt-6 text-sm text-neutral-500">
-                    Having trouble? Call us at <span class="font-medium text-neutral-700">+1-844-447-8379</span>.
+                    Having trouble? Call us at <span class="font-medium text-neutral-700">+92-213-4321900</span>.
                 </div>
             </div>
         </div>
@@ -326,7 +326,7 @@
                                 packs) or that we or our designee provide to you when performing services (such as
                                 workarounds, patches, hot-fixes, updates, bug fixes, beta fixes, and beta builds) and
                                 any derivatives of the foregoing. You may not modify, reverse engineer, decompile,
-                                disassemble, change the file name of or combine with any non-querytel computer code any
+                                disassemble, change the file name of or combine with any non-al-musaab computer code any
                                 fixes delivered to you.</p>
 
                             <p><strong>B. Pre-Existing Work:</strong> All rights in any computer code or non-code based

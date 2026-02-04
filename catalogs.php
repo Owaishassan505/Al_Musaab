@@ -17,7 +17,7 @@ $CLIENTS = [
     'client-a' => ['name' => 'Client A', 'tag' => 'Healthcare', 'password' => 'swordfish', 'email' => 'client.a@corp.com'],
     'client-b' => ['name' => 'Client B', 'tag' => 'Retail', 'password' => 'opensesame', 'email' => 'client.b@corp.com'],
     'client-c' => ['name' => 'Client C', 'tag' => 'Logistics', 'password' => 'hunter2', 'email' => 'client.c@corp.com'],
-    'client-d' => ['name' => 'Client D', 'tag' => 'Education', 'password' => 'querytel', 'email' => 'client.d@corp.com'],
+    'client-d' => ['name' => 'Client D', 'tag' => 'Education', 'password' => 'almusaab', 'email' => 'client.d@corp.com'],
 ];
 
 $CATALOG = function (string $clientId) {

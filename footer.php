@@ -12,9 +12,9 @@
                 1995.</p>
 
             <div class="mt-4 space-y-1">
-                <p><strong>Address:</strong> 7025 Tomken Road, Suite 244, Mississauga, ON L5S 1R6, Pakistan</p>
+                <p><strong>Address:</strong> Office#212 Anum Estate Building, Shahrah e Faisal, Karachi, ON 75350, Pakistan</p>
                 <p><strong>Hours:</strong> Mon–Fri 8:00–17:00 (local)</p>
-                <p><strong>Tel:</strong> <a href="tel:+18444478379" class="hover:underline">+1-844-447-8379</a></p>
+                <p><strong>Tel:</strong> <a href="tel:+922134321900" class="hover:underline">+92-213-4321900</a></p>
                 <p><strong>Email:</strong> <a href="mailto:callback@almusaab.com"
                         class="hover:underline">callback@almusaab.com</a></p>
             </div>
@@ -43,31 +43,31 @@
                 <div class="flex space-x-4">
 
                     <!-- LinkedIn -->
-                    <a href="https://www.linkedin.com/company/querytel-inc" target="_blank" rel="noopener noreferrer"
+                    <!-- <a href="https://www.linkedin.com/company/querytel-inc" target="_blank" rel="noopener noreferrer"
                         class="text-neutral-500 hover:text-blue-700 transition" aria-label="LinkedIn">
                         <i class="fab fa-linkedin fa-lg"></i>
-                    </a>
+                    </a> -->
 
                     <!-- X / Twitter -->
-                    <a href="https://x.com/askquerytel" target="_blank" rel="noopener noreferrer"
+                    <!-- <a href="https://x.com/askquerytel" target="_blank" rel="noopener noreferrer"
                         class="text-neutral-500 hover:text-black transition" aria-label="X">
                         <i class="fab fa-x-twitter fa-lg"></i>
-                    </a>
+                    </a> -->
 
                     <!-- Instagram -->
-                    <a href="https://www.instagram.com/askquerytel" target="_blank" rel="noopener noreferrer"
+                    <a href="https://www.instagram.com/ask.almusaab2000" target="_blank" rel="noopener noreferrer"
                         class="text-neutral-500 hover:text-pink-600 transition" aria-label="Instagram">
                         <i class="fab fa-instagram fa-lg"></i>
                     </a>
 
                     <!-- Facebook -->
-                    <a href="https://www.facebook.com/querytel" target="_blank" rel="noopener noreferrer"
+                    <a href="https://www.facebook.com/profile.php?id=61586972250984" target="_blank" rel="noopener noreferrer"
                         class="text-neutral-500 hover:text-blue-600 transition" aria-label="Facebook">
                         <i class="fab fa-facebook-f fa-lg"></i>
                     </a>
-                    <a href="https://www.youtube.com/@querytel9280" target="_blank" rel="noopener noreferrer"
+                    <!-- <a href="https://www.youtube.com/@querytel9280" target="_blank" rel="noopener noreferrer"
                         class="text-neutral-500 hover:text-red-600 transition" aria-label="YouTube">
-                        <i class="fab fa-youtube fa-lg"></i>
+                        <i class="fab fa-youtube fa-lg"></i> -->
                     </a>
 
                 </div>

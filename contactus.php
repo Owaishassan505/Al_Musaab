@@ -125,14 +125,14 @@
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
     "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "telephone":"+1-416-477-1380",
+    "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",
-      "streetAddress":"7025 Tomken Road, Suite 244",
-      "addressLocality":"Mississauga",
-      "addressRegion":"ON",
-      "postalCode":"L5S 1R6",
-      "addressCountry":"CA"
+      "streetAddress":"Office#212 Anum Estate Building, Shahrah e Faisal",
+      "addressLocality":"Karachi",
+      "addressRegion":"Sindh",
+      "postalCode":"75350",
+      "addressRegion":"PK",
     },
     "openingHoursSpecification":[{
       "@type":"OpeningHoursSpecification",
@@ -224,14 +224,14 @@
           <h2 class="text-xl font-semibold">Karachi</h2>
         </div>
         <p class="text-gray-600 text-sm mb-2">
-          7025 Tomken Road, Suite #244<br />
-          Mississauga, ON L5S 1R6
+          Office#212 Anum Estate Building,<br /> Shahrah e Faisal
+          Karachi, Pakistan
         </p>
         <p class="text-sm text-gray-500 mb-4">
           Mon – Fri · 8:00 a.m. – 5:00 p.m. EST
         </p>
         <p class="text-gray-700 font-medium">Phone:</p>
-        <a href="tel:4164771380" class="text-sm ">416-477-1380</a>
+        <a href="tel:+922134321900" class="text-sm ">+92-213-4321900</a>
         <p class="text-gray-700 font-medium mt-2">Email:</p>
         <a href="mailto:callback@almusaab.com" class="text-sm ">callback@almusaab.com</a>
       </div>
@@ -248,8 +248,8 @@
           <h2 class="text-xl font-semibold">Phone Directory</h2>
         </div>
         <ul class="text-sm text-gray-700 space-y-1">
-          <li><strong>Toll-Free:</strong> <a href="tel:+18444478379" class="">+1-844-447-8379</a></li>
-          <li><strong>GTA:</strong> <a href="tel:4164771380" class="">416-477-1380</a></li>
+          <li><strong>Toll-Free:</strong> <a href="tel:+922134321900" class="">+92-213-4321900</a></li>
+          <!-- <li><strong>GTA:</strong> <a href="tel:+922134321900" class="">+92-213-4321900</a></li>
           <li><strong>Montreal:</strong> <a href="tel:5142575250" class="">514-257-5250</a>
           </li>
           <li><strong>Halifax:</strong> <a href="tel:9027014239" class="">902-701-4239</a>
@@ -258,12 +258,12 @@
           </li>
           <li><strong>Edmonton:</strong> <a href="tel:7806282868" class="">780-628-2868</a>
           </li>
-          <li><strong>Fort McMurray:</strong> <a href="tel:5875571278" class="">587-557-1278</a></li>
+          <li><strong>Fort McMurray:</strong> <a href="tel:5875571278" class="">587-557-1278</a></li> -->
         </ul>
       </div>
 
       <!-- Calgary -->
-      <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+      <!-- <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
         <div class="flex items-center gap-3 mb-4">
           <svg xmlns="http://www.w3.org/2000/svg"
             class="h-6 w-6 text-red-600 group-hover:text-red-800 transition-transform transform group-hover:scale-125"
@@ -283,10 +283,10 @@
         <a href="tel:4036911018" class="text-sm ">403-691-1018</a>
         <p class="text-gray-700 font-medium mt-2">Email:</p>
         <a href="mailto:callback@almusaab.com" class="text-sm ">callback@almusaab.com</a>
-      </div>
+      </div> -->
 
       <!-- Edmonton -->
-      <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+      <!-- <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
         <div class="flex items-center gap-3 mb-4">
           <svg xmlns="http://www.w3.org/2000/svg"
             class="h-6 w-6 text-yellow-600 group-hover:text-yellow-800 transition-transform transform group-hover:scale-125"
@@ -305,10 +305,10 @@
         <a href="tel:7806282868" class="text-sm ">780-628-2868</a>
         <p class="text-gray-700 font-medium mt-2">Email:</p>
         <a href="mailto:callback@almusaab.com" class="text-sm ">callback@almusaab.com</a>
-      </div>
+      </div> -->
 
       <!-- Halifax -->
-      <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+      <!-- <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
         <div class="flex items-center gap-3 mb-4">
           <svg xmlns="http://www.w3.org/2000/svg"
             class="h-6 w-6 text-indigo-600 group-hover:text-indigo-800 transition-transform transform group-hover:scale-125"
@@ -327,10 +327,10 @@
         <a href="tel:9027014239" class="text-sm ">902-701-4239</a>
         <p class="text-gray-700 font-medium mt-2">Email:</p>
         <a href="mailto:callback@almusaab.com" class="text-sm ">callback@almusaab.com</a>
-      </div>
+      </div> -->
 
       <!-- Support -->
-      <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+      <!-- <div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
         <div class="flex items-center gap-3 mb-4">
           <svg xmlns="http://www.w3.org/2000/svg"
             class="h-6 w-6 text-purple-600 group-hover:text-purple-800 transition-transform transform group-hover:scale-125"
@@ -341,14 +341,59 @@
           <h2 class="text-xl font-semibold">Support & Helpdesk</h2>
         </div>
         <p class="text-gray-700 font-medium">Phone</p>
-        <a href="tel:+18444478379" class="text-sm mb-2 ">+1-844-447-8379</a>
+        <a href="tel:+922134321900" class="text-sm mb-2 ">+92-213-4321900</a>
         <p class="text-gray-700 font-medium">Portal:</p>
         <a href="https://helpdesk.almusaab.com/portal/en/home" class="text-sm mb-2 ">
           helpdesk.almusaab.com
         </a>
         <p class="text-gray-700 font-medium">Email:</p>
         <a href="mailto:support@almusaab.com" class="text-sm ">support@almusaab.com</a>
-      </div>
+      </div> -->
+
+      <!-- Generic City Card (no address, no phone) -->
+<div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+  <div class="flex items-center gap-3 mb-4">
+    <svg xmlns="http://www.w3.org/2000/svg"
+      class="h-6 w-6 text-red-600 group-hover:text-red-800 transition-transform transform group-hover:scale-125"
+      viewBox="0 0 20 20" fill="currentColor">
+      <path
+        d="M4 3a1 1 0 00-1 1v12h14V4a1 1 0 00-1-1H4zm1 3h2v2H5V6zm0 3h2v2H5V9zm0 3h2v2H5v-2zm4-6h2v2H9V6zm0 3h2v2H9V9zm0 3h2v2H9v-2zm4-6h2v2h-2V6zm0 3h2v2h-2V9zm0 3h2v2h-2v-2z" />
+    </svg>
+    <h2 class="text-xl font-semibold">Lahore</h2>
+  </div>
+
+  <p class="text-sm text-gray-500 mb-4">
+    Mon – Fri · 9:00 a.m. – 5:00 p.m.
+  </p>
+
+  <p class="text-gray-700 font-medium">Email:</p>
+  <a href="mailto:callback@almusaab.com" class="text-sm">
+    callback@almusaab.com
+  </a>
+</div>
+
+
+<div class="bg-white p-6 rounded-lg shadow hover:shadow-md transition group">
+  <div class="flex items-center gap-3 mb-4">
+    <svg xmlns="http://www.w3.org/2000/svg"
+      class="h-6 w-6 text-orange-600 group-hover:text-orange-800 transition-transform transform group-hover:scale-125"
+      viewBox="0 0 20 20" fill="currentColor">
+      <path
+        d="M4 3a1 1 0 00-1 1v12h14V4a1 1 0 00-1-1H4zm1 3h2v2H5V6zm0 3h2v2H5V9zm0 3h2v2H5v-2zm4-6h2v2H9V6zm0 3h2v2H9V9zm0 3h2v2H9v-2zm4-6h2v2h-2V6zm0 3h2v2h-2V9zm0 3h2v2h-2v-2z" />
+    </svg>
+    <h2 class="text-xl font-semibold">Islamabad</h2>
+  </div>
+
+  <p class="text-sm text-gray-500 mb-4">
+    Mon – Fri · 9:00 a.m. – 5:00 p.m.
+  </p>
+
+  <p class="text-gray-700 font-medium">Email:</p>
+  <a href="mailto:callback@almusaab.com" class="text-sm">
+    callback@almusaab.com
+  </a>
+</div>
+
 
     </div>
   </section>
@@ -366,7 +411,7 @@
           <div class="w-full">
             <div class="w-full aspect-video overflow-hidden">
               <iframe id="map-iframe"
-                data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d369421.4094649415!2d-79.68477!3d43.666791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3f02ae724ab3%3A0x5d9af5abd43879f8!2s7025%20Tomken%20Rd%2C%20Mississauga%2C%20ON%20L5T%202J8%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1754486829326!5m2!1sen!2sus"
+                data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d369421.4094649415!2d-79.68477!3d43.666791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3f02ae724ab3%3A0x5d9af5abd43879f8!2s7025%20Tomken%20Rd%2C%20Karachi%2C%20ON%20L5T%202J8%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1754486829326!5m2!1sen!2sus"
                 width="100%" height="100%" style="border: 0" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

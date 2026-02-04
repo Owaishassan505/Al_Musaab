@@ -125,14 +125,14 @@
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
     "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "telephone":"+1-416-477-1380",
+    "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",
-      "streetAddress":"7025 Tomken Road, Suite 244",
-      "addressLocality":"Mississauga",
-      "addressRegion":"ON",
-      "postalCode":"L5S 1R6",
-      "addressCountry":"CA"
+      "streetAddress":"Office#212 Anum Estate Building, Shahrah e Faisal",
+      "addressLocality":"Karachi",
+      "addressRegion":"Sindh",
+      "postalCode":"75350",
+      "addressRegion":"PK",
     },
     "openingHoursSpecification":[{
       "@type":"OpeningHoursSpecification",
