@@ -1,6 +1,6 @@
 <?php
-$base = "/Al-Musaab"
-// $base = ""
+// $base = "/Al-Musaab"
+$base = ""
     ?>
 <header class="border-b border-gray-200 bg-white sticky top-0 z-50">
     <style>
