@@ -1,0 +1,357 @@
+<?php $base = "" ?>
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Careers at QueryTel Inc — Jobs, Culture & Hiring in North America</title>
+    <meta name="description"
+        content="Join QueryTel Inc. to build secure, modern IT for Canadian businesses. Explore our culture, perks, and roles in security, cloud, networking, and engineering." />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://almusaab.com/careers/" />
+    <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/careers/" />
+    <meta name="theme-color" content="#0f172a" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Careers at QueryTel Inc — Jobs, Culture & Hiring in North America" />
+    <meta property="og:description"
+        content="Protect enterprises, innovate in security, and shape the future of tech with QueryTel. See roles and life at QueryTel." />
+    <meta property="og:url" content="https://almusaab.com/careers/" />
+    <meta property="og:site_name" content="QueryTel Inc." />
+    <meta property="og:locale" content="en_CA" />
+    <meta property="og:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Careers at QueryTel Inc — Jobs, Culture & Hiring in North America" />
+    <meta name="twitter:description"
+        content="Grow your career in managed IT, cybersecurity, and cloud. Explore life at QueryTel." />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/querytel-icon.png' ?>" />
+
+    <!-- Icons -->
+    <link rel="icon" href="<?= $base . '/assets/images/querytel-icon.png' ?>" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Performance hints -->
+    <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
+    <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
+
+    <!-- Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Tailwind config (kept/enhanced) -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        segoe: ['"Segoe UI"', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif'],
+                    },
+                    colors: {
+                        brandorange: '#f97316',
+                        brandblue: '#0078D4',
+                        brandgray: '#f3f2f1'
+                    },
+                    keyframes: {
+                        fadeUp: { "0%": { opacity: 0, transform: "translateY(20px)" }, "100%": { opacity: 1, transform: "translateY(0)" } }
+                    },
+                    animation: { fadeUp: "fadeUp 0.8s ease-out forwards" }
+                }
+            }
+        };
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-57GG72GW');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Schema: Organization (site entity) -->
+    <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Organization",
+    "@id":"https://almusaab.com/#org",
+    "name":"QueryTel Inc.",
+    "url":"https://almusaab.com/",
+    "logo":"<?= $base . '/assets/images/querytel-icon.png' ?>",
+    "sameAs":["https://www.linkedin.com/company/querytel"]
+  }
+  </script>
+
+    <!-- Schema: WebPage (Careers) -->
+    <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "@id":"https://almusaab.com/careers/#webpage",
+    "url":"https://almusaab.com/careers/",
+    "name":"Careers at QueryTel",
+    "inLanguage":"en-CA",
+    "isPartOf":{"@id":"https://almusaab.com/#website"},
+    "about":{"@id":"https://almusaab.com/#org"},
+    "lastReviewed":"2025-08-18",
+    "breadcrumb":{"@id":"https://almusaab.com/careers/#breadcrumb"}
+  }
+  </script>
+
+    <!-- Schema: BreadcrumbList -->
+    <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"BreadcrumbList",
+    "@id":"https://almusaab.com/careers/#breadcrumb",
+    "itemListElement":[
+      {"@type":"ListItem","position":1,"name":"Home","item":"https://almusaab.com/"},
+      {"@type":"ListItem","position":2,"name":"Careers","item":"https://almusaab.com/careers/"}
+    ]
+  }
+  </script>
+
+    <!-- Schema: JobPosting -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Field Sales Representative",
+      "description": "<p>QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Toronto region.</p><p>As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.</p>",
+      "datePosted": "2026-01-09",
+      "validThrough": "2026-03-31",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "QueryTel Inc.",
+        "sameAs": "https://almusaab.com",
+        "logo": "<?= $base . '/assets/images/querytel-icon.png' ?>"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Toronto",
+          "addressRegion": "ON",
+          "addressCountry": "CA"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "CAD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 25.00,
+          "maxValue": 30.00,
+          "unitText": "HOUR"
+        }
+      },
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    }
+    </script>
+</head>
+
+
+<body class="bg-brandgray text-neutral-900 font-segoe">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57GG72GW" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <?php include("navbar.php"); ?>
+
+    <!-- HERO -->
+    <section class="relative bg-gradient-to-r from-brandorange to-brandblue text-white py-24 overflow-hidden">
+        <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+            <div class="animate-fadeUp">
+                <h1 class="text-4xl md:text-5xl font-bold leading-tight">
+                    Build the Future with <span class="text-white">Querytel</span>
+                </h1>
+                <p class="mt-6 text-lg text-orange-50">
+                    Join a team that protects enterprises, innovates in security, and shapes the future of technology in
+                    North America.
+                </p>
+                <div class="mt-8 flex gap-4">
+                    <a href="#openings"
+                        class="inline-block bg-white text-brandorange font-semibold px-6 py-3 rounded hover:bg-orange-50 transition">
+                        View Open Roles
+                    </a>
+                    <!-- <a href="#life"
+                        class="inline-block border border-white text-white px-6 py-3 rounded hover:bg-white hover:text-brandorange transition">
+                        Life at Querytel
+                    </a> -->
+                </div>
+            </div>
+            <div class="relative animate-fadeUp delay-200">
+                <div class="absolute -inset-4 bg-white/10 rounded-full blur-3xl"></div>
+                <img src="<?= $base ?>/assets/images/careers.jpg" alt="Team collaboration"
+                    class="relative z-10 w-full max-w-md mx-auto rounded-xl shadow-2xl object-cover h-96" />
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-gray-50 py-16">
+        <div class="max-w-7xl mx-auto px-6">
+            <!-- Header -->
+            <div class="text-center max-w-3xl mx-auto">
+                <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">
+                    Join <span class="text-brandorange">QueryTel</span>
+                </h1>
+                <p class="mt-4 text-lg text-gray-600">
+                    Be part of a growing team that’s shaping the future of technology solutions across North America.
+                    Explore opportunities to innovate, learn, and lead.
+                </p>
+            </div>
+
+            <!-- Intro Image -->
+            <div class="mt-10 rounded-xl overflow-hidden shadow-lg">
+                <img src="<?= $base ?>/assets/images/team-collab.jpg" alt="Team working together"
+                    class="w-full object-cover h-72 md:h-96" />
+            </div>
+
+            <!-- Why Join Us -->
+            <div class="mt-16 grid md:grid-cols-3 gap-10">
+                <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
+                    <h3 class="text-xl font-semibold text-gray-900">Innovative Culture</h3>
+                    <p class="mt-3 text-gray-600">
+                        Work in an environment that fosters creativity, collaboration, and the freedom to bring your
+                        ideas to life.
+                    </p>
+                </div>
+                <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
+                    <h3 class="text-xl font-semibold text-gray-900">Growth & Learning</h3>
+                    <p class="mt-3 text-gray-600">
+                        Access training, certifications, and mentorship programs to expand your skills and career path.
+                    </p>
+                </div>
+                <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8">
+                    <h3 class="text-xl font-semibold text-gray-900">Impactful Work</h3>
+                    <p class="mt-3 text-gray-600">
+                        Join projects that make a real difference in industries' security, networking, and IT solutions.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Job Listings -->
+            <div id="openings" class="mt-20">
+                <h2 class="text-3xl font-bold text-gray-900 text-center">Current Openings</h2>
+                <div class="mt-10">
+                    <div class="space-y-6">
+                        <!-- Job Card -->
+                        <div class="bg-white rounded-xl shadow-sm hover:shadow-md transition p-8 border border-gray-100 text-left">
+                            <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
+                                <div>
+                                    <h3 class="text-2xl font-bold text-gray-900">Field Sales Representative</h3>
+                                    <div class="mt-2 flex flex-wrap gap-4 text-sm text-gray-600">
+                                        <span class="flex items-center gap-1">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                            </svg>
+                                            Toronto, ON (In Person)
+                                        </span>
+                                        <span class="flex items-center gap-1">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                            </svg>
+                                            Full-time
+                                        </span>
+                                        <span class="flex items-center gap-1">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-brandorange" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                            </svg>
+                                            CA$25.00 - CA$30.00 / hour
+                                        </span>
+                                    </div>
+                                </div>
+                                <a href="mailto:callback@almusaab.com?subject=Application for Field Sales Representative"
+                                    class="inline-flex items-center justify-center bg-brandorange hover:bg-orange-600 text-white px-6 py-2.5 rounded-lg shadow transition font-medium whitespace-nowrap">
+                                    Apply Now
+                                </a>
+                            </div>
+
+                            <div class="mt-8 border-t border-gray-100 pt-6">
+                                <h4 class="text-lg font-semibold text-gray-900 mb-2">About QueryTel</h4>
+                                <p class="text-gray-600 mb-4 leading-relaxed">
+                                    QueryTel is a fast-growing technology and solutions provider dedicated to delivering innovative products and services to our customers. As we expand into new markets, we’re seeking a motivated and results-driven Field Sales Representative to help us strengthen our presence in the Toronto region.
+                                </p>
+
+                                <h4 class="text-lg font-semibold text-gray-900 mb-2">Role Overview</h4>
+                                <p class="text-gray-600 mb-4 leading-relaxed">
+                                    As an IT Field Sales Representative at QueryTel, you will be responsible for driving sales, building strong relationships with clients, and identifying new business opportunities. This role is ideal for someone who thrives on face-to-face engagement and enjoys meeting customers in the field.
+                                </p>
+
+                                <div class="grid md:grid-cols-2 gap-8">
+                                    <div>
+                                        <h4 class="text-lg font-semibold text-gray-900 mb-2">Key Responsibilities</h4>
+                                        <ul class="list-disc list-inside text-gray-600 space-y-2 mb-4">
+                                            <li>Identify and approach potential clients through cold calls, networking, and in-person meetings.</li>
+                                            <li>Present and demonstrate QueryTel’s products and services effectively to prospects.</li>
+                                            <li>Negotiate and close sales to achieve and exceed targets.</li>
+                                            <li>Maintain detailed records of sales activities and client information in the CRM system.</li>
+                                            <li>Provide feedback on market trends, customer needs, and competitive activity.</li>
+                                            <li>Collaborate with internal teams to ensure seamless customer onboarding and satisfaction.</li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-lg font-semibold text-gray-900 mb-2">Requirements</h4>
+                                        <ul class="list-disc list-inside text-gray-600 space-y-2 mb-4">
+                                            <li>A Proven track record in IT sales, business development, or a similar role is a must.</li>
+                                            <li>Excellent communication, negotiation, and interpersonal skills.</li>
+                                            <li>Self-motivated and able to work independently.</li>
+                                            <li>A Valid driver’s license is mandatory.</li>
+                                            <li>Knowledge of the Toronto market is a strong advantage.</li>
+                                            <li>Flexible schedule to accommodate client needs.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <h4 class="text-lg font-semibold text-gray-900 mb-2">What We Offer</h4>
+                                <ul class="list-disc list-inside text-gray-600 mb-4 space-y-1">
+                                    <li>Competitive base salary plus commission.</li>
+                                    <li>Travel allowance.</li>
+                                    <li>Ongoing training and professional growth opportunities.</li>
+                                    <li>A dynamic, supportive team environment.</li>
+                                </ul>
+                            </div>
+                            <div class="mt-6 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-500 border-t border-gray-100 pt-4">
+                                <span>Date posted: January 9, 2026</span>
+                                <span class="hidden sm:inline">&bull;</span>
+                                <span>Job Type: Full-time</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="py-20 bg-brandorange text-white text-center">
+        <h2 class="text-3xl font-bold">Ready to Join Us?</h2>
+        <p class="mt-4">We’re always on the lookout for talented, driven individuals to join our growing team.</p>
+        <a href="#openings"
+            class="mt-6 inline-block bg-white text-brandorange font-semibold px-8 py-3 rounded hover:bg-orange-50 transition">
+            Explore Careers
+        </a>
+    </section>
+
+    <?php include("footer.php"); ?>
+
+</body>
+
+</html>
