@@ -221,7 +221,7 @@
                         </div>
                     </div>
                     <p class="text-xl md:text-2xl font-bold tracking-wide">
-                        1-844-447-8379
+                        +92-213-4321900
                     </p>
                 </div>
 
@@ -264,9 +264,9 @@
 
                 <div class="mt-10">
                     <h3 class="text-lg font-semibold mb-2">Call Now For More Info</h3>
-                    <a href="tel:1-844-447-8379"
+                    <a href="tel:+92-213-4321900"
                         class="inline-block bg-orange-500 px-6 py-3 rounded-lg text-white text-lg font-bold shadow hover:bg-orange-600 transition">
-                        1-844-447-8379
+                        +92-213-4321900
                     </a>
                 </div>
             </div>
@@ -515,7 +515,7 @@
                         from Inside</li>
                     <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> Show Who's Calling
                         from Outside</li>
-                    <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> FREEAl Musaabto
+                    <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> FREE Al Musaab to
                        Al MusaabCalling</li>
                     <li class="flex items-start gap-3"><span class="text-orange-600 mt-1">•</span> Enhanced Voicemail
                     </li>

@@ -507,7 +507,7 @@
                         An improperly configured firewall creates an illusion of safety while offering no real protection.
                     </p>
                     <p class="text-lg text-gray-700 mb-6">
-                       Al Musaabengineers every rule with purpose. No open attack surfaces. No blind spots. A firewall should enforce structure, not chaos.
+                       Al Musaab engineers every rule with purpose. No open attack surfaces. No blind spots. A firewall should enforce structure, not chaos.
                     </p>
                 </section>
 

@@ -310,7 +310,7 @@
                 </h2>
                 <p class="mt-4 text-xl text-neutral-600">
                     AI isn’t the future, it’s your competitive edge today. We combine AI, Machine Learning, and Deep
-                    Learning to build solutions around your challenges, data, and growth goals. WithAl Musaab, AI
+                    Learning to build solutions around your challenges, data, and growth goals. With Al Musaab, AI
                     doesn’t just work, it works for you.
                 </p>
             </div>
@@ -532,7 +532,7 @@
                     Our 5-Step Approach to Building AI Solutions
                 </h2>
                 <p class="mt-4 text-base text-neutral-600 leading-relaxed">
-                    Every AI journey withAl Musaabbegins with your challenges and ends with your results. Our
+                    Every AI journey with Al Musaabbegins with your challenges and ends with your results. Our
                     structured process ensures measurable outcomes, reliable performance, and innovation you can scale.
                 </p>
             </div>

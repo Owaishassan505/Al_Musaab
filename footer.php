@@ -118,7 +118,7 @@
             <h4 class="text-neutral-800 font-semibold mb-3">Office Connect</h4>
             <ul class="space-y-2">
                 <li><a href="<?= $base ?>/officeconnect/" class="hover:underline">Office Connect</a></li>
-                <li><a href="<?= $base ?>/officeconnectplans/" class="hover:underline">Office Connect Plans</a></li>
+                <!-- <li><a href="<?= $base ?>/officeconnectplans/" class="hover:underline">Office Connect Plans</a></li> -->
             </ul>
 
             <h5 class="mt-4 font-semibold text-neutral-800">Cyber Cloud</h5>

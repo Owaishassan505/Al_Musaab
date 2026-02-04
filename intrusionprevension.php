@@ -349,7 +349,7 @@
 
                 <p class="mt-6 text-[15px] leading-relaxed text-slate-200">
                     Cargo theft is a real problem and costs companies billions annually. Protect your valuable inventory
-                    while enhancing your site-wide monitoring and access control capabilities withAl Musaab’s Video
+                    while enhancing your site-wide monitoring and access control capabilities with Al Musaab’s Video
                     Monitoring and access control systems!
                 </p>
             </article>

@@ -19,7 +19,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta property="og:description"
-        content="Protect enterprises, innovate in security, and shape the future of tech withAl Musaab. See roles and life at Al Musaab." />
+        content="Protect enterprises, innovate in security, and shape the future of tech with Al Musaab. See roles and life at Al Musaab." />
     <meta property="og:url" content="https://almusaab.com/careers/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_PK" />
@@ -294,7 +294,7 @@
                                         <h4 class="text-lg font-semibold text-gray-900 mb-2">Key Responsibilities</h4>
                                         <ul class="list-disc list-inside text-gray-600 space-y-2 mb-4">
                                             <li>Identify and approach potential clients through cold calls, networking, and in-person meetings.</li>
-                                            <li>Present and demonstrateAl Musaab’s products and services effectively to prospects.</li>
+                                            <li>Present and demonstrate Al Musaab’s products and services effectively to prospects.</li>
                                             <li>Negotiate and close sales to achieve and exceed targets.</li>
                                             <li>Maintain detailed records of sales activities and client information in the CRM system.</li>
                                             <li>Provide feedback on market trends, customer needs, and competitive activity.</li>

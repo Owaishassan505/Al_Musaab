@@ -667,7 +667,7 @@
           </h2>
 
           <p class="text-lg text-gray-700 mb-6">
-            Businesses chooseAl Musaabfor large-scale wireless solutions because we bring engineering discipline to a
+            Businesses choose Al Musaab for large-scale wireless solutions because we bring engineering discipline to a
             space where most companies operate by guesswork.
           </p>
 
@@ -701,7 +701,7 @@
           </div>
 
           <p class="text-xl font-bold text-center text-orange-600 mt-8">
-           Al Musaabensures it is built correctly.
+           Al Musaab ensures it is built correctly.
           </p>
         </section>
 

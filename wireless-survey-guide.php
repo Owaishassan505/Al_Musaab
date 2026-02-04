@@ -497,7 +497,7 @@
           </h2>
 
           <p class="text-lg text-gray-700 mb-6">
-            The survey is not the finish line — it is the starting point. OnceAl Musaabcollects the data, we create a
+            The survey is not the finish line — it is the starting point. Once Al Musaab collects the data, we create a
             comprehensive wireless design tailored to your specific environment.
           </p>
 

@@ -1149,7 +1149,7 @@
 
       <div class="mt-12 grid md:grid-cols-3 gap-8">
         <div>
-          <p class="text-2xl font-bold text-orange-500 mb-1">1-844-447-8379</p>
+          <p class="text-2xl font-bold text-orange-500 mb-1">+92-213-4321900</p>
           <p class="text-gray-600">Call our security team</p>
         </div>
         <div>

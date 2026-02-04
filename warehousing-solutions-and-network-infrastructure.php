@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Warehousing Solutions & Network Infrastructure | Al Musaab" />
   <meta name="twitter:description"
-    content="Modernize warehouse infrastructure and operations withAl Musaab’s end-to-end services." />
+    content="Modernize warehouse infrastructure and operations with Al Musaab’s end-to-end services." />
   <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
 
   <!-- Performance hints -->

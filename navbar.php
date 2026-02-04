@@ -153,8 +153,8 @@ $base = "/Al-Musaab"
                             aria-label="Office Connect">
                             <a role="menuitem" href="<?= $base ?>/officeconnect/"
                                 class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Office Connect</a>
-                            <a role="menuitem" href="<?= $base ?>/officeconnectplans/"
-                                class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Office Connect Plans</a>
+                            <!-- <a role="menuitem" href="<?= $base ?>/officeconnectplans/"
+                                class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Office Connect Plans</a> -->
                         </div>
                     </div>
 
@@ -162,6 +162,8 @@ $base = "/Al-Musaab"
                         class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Cloud Security</a>
                     <a role="menuitem" href="<?= $base ?>/development/"
                         class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Development</a>
+                    <a role="menuitem" href="<?= $base ?>/fire-safety-systems/"
+                        class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Fire Safety Systems</a>
 
                     <div class="nav-hover-group">
                         <button type="button"
@@ -296,6 +298,7 @@ $base = "/Al-Musaab"
             <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm"
                 href="<?= $base ?>/warehousing-solutions-and-network-infrastructure/">Warehousing</a>
             <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="<?= $base ?>/development/">Development</a>
+            <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="<?= $base ?>/fire-safety-systems/">Fire Safety Systems</a>
             <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="<?= $base ?>/services/">Services</a>
 
             <details class="py-2">
@@ -308,8 +311,8 @@ $base = "/Al-Musaab"
                         href="<?= $base ?>/managedservices/">Managed Services</a>
                     <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
                         href="<?= $base ?>/officeconnect/">Office Connect</a>
-                    <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
-                        href="<?= $base ?>/officeconnectplans/">Office Connect Plans</a>
+                   <!-- <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
+                        href="<?= $base ?>/officeconnectplans/">Office Connect Plans</a> -->
                     <details>
                         <summary class="py-2 px-3 cursor-pointer select-none rounded hover:bg-gray-50 text-sm">Cyber
                             Cloud Services</summary>

@@ -9,20 +9,20 @@
 
   <title>Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="All-inclusive managed IT services for Canadian businesses: 24/7 monitoring, helpdesk, servers, firewalls, backups, and cloud. Karachi & nationwide coverage." />
+    content="Reliable managed IT services for businesses in Pakistan: 24/7 monitoring, IT support, servers, firewalls, and backups. Expert support for your business." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/managedservices/" />
-  <link rel="alternate" hreflang="en-ca" href="https://almusaab.com/managedservices/" />
+  <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/managedservices/" />
   <meta name="theme-color" content="#0f172a" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Managed IT Services in Pakistan | Al Musaab" />
   <meta property="og:description"
-    content="Proactive MSP support: desktops, servers, firewall monitoring, backups, and cloud. Local experts, national reach." />
+    content="Proactive IT support: desktops, servers, firewall monitoring, and backups. Trusted local experts for your business." />
   <meta property="og:url" content="https://almusaab.com/managedservices/" />
   <meta property="og:site_name" content="Al Musaab" />
-  <meta property="og:locale" content="en_CA" />
+  <meta property="og:locale" content="en_PK" />
   <meta property="og:image"
     content="https://almusaab.com/wp-content/uploads/2025/02/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png" />
   <meta property="og:image:width" content="1200" />
@@ -50,37 +50,100 @@
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-  <!-- Performance hints -->
-  <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
-  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-  <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
-  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
-  <!-- Optional: if the hero image is LCP -->
-  <!-- <link rel="preload" as="image" href="https://almusaab.com/wp-content/uploads/2025/02/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png"> -->
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
 
-  <!-- Page animations (kept) -->
+  <!-- Page animations & Config -->
   <script>
     tailwind.config = {
       theme: {
         extend: {
+          colors: {
+            brand: {
+              blue: '#1e40af',
+              orange: '#f97316',
+              slate: '#0f172a'
+            }
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
           keyframes: {
             fadeInRight: { "0%": { opacity: 0, transform: "translateX(50px)" }, "100%": { opacity: 1, transform: "translateX(0)" } },
             fadeInLeft: { "0%": { opacity: 0, transform: "translateX(-50px)" }, "100%": { opacity: 1, transform: "translateX(0)" } },
-            fadeIn: { "0%": { opacity: 0 }, "100%": { opacity: 1 } }
+            fadeIn: { "0%": { opacity: 0 }, "100%": { opacity: 1 } },
+            fadeInUp: { "0%": { opacity: 0, transform: "translateY(20px)" }, "100%": { opacity: 1, transform: "translateY(0)" } }
           },
           animation: {
             fadeInRight: "fadeInRight 0.8s ease-out forwards",
             fadeInLeft: "fadeInLeft 0.8s ease-out forwards",
-            fadeIn: "fadeIn 1s ease-out forwards"
+            fadeIn: "fadeIn 1s ease-out forwards",
+            fadeInUp: "fadeInUp 0.8s ease-out forwards"
           }
         }
       }
     };
   </script>
+
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    
+    .btn-query-orange {
+        background-color: #f97316;
+        color: #ffffff;
+        padding: 0.75rem 2rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .btn-query-orange:hover {
+        background-color: #ea580c;
+        transform: translateY(-2px);
+        box-shadow: 0 10px 15px -3px rgba(249, 115, 22, 0.3);
+    }
+
+    .btn-query-dark {
+        background-color: #111827;
+        color: #ffffff;
+        padding: 0.75rem 2rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .btn-query-dark:hover {
+        background-color: #1f2937;
+        transform: translateY(-2px);
+    }
+
+    .btn-query-white {
+        background-color: #ffffff;
+        color: #111827;
+        border: 1px solid #d1d5db;
+        padding: 0.75rem 2rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .btn-query-white:hover {
+        border-color: #9ca3af;
+        background-color: #f9fafb;
+    }
+  </style>
 
   <!-- Schema: Organization (site entity reference) -->
   <script type="application/ld+json">
@@ -103,8 +166,8 @@
     "@id":"https://almusaab.com/managedservices/#service",
     "serviceType":"Managed IT Services",
     "provider":{"@id":"https://almusaab.com/#org"},
-    "areaServed":"CA",
-    "description":"All-inclusive managed IT support: desktops, servers, firewall monitoring, backups, cloud and 24/7 helpdesk.",
+    "areaServed":"PK",
+    "description":"Reliable IT support for your business: desktops, servers, security, backups, and 24/7 helpdesk.",
     "offers":{
       "@type":"OfferCatalog",
       "name":"Managed Services",
@@ -126,7 +189,7 @@
     "@id":"https://almusaab.com/managedservices/#webpage",
     "url":"https://almusaab.com/managedservices/",
     "name":"Managed IT Services",
-    "inLanguage":"en-CA",
+    "inLanguage":"en-PK",
     "isPartOf":{"@id":"https://almusaab.com/#website"},
     "about":{"@id":"https://almusaab.com/managedservices/#service"},
     "lastReviewed":"2025-08-18",
@@ -157,70 +220,103 @@
   <!-- HEADER -->
   <?php include("navbar.php"); ?>
 
-  <!-- HERO -->
+  <!-- PREMIUM LIGHT HERO SECTION -->
+  <section class="relative bg-white overflow-hidden py-24 lg:py-32">
+    <!-- Subtle Background Shapes -->
+    <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/2 w-[600px] h-[600px] bg-blue-50 rounded-full blur-3xl opacity-60"></div>
+    <div class="absolute bottom-0 left-0 translate-y-1/2 -translate-x-1/2 w-[400px] h-[400px] bg-orange-50 rounded-full blur-3xl opacity-40"></div>
 
-  <section class="bg-white py-24">
-    <div class="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
-      <!-- Left Column: Text -->
-      <div>
-        <h1 class="text-4xl md:text-5xl font-bold text-neutral-900 leading-tight">
-          Managed Services
+    <div class="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center relative z-10">
+      <!-- Left Column: Content -->
+      <div class="animate-fadeInUp">
+        <div class="flex items-center gap-3 mb-6">
+            <span class="h-px w-8 bg-blue-600"></span>
+            <span class="text-sm font-bold text-blue-600 uppercase tracking-widest">Global Managed IT Services</span>
+        </div>
+        <h1 class="text-4xl md:text-6xl font-extrabold text-neutral-900 leading-[1.15] mb-6">
+          Reliable IT Support <br><span class="text-brand-orange">Simplified</span> for Scale.
         </h1>
-        <p class="mt-4 text-lg text-gray-700 max-w-xl">
-          Total care for your infrastructure, IT, and everything in between.
-          Reliable, scalable, and just the way enterprise IT should feel.
+        <p class="text-xl text-gray-600 mb-10 max-w-xl leading-relaxed">
+          We handle your enterprise infrastructure, cloud operations, and user support with 24/7 proactive monitoring. Focus on your business goals while we handle the technical precision.
         </p>
+        <div class="flex flex-wrap gap-4">
+            <a href="/contactus" class="btn-query-orange">Talk to an Expert</a>
+            <a href="#services" class="btn-query-white">Explore Solutions</a>
+        </div>
+
+        <div class="mt-12 flex items-center gap-8 grayscale opacity-60">
+            <div class="text-xs font-bold text-gray-400 uppercase tracking-widest">Trusted Backend For</div>
+            <div class="h-6 w-px bg-gray-200"></div>
+            <!-- Client niche icons could go here -->
+            <span class="text-sm font-bold text-gray-400">Retail</span>
+            <span class="text-sm font-bold text-gray-400">Healthcare</span>
+            <span class="text-sm font-bold text-gray-400">Logistics</span>
+        </div>
       </div>
 
-      <!-- Right Column: Image -->
-      <div>
-        <img
-          src="<?= $base . '/assets/images/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png' ?>"
-          alt="Managed Services Graphic" class="w-full max-w-lg mx-auto rounded-xl shadow-md" />
+      <!-- Right Column: Premium Visual -->
+      <div class="relative animate-fadeInRight">
+        <div class="absolute inset-0 bg-blue-600/5 rounded-[2.5rem] rotate-3 translate-x-4"></div>
+        <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl shadow-blue-900/10 border border-gray-100">
+            <img 
+                src="<?= $base . '/assets/images/Blue-Modern-7-Step-Types-Of-Waste-Diagram-Timeline-Infographic-Brainstorm.png' ?>" 
+                alt="Modern IT Operations Center" 
+                class="w-full object-cover aspect-[4/3] scale-105"
+            />
+        </div>
+        <!-- Floating Stat Badge -->
+        <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-xl border border-gray-100 animate-bounce-slow">
+            <div class="flex items-center gap-4">
+                <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center text-green-600">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                </div>
+                <div>
+                    <div class="text-2xl font-black text-neutral-900">99.9%</div>
+                    <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest">System Uptime</div>
+                </div>
+            </div>
+        </div>
       </div>
     </div>
-  </section>
-
+  </section><style>@keyframes bounce-slow { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } } .animate-bounce-slow { animation: bounce-slow 4s ease-in-out infinite; }</style>
+<!-- 
   <section class="bg-white py-24">
-    <!-- HERO -->
     <div class="max-w-7xl mx-auto px-6 text-center">
       <h1 class="text-4xl md:text-5xl font-bold text-neutral-900">
         Let’s Talk
       </h1>
       <p class="mt-4 text-gray-600 text-lg">
-        Reach out to us at any of our locations across Pakistan.
+        Contact us to get the best IT support for your office in Pakistan.
       </p>
     </div>
-  </section>
+  </section> -->
 
-  <section class="bg-gray-50 py-24">
+  <!-- <section class="bg-gray-50 py-24">
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-start">
-      <!-- Left Column -->
+   
       <div class="animate-fadeInLeft">
         <p class="text-sm uppercase tracking-wide text-orange-600 font-semibold mb-2">
-          Looking for managed services? We can help!
+          Need IT Support? We are here to help!
         </p>
         <h2 class="text-3xl font-bold text-neutral-900 mb-6">
           Starting from <span class="text-blue-700">$49/User</span>
         </h2>
         <h3 class="text-xl font-semibold text-neutral-800 mb-6">
-          Managed Services Includes:
+          Everything Included:
         </h3>
 
         <ul class="space-y-6 text-gray-700 text-base leading-relaxed">
           <li class="flex items-start gap-3">
             <span class="text-blue-600 mt-1">•</span>
-            Desktop/Notebook PCs: OS optimization, antivirus, remote support,
-            yearly cleanup & more.
+            PC & Laptop Support: Fixing errors, antivirus, remote help, and yearly cleanup.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-blue-600 mt-1">•</span>
-            Servers: User management, backups, server log monitoring,
-            onsite/remote support.
+            Server Support: Managing users, daily backups, and onsite/remote help.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-blue-600 mt-1">•</span>
-            24/7 Firewall Device Monitoring with reports & alerts.
+            24/7 Security: Continuous watching of your network with weekly reports.
           </li>
         </ul>
 
@@ -230,18 +326,18 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M2 8.5l7.5 7.5M2 16l5-5 6.5 6.5L8 22l-6-6z" />
           </svg>
           <span class="text-xl font-semibold text-neutral-900 group-hover:text-blue-700 transition">
-            1-844-447-8379
+            +92-213-4321900
           </span>
         </div>
       </div>
 
-      <!-- Right Column -->
+    
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 animate-fadeInRight delay-200">
         <div class="flex items-start gap-4 p-4 rounded hover:bg-gray-50 transition">
           <svg class="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
             <path d="M9 12h6M12 3v3m0 15v-3m9-6h-3M6 12H3" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
-          <span class="text-sm font-medium text-neutral-800">Secure Remote Desktop & On-Site Support</span>
+          <span class="text-sm font-medium text-neutral-800">Secure Remote & On-Site Support</span>
         </div>
 
         <div class="flex items-start gap-4 p-4 rounded hover:bg-gray-50 transition">
@@ -276,11 +372,11 @@
           <svg class="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
             <path d="M2 12h4M18 12h4M12 2v4M12 18v4" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
-          <span class="text-sm font-medium text-neutral-800">Fiber & Wireless Connectivity</span>
+          <span class="text-sm font-medium text-neutral-800">Internet & Wi-Fi Connections</span>
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="bg-white py-24">
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-start">
@@ -289,17 +385,14 @@
         <img src="<?= $base . '/assets/images/Helpdesk-support-768x512.jpg' ?>" alt="IT Monitoring"
           class="w-full max-w-md mx-auto md:mx-0 rounded" />
         <h3 class="text-2xl md:text-3xl font-semibold text-neutral-900 leading-tight">
-          We Monitor the IT Infrastructure of Your Business While Your
-          Competitors are Fast Asleep
+          We Watch Your Office IT Day and Night to Prevent Problems
         </h3>
         <div class="h-px w-20 bg-gray-300"></div>
         <p class="text-gray-700 leading-relaxed text-base">
-          Yes,Al Musaaboffers exclusive 24-hour helpdesk support to all our clients. This means that a dedicated team
-          of IT masters is always available if you need IT support 24 hours a day.
+          Yes, Al Musaab provides 24-hour technical support to all our clients. This means our team of experts is always available whenever you need help, day or night.
         </p>
         <p class="text-gray-700 leading-relaxed text-base">
-          We use HIPAA-compliant support software for mission-critical infrastructure as we believe in providing the
-          very best to our clients.
+          We use simple and secure support software to fix your problems quickly without wasting your time.
         </p>
       </div>
 
@@ -308,22 +401,18 @@
         <img src="<?= $base . '/assets/images/cyber-security-live-monitoring-4-768x512.jpg' ?>" alt="Cyber Security"
           class="w-full max-w-md mx-auto md:mx-0 rounded shadow-lg" />
         <h3 class="text-2xl md:text-3xl font-semibold text-neutral-900 leading-tight">
-          Cyber Security Live Monitoring:
-          <span class="block text-blue-700 font-bold mt-2">Your Security Is Our Top Priority</span>
+          Live Security Monitoring:
+          <span class="block text-blue-700 font-bold mt-2">Keeping Your Data Safe is Our Priority</span>
         </h3>
         <div class="h-px w-20 bg-gray-300"></div>
         <p class="text-gray-700 leading-relaxed text-base">
-          In 2025, organizations face an average loss of <b>$13.4 million</b> due to cybercrime. Canadians are projected
-          to
-          report between <b>116,700</b> and <b>164,648</b> cyber incidents this year.
+          Every year, thousands of businesses lose millions of rupees due to online hackers. Most attacks happen without anyone noticing for many months.
         </p>
         <p class="text-gray-700 leading-relaxed text-base">
-          These figures are alarming. That’s why we offer live cybersecurity monitoring to businesses, as most breaches
-          go undetected for <b>over 258 days.</b>
+          This is very dangerous for your business. That’s why we watch your system live to stop hackers before they can steal your information.
         </p>
         <p class="text-gray-700 leading-relaxed text-base">
-          Our cybersecurity solutions include SEM (Security Event Management) with real-time alerts, patch detection and
-          analysis, ethical hacking simulations, and regular expert-led cybersecurity assessments.
+          Our security tools include real-time alerts, daily checks for weak points, and expert assessments to keep your office safe.
         </p>
       </div>
     </div>
@@ -334,16 +423,11 @@
       <!-- Text Column -->
       <div class="space-y-6">
         <h3 class="text-3xl md:text-4xl font-semibold text-neutral-900 leading-tight">
-          Insured for Liability
+          Full Insurance Protection
         </h3>
         <div class="h-1 w-24 bg-gradient-to-r from-orange-500 to-orange-300 rounded-full"></div>
         <p class="text-gray-700 leading-relaxed text-lg">
-          Our in-house server, cloud, cybersecurity, and network experts embody only the highest level of
-          professionalism and etiquette. We provide <span class="font-semibold text-neutral-900">$2 million</span>
-          liability insurance for smaller projects and services, while larger-scale engagements are covered with
-          <span class="font-semibold text-neutral-900">$5 million</span>.
-          This ensures our clients can rest assured that any damage or injury incurred on-site will be protected without
-          incident.
+          Our team of experts works with the highest level of care. We have multi-million dollar insurance to cover all our projects. This means you don't have to worry—your business and property are fully protected if anything goes wrong during our work.
         </p>
       </div>
 
@@ -368,23 +452,19 @@
 
         <div class="h-px w-20 bg-gray-300"></div>
         <h2 class="text-3xl md:text-4xl font-bold text-gray-900 leading-tight">
-          Want higher productivity, competence, agility, and competitive
-          benefit for your business?
+          Want to make your business faster and more successful?
         </h2>
         <p class="text-gray-600">
-          In today’s rapidly evolving business landscape, technology must be secure, reliable, and scalable to meet
-          growing demands.
+          In today’s world, your technology must be fast, safe, and ready to grow with your business.
         </p>
         <p class="text-gray-600">
-          Outdated systems can result in downtime, inefficiencies, and missed opportunities, limiting your ability to
-          respond effectively to market changes.
+          Old computers and slow internet can waste your time and cause you to lose customers.
         </p>
         <p class="text-gray-600">
-          We provide modern, future-ready IT infrastructure solutions to keep your business connected, protected, and
-          prepared for sustainable growth.
+          We provide modern IT solutions to keep your business connected and protected at all times.
         </p>
         <p class="text-gray-600">
-          It’s time to refresh and renew your IT infrastructure with our help!
+          It’s time to upgrade your office IT with our help!
         </p>
         <div class="h-px w-20 bg-gray-300"></div>
       </div>
@@ -404,21 +484,18 @@
                     d="M5.121 17.804A13.937 13.937 0 0112 15c2.21 0 4.29.535 6.121 1.476M15 10a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
               </div>
-              <h3 class="text-2xl font-semibold text-gray-900">
-                Free On-Site Consultation
+            <h3 class="text-2xl font-semibold text-gray-900">
+                Free Office IT Check-up
               </h3>
             </div>
             <p class="text-gray-700">
-              Our on-site network assessment identifies equipment and infrastructure that need improvement or upgrade
-              and reviews existing or potential performance issues.
+                We will visit your office to check your computers and Wi-Fi. We will find any parts that are old or slow and need to be fixed.
             </p>
             <p class="text-gray-700">
-              If we discover such problems during the network assessment, we can provide a detailed plan to resolve the
-              issue while optimizing your overall network performance for maximum efficiency.
+                If we find any problems, we will give you a clear plan to fix them so your office can work faster and better.
             </p>
             <p class="text-gray-700">
-              Remember, a state-of-the-art IT infrastructure is the lifeline of a thriving, innovative, and unstoppable
-              business.
+                Remember, good IT is the secret to a successful and unstoppable business.
             </p>
             <div>
               <a href="#contact"
@@ -438,12 +515,11 @@
         Our Services
       </h2>
       <h3 class="text-xl md:text-2xl font-semibold text-gray-900">
-        Cashing in Cloud Technology:
-        <span class="font-bold text-black">From Vulnerable to Unbreachable</span>
+        Using Cloud Technology:
+        <span class="font-bold text-black">Keep Your Data Safe and Reachable</span>
       </h3>
       <p class="text-gray-600 max-w-2xl mx-auto mt-4">
-        Yes, Cloud technology minimizes the risk of security breaches. Learn
-        more about how our cloud services and security can help your business.
+        Cloud technology makes sure you never lose your important files. See how our cloud services can help your business stay safe.
       </p>
       <div class="w-12 h-1 bg-orange-500 mx-auto mt-6 mb-12"></div>
     </div>
@@ -458,17 +534,13 @@
         </h4>
         <ul class="text-gray-700 space-y-3 text-sm text-left">
           <li>
-            • We store Backup VMs, application data, and archives on cloud
-            backups via AWS or Microsoft Azure.
+            • We save your data safely on the cloud using the best tools.
           </li>
           <li>
-            • Cloud backups can be accessed and managed from any authorized
-            remote device as we store data across multiple data centers.
+            • You can reach your files from any device, anywhere in the world.
           </li>
           <li>
-            • Our disaster recovery plan minimizes downtime of servers,
-            databases, and employee workstations and brings critical systems
-            back online.
+            • If your computer breaks, we can bring your work back online quickly.
           </li>
         </ul>
       </div>
@@ -479,15 +551,13 @@
           alt="Migration" class="w-full h-44 object-cover rounded-xl mb-6" />
         <h4 class="text-xl font-semibold text-gray-900 mb-4">Migration</h4>
         <ul class="text-gray-700 space-y-3 text-sm text-left">
-          <li>• We have a dedicated team for a smooth migration.</li>
+          <li>• Our expert team handles the full move for you.</li>
           <li>
-            • Migrate from any dedicated servers, virtual servers, or any
-            other cloud provider.
+            • We move your data and apps from any old server to the cloud.
           </li>
-          <li>• Migrate your database to your new environment.</li>
+          <li>• We make sure all your databases are moved safely.</li>
           <li>
-            • Setup and run your new IPs, network configuration, firewall, and
-            NAT settings.
+            • We setup all the settings so you can start working immediately.
           </li>
         </ul>
       </div>
@@ -501,14 +571,13 @@
         </h4>
         <ul class="text-gray-700 space-y-3 text-sm text-left">
           <li>
-            • Our cloud security strategy is to reduce the threat posed by
-            security risks as much as possible by protecting data, managing
-            user authentication and access, and staying operational in the
-            face of an attack.
+            • We use strong security to protect your data from hackers.
           </li>
           <li>
-            • A key technology to manage cloud security: Encryption, Identity
-            and Access Management, and continuous threat monitoring.
+            • We manage who can access your files to keep them private.
+          </li>
+          <li>
+            • We watch your cloud system 24/7 to stop any attacks.
           </li>
         </ul>
       </div>
@@ -519,13 +588,11 @@
     <!-- Top Heading -->
     <div class="text-center max-w-4xl mx-auto px-6 mb-20">
       <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight">
-        Are You Spending a Lot of Cash on Your
-        <span class="text-blue-900">Team’s Collaboration?</span>
+        Are You Spending Too Much on
+        <span class="text-blue-900">Office Calls?</span>
       </h2>
       <p class="mt-4 text-gray-700 text-base md:text-lg">
-        Our <strong>Office Connect</strong> software provides a
-        full-scale office phone and internet service without breaking the
-        bank, so you can spend your hard-earned money on what matters!
+        Our <strong>Office Connect</strong> service gives you a professional office phone system and fast internet without high costs. Save your money for what matters!
       </p>
       <div class="w-16 h-1 bg-orange-500 mx-auto mt-6"></div>
     </div>
@@ -535,16 +602,14 @@
       <!-- Text -->
       <div class="text-gray-900">
         <h3 class="text-2xl md:text-3xl font-bold mb-4">
-          Don’t Let Email Break Your Bank
+          Professional Email for Your Business
         </h3>
         <div class="w-12 h-1 bg-orange-500 mb-6"></div>
         <p class="text-gray-700 text-base md:text-lg mb-4">
-          Do you know how much time and money you waste worrying about your email services? Contrary to what you think,
-          our managed hosted exchange solutions are easy to set up, use, and scale.
+            Setting up professional business emails doesn't have to be expensive or hard. We handle the full setup so your team can communicate easily.
         </p>
         <p class="text-gray-700 text-base md:text-lg">
-          No, the price is not higher. We only charge a low recurring OPEX fee. Our superheroes have set up and managed
-          Cisco, BroadSoft OnPrem, and Hosted PBX systems for many happy clients.
+            Our prices are low and we don't have any hidden fees. Our experts have set up systems for hundreds of happy clients across Pakistan.
         </p>
       </div>
       <!-- Image with circle -->
@@ -588,30 +653,28 @@
       <!-- Left Column -->
       <div>
         <h2 class="text-3xl font-extrabold text-gray-900 leading-tight mb-6">
-          Don’t Frustrate Your Customers with Low-quality Calls
+          Clear Voice Calls for Your Business
         </h2>
         <hr class="w-16 border-t-2 border-orange-500 mb-6" />
         <p class="text-gray-700 text-base mb-6">
-          Update your VoIP Origination service with our first-rate SIP Trunking and SIP termination Solutions.
+          Stop using poor-quality phone systems that frustrate your customers. Switch to our high-quality office phone solutions.
         </p>
         <ul class="space-y-4 text-sm text-gray-700">
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            You will easily connect a list of hard-to-get numbers at the most negligible cost, sending directly into
-            your current phone system.
+            Get international numbers easily and connect them to your office phone system.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            It doesn’t matter where your calls occur; enjoy the most trustworthy voice service.
+            Enjoy clear and reliable voice calls no matter where you are.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-           Al Musaabmakes deploying SIP forwarding with your current PBX system as easy as pie.
+            We make it very easy to upgrade your current office phone setup.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            We don’t charge a single penny for a start-up and to port your current phone numbers, and we don’t make you
-            sign any contract.
+            No startup fees, no hidden costs, and no long-term contracts.
           </li>
         </ul>
       </div>
@@ -625,34 +688,29 @@
       <!-- Right Column -->
       <div>
         <h2 class="text-3xl font-extrabold text-gray-900 leading-tight mb-6">
-          We Perform All the Hard Work to Accelerate Your Organization
+          We Handle the Hard Work to Help Your Business Grow
         </h2>
         <hr class="w-16 border-t-2 border-orange-500 mb-6" />
         <ul class="space-y-4 text-sm text-gray-700">
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            Perform mandatory network assessment before offering the Hosted
-            platform.
+            We check your network thoroughly before we start any service.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            We offer advanced and avant-garde replacements for defective products.
+            We quickly replace any faulty equipment so your work never stops.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            You will oversee all your contacts from a single intuitive
-            platform.
+            Manage all your office phone contacts from one simple screen.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            We offer call directing, voicemail, cutting-edge analytics, and
-            porting current numbers from over 50 countries with zero cost and
-            downtime.
+            Free features like call forwarding, voicemail, and keeping your old number.
           </li>
           <li class="flex gap-2">
             <span class="mt-1 text-orange-500 text-xl">•</span>
-            Ditch the setup box. Our Virtual Fax Solution gives you a dedicated number, scan-to-fax, inbox/outbox, and
-            digital storage — save trees, save space. All for as low as $99.99.
+            Ditch the old fax machine. Our Digital Fax lets you send and receive faxes through your email. All for as low as $99.99.
           </li>
         </ul>
       </div>
@@ -668,24 +726,21 @@
       <!-- Text Content -->
       <div class="relative z-20">
         <h2 class="text-3xl md:text-4xl font-extrabold leading-tight mb-6">
-          Make your Business Ultra Secure with <br />
-          <span class="text-blue-400">Technical Support & Remote Access</span>
+          Secure Your Business with <br />
+          <span class="text-blue-400">Quick Technical Help & Remote Access</span>
         </h2>
         <div class="w-16 h-1 bg-blue-500 mb-8"></div>
         <p class="text-gray-300 mb-6 leading-relaxed">
-          Today’s world is digitally connected, so businesses must be extra cautious about protecting their critical
-          data and users' confidential information.
+            In today's world, everything is online. This means your business must be extra careful about protecting your private information.
         </p>
         <p class="text-gray-300 mb-6 leading-relaxed">
-          Get peace of mind today with our on-site and remote support, available for all employees. Response times are
-          15 minutes via the HIPAA-compliant support tool <strong>LogMeIn Rescue®</strong>.
+            Get peace of mind with our expert support. We can help you through the internet in just 15 minutes to fix any problems.
         </p>
         <p class="text-gray-300 mb-6 leading-relaxed">
-          We will be your committed partner as we uphold rigorous technical and structural safety practices. Hold secure
-          remote sessions with our two-step verification log-in and highest security protocols.
+            We use the most secure tools and two-step verification to make sure only our experts can access your system safely.
         </p>
         <p class="text-gray-300 leading-relaxed">
-          Hold secure remote sessions with our two-step verification log-in and highest security protocols.
+            We are your trusted partner for all technical and structural safety needs in Pakistan.
         </p>
       </div>
 
@@ -717,8 +772,8 @@
       <!-- IT Strategy Planning -->
       <div class="space-y-6">
         <h3 class="text-3xl font-extrabold text-neutral-900 leading-snug">
-          Generate More <span class="text-blue-700">Revenue</span> with IT
-          Strategy Planning
+          Grow Your <span class="text-blue-700">Business</span> with 
+          Smart IT Planning
         </h3>
         <div class="h-px w-20 bg-gray-300"></div>
 
@@ -729,8 +784,7 @@
                 d="M16.707 5.293a1 1 0 00-1.414 0L8 12.586 4.707 9.293a1 1 0 10-1.414 1.414l4 4a1 1 0 001.414 0l8-8a1 1 0 000-1.414z" />
             </svg>
             <p class="text-gray-700 text-base leading-relaxed">
-              When performing at its peak seamlessly, your business generates more revenue and reaches new markets.
-              Anyone who thinks otherwise lives in a fool’s paradise.
+              When your technology works perfectly, your business can grow faster and reach more customers.
             </p>
           </div>
 
@@ -770,7 +824,7 @@
                 d="M16.707 5.293a1 1 0 00-1.414 0L8 12.586 4.707 9.293a1 1 0 10-1.414 1.414l4 4a1 1 0 001.414 0l8-8a1 1 0 000-1.414z" />
             </svg>
             <p class="text-gray-700 text-base leading-relaxed">
-              Hundreds of Canadian organizations thrive on our intelligent strategy portfolio.
+              Hundreds of businesses across Pakistan trust our smart planning to stay ahead of the competition.
             </p>
           </div>
         </div>
@@ -780,8 +834,8 @@
       <!-- Network and Email Monitoring -->
       <div class="space-y-6">
         <h3 class="text-3xl font-extrabold text-neutral-900 leading-snug">
-          Save Your Day with <span class="text-blue-700">Network</span> and
-          Email System Monitoring
+          Avoid Disasters with <span class="text-blue-700">Continuous</span>
+          Office Monitoring
         </h3>
         <div class="h-px w-20 bg-gray-300"></div>
 
@@ -792,7 +846,7 @@
                 d="M16.707 5.293a1 1 0 00-1.414 0L8 12.586 4.707 9.293a1 1 0 10-1.414 1.414l4 4a1 1 0 001.414 0l8-8a1 1 0 000-1.414z" />
             </svg>
             <p class="text-gray-700 text-base leading-relaxed">
-              It’s 1 PM. A networking failure halts operations. Clients are mad. Your name? Smeared.
+              Imagine your internet stops working in the middle of a big meeting. Your work stops and customers get upset.
             </p>
           </div>
 
@@ -812,7 +866,7 @@
                 d="M16.707 5.293a1 1 0 00-1.414 0L8 12.586 4.707 9.293a1 1 0 10-1.414 1.414l4 4a1 1 0 001.414 0l8-8a1 1 0 000-1.414z" />
             </svg>
             <p class="text-gray-700 text-base leading-relaxed">
-              The solution? I'd appreciate your continued monitoring of your networks and mail systems.
+              The solution? Continued monitoring of your networks and mail systems.
             </p>
           </div>
 
@@ -832,7 +886,7 @@
                 d="M16.707 5.293a1 1 0 00-1.414 0L8 12.586 4.707 9.293a1 1 0 10-1.414 1.414l4 4a1 1 0 001.414 0l8-8a1 1 0 000-1.414z" />
             </svg>
             <p class="text-gray-700 text-base leading-relaxed">
-              WithAl Musaab, our SOC 24 monitors all your hardware and cloud infrastructure and provides proactive
+              With Al Musaab, our SOC 24 monitors all your hardware and cloud infrastructure and provides proactive
               support.
             </p>
           </div>
@@ -844,10 +898,10 @@
   <section class="bg-white py-24" id="essentials">
     <div class="max-w-7xl mx-auto px-6">
       <div class="text-center mb-16">
-        <h2 class="text-4xl font-extrabold text-neutral-900">Essentials</h2>
+        <h2 class="text-4xl font-extrabold text-neutral-900">Office Essentials</h2>
         <div class="w-12 h-1 bg-orange-500 mx-auto mt-4"></div>
         <p class="text-lg text-gray-600 mt-4 max-w-2xl mx-auto">
-          IT must-haves — delivered fast, supported long, and scaled smart.
+          Common IT services you need to keep your office running smoothly.
         </p>
       </div>
 
@@ -858,12 +912,10 @@
             class="w-full h-56 object-cover rounded-t-2xl" />
           <div class="bg-gray-50 p-6 rounded-b-2xl shadow-sm hover:shadow-md transition hover:scale-[1.03]">
             <h3 class="text-lg font-semibold text-neutral-900 mb-2">
-              Professional IT Consultation
+              Expert IT Advice
             </h3>
             <p class="text-gray-700 text-sm leading-relaxed">
-              We analyze your current systems and give you a clear, actionable
-              roadmap to boost performance, eliminate bottlenecks, and
-              modernize your setup.
+                We look at your current office setup and give you a simple plan to make everything faster and stop any recurring problems.
             </p>
           </div>
         </div>
@@ -874,12 +926,11 @@
             class="w-full h-56 object-cover rounded-t-2xl" />
           <div class="bg-gray-50 p-6 rounded-b-2xl shadow-sm hover:shadow-md transition hover:scale-[1.03]">
             <h3 class="text-lg font-semibold text-neutral-900 mb-2">
-              Move, Add, or Change (MAC)
-            </h3>
-            <p class="text-gray-700 text-sm leading-relaxed">
-              Do you need to deploy new hardware or reconfigure software? We handle it with smooth transitions, minimal
-              delays, no finger-pointing, and results.
-            </p>
+                Office Moves & Setup
+              </h3>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                Moving to a new office or adding new staff? We handle all the wiring, computer setup, and software so you can start working immediately.
+              </p>
           </div>
         </div>
 
@@ -889,12 +940,11 @@
             class="w-full h-56 object-cover rounded-t-2xl" />
           <div class="bg-gray-50 p-6 rounded-b-2xl shadow-sm hover:shadow-md transition hover:scale-[1.03]">
             <h3 class="text-lg font-semibold text-neutral-900 mb-2">
-              Break-Fix & On-Call Install
-            </h3>
-            <p class="text-gray-700 text-sm leading-relaxed">
-              Same-day response for critical issues. One call and our techs are on-site fixing, installing, or replacing
-              what broke, no questions, just action.
-            </p>
+                Emergency Repairs
+              </h3>
+              <p class="text-gray-700 text-sm leading-relaxed">
+                If something breaks, we fix it fast. We offer quick on-site help to get your broken computers or internet back up and running.
+              </p>
           </div>
         </div>
       </div>
@@ -934,41 +984,37 @@
       <!-- Text -->
       <div class="text-gray-900">
         <h3 class="text-3xl font-bold mb-4">
-          Untangling the Procurement Process
+          Easy Computer & Hardware Buying
         </h3>
         <div class="w-12 h-1 bg-orange-500 mb-6"></div>
         <p class="text-gray-700 text-base md:text-lg mb-6">
-          From sourcing to delivery to vendor management, we simplify procurement so you can focus on growth.
+            We help you buy the right computers and equipment at the best prices, handling everything from delivery to setup.
         </p>
 
         <ul class="space-y-4 text-gray-700 text-base md:text-lg">
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            Get the products at the best price available
+            Get high-quality products at the best market price.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            Streamline management from purchasing to renewals
+            We handle the warranty and repairs for you.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            Negotiating with vendors to get the best possible price
+            We suggest the best brands that work for your budget.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            Conducting thorough research and compatibility checks
+            We check every computer before it reaches your office.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            Managing RMA for defective units as per vendor policy
+            No need to worry about fake or low-quality parts.
           </li>
           <li class="flex items-start gap-3">
             <span class="text-orange-500 mt-1 text-xl">•</span>
-            We have vendors and partners in almost every industry
-          </li>
-          <li class="flex items-start gap-3">
-            <span class="text-orange-500 mt-1 text-xl">•</span>
-            Ask us for our customized catalog with Live Inventory.
+            Quick delivery across all major cities in Pakistan.
           </li>
         </ul>
       </div>
@@ -993,11 +1039,10 @@
       <!-- Top Heading -->
       <div class="text-center mb-20">
         <h2 class="text-4xl font-extrabold text-neutral-900">
-          Your Website Can Make or Break Your Reputation
+          A Good Website Helps You Grow Your Business
         </h2>
         <p class="text-lg text-gray-600 mt-4">
-          Yes, because <span class="font-semibold">85%</span> of customers
-          visit a business’s website before buying.
+            Most customers in Pakistan check your website before they decide to visit or buy from you.
         </p>
         <div class="w-10 h-1 bg-orange-500 mx-auto mt-6"></div>
       </div>
@@ -1012,28 +1057,25 @@
 
           <div class="space-y-4 text-base text-gray-700 leading-relaxed">
             <p>
-              Share your vision through our online interview—our design team thrives on turning big ideas into
-              beautiful, functional websites.
+                Tell us your vision and we will build a beautiful, fast website for you.
             </p>
             <p>
-              Our Portal gives you full control: monitor project progress, upload files, review designs, and leave
-              feedback—anytime, 24/7.
+                You can easily monitor our progress, share files, and give feedback anytime you want.
             </p>
             <p>
-              Each subscription includes 30 minutes of content updates every month, so your site stays fresh without
-              lifting a finger.
+                We also offer free monthly updates to keep your site fresh and up-to-date.
             </p>
             <p>
-              <span class="font-semibold text-neutral-900">Live campaign monitoring:</span>
-              Track your budget, view campaign performance, and access real-time reports—all from your dashboard.
+              <span class="font-semibold text-neutral-900">Easy to Manage:</span>
+              Track how many people are visiting your site from one simple dashboard.
             </p>
             <p>
-              <span class="font-semibold text-neutral-900">Monthly reporting:</span>
-              Get a clear view of how your site is doing, with insights delivered straight through the Portal.
+              <span class="font-semibold text-neutral-900">Professional Design:</span>
+              We make your business look world-class and trustworthy online.
             </p>
             <p>
-              <span class="font-semibold text-neutral-900">No setup fees:</span>
-              Your subscription covers everything needed to keep your online presence live, optimized, and up-to-date.
+              <span class="font-semibold text-neutral-900">No Hidden Costs:</span>
+              Everything you need to stay online is included in one simple plan.
             </p>
           </div>
 
@@ -1071,9 +1113,7 @@
 
         <div class="space-py-4">
           <p class="text-gray-700 text-base leading-relaxed">
-            Includes hosting, marketing automation, and more! Our Design Team knows what it takes to build an
-            eye-catching, effective website. Includes free tools to get your site noticed. Are you selling products? We
-            also build e-commerce websites!
+            Our websites include fast hosting, security, and everything your business needs. If you want to sell products online, we also build complete e-commerce stores for you.
           </p>
         </div>
       </div>
@@ -1088,19 +1128,13 @@
 
         <div class="space-y-4">
           <p class="text-gray-700 text-base leading-relaxed">
-            Our process starts with <b>listening</b>. We sit down with your team, your partners—even peek into how your
-            business runs day to day.
+            First, we <b>listen</b> to you to understand your business and what you want to achieve.
           </p>
           <p class="text-gray-700 text-base leading-relaxed">
-            Then we do our <b>homework</b>. We uncover what makes your business unique and translate that into a website
-            that
-            tells your story, not just shows your services.
+            Then we <b>design</b> a website that is unique to your brand and speaks directly to your customers in Pakistan.
           </p>
           <p class="text-gray-700 text-base leading-relaxed">
-            Every element has intent. Every paragraph speaks for you when you're not in the room. <b>
-              This isn’t just web
-              design—it’s brand translation.
-            </b>
+            Every part of your new website will have a purpose—to grow your business and build your reputation. <b>This is more than just design; it's a tool for your success.</b>
           </p>
         </div>
       </div>

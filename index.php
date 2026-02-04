@@ -508,6 +508,12 @@
             "desc" => "Get a modern phone system for your office with clear calls and advanced features. It’s affordable, easy to use, and we manage it all for you.",
             "link" => "officeconnect"
           ],
+          [
+            "icon" => '<i data-lucide="flame" class="h-8 w-8 mx-auto text-red-600"></i>',
+            "title" => "Fire Safety Systems",
+            "desc" => "Protect your workplace with NFPA-compliant fire detection and suppression systems. From extinguishers to automated alarms, we ensure total site safety.",
+            "link" => "fire-safety-systems"
+          ],
         ];
 
 
@@ -547,6 +553,35 @@
         }
       }
     </style>
+  </section>
+
+  <!-- FIRE SAFETY SPOTLIGHT -->
+  <section class="py-24 bg-slate-950 text-white overflow-hidden relative">
+    <div class="absolute inset-0 opacity-10">
+      <img src="<?= $base ?>/assets/images/blue_technical_background_1.jpg" alt="Fire Safety" class="w-full h-full object-cover">
+    </div>
+    <div class="max-w-7xl mx-auto px-6 relative z-10 grid lg:grid-cols-2 gap-16 items-center">
+      <div class="animate-fadeInLeft">
+        <span class="text-brand-orange font-bold uppercase tracking-[0.3em] text-sm mb-4 block">Certified Life-Safety</span>
+        <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter mb-6 leading-tight">
+          Scale <span class="text-brand-orange">Securely.</span> <br> Lead Confidently.
+        </h2>
+        <p class="text-slate-400 text-lg mb-8 leading-relaxed font-medium">
+          Protect your mission-critical infrastructure with advanced detection and suppression systems. Engineered for zero-failure performance in refineries, data centers, and heavy industrial zones.
+        </p>
+        <div class="flex flex-wrap gap-4">
+          <a href="<?= $base ?>/fire-safety-systems" class="btn-query-orange">
+            Explore Fire Solutions
+          </a>
+        </div>
+      </div>
+      <div class="relative animate-fadeInRight">
+        <div class="aspect-video rounded-[2rem] overflow-hidden border-8 border-white/5 shadow-2xl relative z-10">
+          <img src="<?= $base ?>/assets/images/fire-safety-pro.png" alt="Fire Protection" class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 hover:brightness-100 transition-all duration-700">
+        </div>
+        <div class="absolute -bottom-6 -right-6 w-32 h-32 bg-brand-orange rounded-full blur-3xl opacity-20"></div>
+      </div>
+    </div>
   </section>
 
 

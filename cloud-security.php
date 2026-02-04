@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cloud Security & Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak withAl Musaab’s experts today." />
+    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak with Al Musaab’s experts today." />
   <link rel="canonical" href="https://almusaab.com/cloud-security/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
@@ -257,7 +257,7 @@
             <h2 class="text-4xl font-bold tracking-tight">Centralized Management & Visibility</h2>
             <p class="text-gray-600 mt-6 leading-relaxed">
               Simplify cloud security with centralized policy management and intuitive control,
-              leveraging Fortinet's powerful tools withAl Musaabexpertise.
+              leveraging Fortinet's powerful tools with Al Musaab expertise.
             </p>
             <ul class="mt-6 space-y-3 text-gray-700 list-disc list-inside">
               <li>Unified security policies across all environments</li>

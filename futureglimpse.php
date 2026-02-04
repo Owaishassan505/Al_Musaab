@@ -1,14 +1,20 @@
 <?php $base = "" ?><!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Technology Solutions | Al Musaab</title>
+    <title>The Future Glimpse | Al Musaab</title>
     <meta name="description"
-        content="Technology solutions for exceptional IT experiences. Video-first hero section in Microsoft-style layout." />
-    <link rel="icon" href="/favicon.ico" />
+        content="Explore the frontier of technology with Al Musaab. Immersive AR/VR, Predictive AI, and Next-Gen Networking solutions." />
+    
+    <!-- Google Fonts: Inter for that clean, professional Microsoft/QueryTel look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
     <script src="https://cdn.tailwindcss.com"></script>
+    
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -25,44 +31,124 @@
             theme: {
                 extend: {
                     colors: {
-                        brand: { blue: '#1e40af', orange: '#f97316' }
+                        brand: {
+                            blue: '#1e40af',
+                            orange: '#f97316',
+                            slate: '#0f172a'
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
                     },
                     keyframes: {
-                        fadeUp: { '0%': { opacity: 0, transform: 'translateY(20px)' }, '100%': { opacity: 1, transform: 'translateY(0)' } },
-                        fadeIn: { '0%': { opacity: 0 }, '100%': { opacity: 1 } }
+                        fadeInUp: {
+                            '0%': { opacity: '0', transform: 'translateY(20px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        }
                     },
-                    animation: { fadeUp: 'fadeUp 1s ease-out forwards', fadeIn: 'fadeIn 2s ease-out forwards' }
+                    animation: {
+                        fadeInUp: 'fadeInUp 0.8s ease-out forwards',
+                    }
                 }
             }
         }
     </script>
-    <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
+
     <style>
-        .vignette::after {
-            content: '';
-            position: absolute;
-            inset: 0;
-            pointer-events: none;
-            background: radial-gradient(120% 120% at 80% 40%, rgba(15, 23, 42, 0.0) 0%, rgba(15, 23, 42, 0.3) 55%, rgba(15, 23, 42, 0.75) 100%);
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #ffffff;
+            color: #111827;
+            overflow-x: hidden;
         }
 
-        @media (prefers-reduced-motion: reduce) {
-            * {
-                animation: none !important;
-                transition: none !important
-            }
+        /* QueryTel Button Styles */
+        .btn-query-orange {
+            background-color: #f97316;
+            color: #ffffff;
+            padding: 0.75rem 2rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .btn-query-orange:hover {
+            background-color: #ea580c;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(249, 115, 22, 0.3);
         }
 
+        .btn-query-dark {
+            background-color: #111827;
+            color: #ffffff;
+            padding: 0.75rem 2rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .btn-query-dark:hover {
+            background-color: #1f2937;
+            transform: translateY(-2px);
+        }
+
+        .btn-query-white {
+            background-color: #ffffff;
+            color: #111827;
+            border: 1px solid #d1d5db;
+            padding: 0.75rem 2rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .btn-query-white:hover {
+            border-color: #9ca3af;
+            background-color: #f9fafb;
+        }
+
+        /* Gradient Text */
+        .text-gradient-blue {
+            background: linear-gradient(to right, #2563eb, #1e40af);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* Glassmorphism Sections */
+        .glass-card {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+        }
+
+        /* Globe Container Fix */
         #globe-container canvas {
             pointer-events: none !important;
             position: absolute !important;
             inset: 0 !important;
+            opacity: 0.6;
+        }
+
+        .section-padding {
+            padding-top: 6rem;
+            padding-bottom: 6rem;
+        }
+
+        /* Microsoft-style Layout Overlays */
+        .hero-overlay {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(15, 23, 42, 0.7) 100%);
         }
     </style>
-
 </head>
 
-<body class="bg-white text-neutral-900">
+<body class="selection:bg-blue-600 selection:text-white">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57GG72GW" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
@@ -70,1062 +156,341 @@
 
     <?php include('navbar.php'); ?>
 
-
-    <section
-        class="relative isolate overflow-hidden bg-slate-950 text-white min-h-[800px] flex items-center justify-center">
-
-        <!-- glowing background -->
-        <div aria-hidden="true" class="absolute inset-0 -z-20">
-            <div
-                class="absolute -top-40 left-1/2 -translate-x-1/2 w-[700px] h-[700px] rounded-full bg-blue-600/30 blur-[180px] animate-pulse">
-            </div>
-            <div
-                class="absolute bottom-0 right-0 w-[500px] h-[500px] rounded-full bg-orange-500/20 blur-[200px] animate-[floatY_14s_ease-in-out_infinite]">
-            </div>
+    <!-- PREMIUM VIDEO HERO SECTION (Microsoft Style) -->
+    <header class="relative min-h-[90vh] flex items-center overflow-hidden bg-brand-slate text-white">
+        <!-- Background Asset (High Fidelity Texture) -->
+        <div class="absolute inset-0 z-0">
+            <video autoplay muted loop playsinline class="w-full h-full object-cover">
+                <source src="<?= $base ?>/assets/video/OfficeTechnologyConnection(1080p,h264)(1).mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0 hero-overlay"></div>
         </div>
 
-        <!-- content -->
-        <div class="relative mx-auto max-w-7xl px-6 py-32 sm:py-40 text-center z-30">
-            <span class="inline-block text-sm font-semibold tracking-widest text-orange-400 uppercase animate-fadeInUp">
-                ✦ Glimpse of the Future ✦
-            </span>
+        <div class="container mx-auto px-6 relative z-20 grid lg:grid-cols-2 gap-12 items-center">
+            <div class="animate-fadeInUp">
+                <span class="inline-block py-1 px-3 rounded-full bg-blue-600/20 border border-blue-500/30 text-blue-400 text-xs font-bold tracking-widest uppercase mb-6">
+                    Vision 2030 Initialized
+                </span>
+                <h1 class="text-5xl lg:text-7xl font-extrabold leading-tight mb-6">
+                    Tomorrow's <br>Technology, <br> <span class="text-brand-orange">Delivered Today.</span>
+                </h1>
+                <p class="text-xl text-gray-300 mb-10 max-w-lg leading-relaxed">
+                    Al Musaab is redefining the frontier of information technology. From immersive workspaces to predictive infrastructure, we build the systems that power the next era of business.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <a href="#solutions" class="btn-query-orange">Explore Solutions</a>
+                    <a href="/contactus" class="btn-query-white !bg-transparent !text-white !border-white/30 hover:!bg-white/10">Request a Briefing</a>
+                </div>
+            </div>
 
-            <h1 class="mt-6 text-4xl sm:text-6xl md:text-7xl font-extrabold leading-[1.2] sm:leading-[1.25] md:leading-[1.3]
-      bg-gradient-to-r from-blue-400 via-white to-orange-400 bg-clip-text text-transparent animate-fadeInUp">
-                The Next Era of Technology
-            </h1>
-
-            <p class="mt-6 text-lg sm:text-xl text-slate-300 max-w-2xl mx-auto animate-fadeInUp">
-                AR, VR, smarter collaboration, powerful consoles, and lightning-fast networks.
-                Tomorrow’s innovations — already unfolding today.
-            </p>
-
-            <div class="mt-10 flex justify-center gap-4 animate-fadeInUp">
-                <a href="#glimpse"
-                    class="px-8 py-3 rounded-xl bg-orange-500 hover:bg-orange-600 text-white font-medium shadow-lg shadow-orange-500/30 transition">
-                    Explore the Future
-                </a>
-                <a href="/contactus"
-                    class="px-8 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-medium ring-1 ring-white/20 transition">
-                    Request an Expert
-                </a>
+            <!-- Integrated Globe Visual -->
+            <div class="relative h-[500px] hidden lg:block">
+                <div id="globe-container" class="absolute inset-0 w-full h-full"></div>
             </div>
         </div>
+    </header>
 
-        <!-- Interactive Globe -->
-        <div id="globe-container" class="absolute inset-0 w-full h-[700px] z-10 pointer-events-none"></div>
+    <!-- THE FRONTIER PILLARS (Redesigned Mosaic) -->
+    <section id="solutions" class="section-padding bg-gray-50 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:40px_40px]">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mb-20">
+                <div class="flex items-center gap-4 mb-4">
+                    <div class="h-px w-12 bg-blue-600"></div>
+                    <h2 class="text-sm font-bold text-blue-600 uppercase tracking-widest">Innovation Ecosystem</h2>
+                </div>
+                <h3 class="text-4xl md:text-6xl font-extrabold text-gray-900 mb-8 leading-[1.1]">The Stack That Will <br><span class="text-gradient-blue">Define The Decade.</span></h3>
+                <p class="text-lg text-gray-600 leading-relaxed max-w-2xl">
+                    Our R&D roadmap focuses on the intersection of human cognitive intent and machine execution speed. We aren't just deploying tech; we're architecting future workflows.
+                </p>
+            </div>
+
+            <div class="grid lg:grid-cols-12 gap-6 items-stretch">
+                <!-- LEADING PILLAR: AR/VR (Mosaic Hero) -->
+                <div class="lg:col-span-7 group relative overflow-hidden bg-white rounded-3xl border border-gray-200 shadow-sm transition-all hover:shadow-2xl hover:border-blue-200">
+                    <div class="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 rounded-full blur-3xl -mr-20 -mt-20"></div>
+                    <div class="p-10 relative z-10 h-full flex flex-col">
+                        <div class="flex justify-between items-start mb-12">
+                            <div class="w-16 h-16 bg-blue-600 text-white rounded-2xl flex items-center justify-center shadow-lg transform group-hover:rotate-12 transition-transform">
+                                <svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+                            </div>
+                            <div class="text-right">
+                                <span class="block text-[10px] font-black text-blue-600 uppercase tracking-tighter opacity-40">Status: Active Deployment</span>
+                                <span class="block text-2xl font-bold text-gray-900">01</span>
+                            </div>
+                        </div>
+                        <h4 class="text-3xl font-extrabold text-gray-900 mb-6 uppercase tracking-tight">Immersive Presence</h4>
+                        <p class="text-gray-600 mb-10 text-lg leading-relaxed max-w-md">
+                            Eliminating geographical barriers through spatial computing. We deploy head-worn infrastructure that allows teams to manipulate 3D twins of their physical operations in real-time.
+                        </p>
+                        
+                        <div class="mt-auto grid grid-cols-2 md:grid-cols-4 gap-4 border-t border-gray-100 pt-8">
+                            <div class="space-y-1">
+                                <span class="text-[10px] font-bold text-gray-400 uppercase">Latency</span>
+                                <p class="text-sm font-bold text-blue-600">< 11ms</p>
+                            </div>
+                            <div class="space-y-1">
+                                <span class="text-[10px] font-bold text-gray-400 uppercase">Engine</span>
+                                <p class="text-sm font-bold text-gray-700">OpenXR / Unity</p>
+                            </div>
+                            <div class="space-y-1">
+                                <span class="text-[10px] font-bold text-gray-400 uppercase">Security</span>
+                                <p class="text-sm font-bold text-gray-700">AES-256V</p>
+                            </div>
+                            <div class="space-y-1">
+                                <span class="text-[10px] font-bold text-gray-400 uppercase">Tier</span>
+                                <p class="text-sm font-bold text-gray-700">Enterprise+</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SECOND PILLAR: AI (Mosaic Side) -->
+                <div class="lg:col-span-5 group bg-brand-slate text-white rounded-3xl border border-gray-800 p-10 flex flex-col hover:bg-[#161e31] transition-colors relative overflow-hidden">
+                    <div class="absolute bottom-0 left-0 w-full h-1/2 bg-gradient-to-t from-brand-orange/10 to-transparent"></div>
+                    <div class="flex justify-between items-start mb-12">
+                        <div class="w-16 h-16 bg-brand-orange text-white rounded-2xl flex items-center justify-center shadow-lg shadow-orange-500/20 group-hover:scale-110 transition-transform">
+                            <svg class="w-9 h-9" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.989-2.386l-.548-.547z"></path></svg>
+                        </div>
+                        <span class="text-2xl font-bold opacity-20">02</span>
+                    </div>
+                    <h4 class="text-2xl font-extrabold mb-4 uppercase tracking-tight">Agentic AI Swarms</h4>
+                    <p class="text-gray-400 mb-8 leading-relaxed">
+                        Beyond basic automation. Our AI agents monitor network health, manage security patches, and optimize power consumption autonomously.
+                    </p>
+                    <div class="mt-auto flex flex-wrap gap-2 pt-6 border-t border-white/5">
+                        <span class="px-3 py-1 bg-white/5 rounded-full text-[10px] font-bold uppercase tracking-wider text-orange-400">Deep Meta</span>
+                        <span class="px-3 py-1 bg-white/5 rounded-full text-[10px] font-bold uppercase tracking-wider text-white/60">Auto-Heal</span>
+                        <span class="px-3 py-1 bg-white/5 rounded-full text-[10px] font-bold uppercase tracking-wider text-white/60">Edge-Local</span>
+                    </div>
+                </div>
+
+                <!-- THIRD PILLAR: Networking (Mosaic Full Width Row) -->
+                <div class="lg:col-span-5 group bg-white rounded-3xl border border-gray-200 p-10 flex flex-col hover:border-blue-600/30 transition-all">
+                    <div class="flex justify-between items-start mb-8">
+                        <div class="w-14 h-14 bg-gray-100 text-gray-900 rounded-xl flex items-center justify-center group-hover:bg-blue-600 group-hover:text-white transition-colors">
+                            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071a9.05 9.05 0 0112.728 0m-15.557-2.828a13.58 13.58 0 0119.092 0"></path></svg>
+                        </div>
+                        <span class="text-2xl font-bold text-gray-100 group-hover:text-blue-600/10 transition-colors">03</span>
+                    </div>
+                    <h4 class="text-2xl font-extrabold text-gray-900 mb-4 uppercase tracking-tight">Ubiquitous Connectivity</h4>
+                    <p class="text-gray-600 leading-relaxed mb-6">
+                        Data at the speed of thought. 100G industrial backbones and private wireless networks.
+                    </p>
+                    <div class="mt-auto space-y-3">
+                        <div class="flex justify-between items-center text-xs">
+                            <span class="font-bold text-gray-400 uppercase">Coverage Density</span>
+                            <span class="font-black text-gray-900">99.999%</span>
+                        </div>
+                        <div class="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
+                            <div class="bg-blue-600 h-full w-[99%]" style="width: 99.999%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FOURTH BLOCK: Statistics / Visual Break -->
+                <div class="lg:col-span-7 bg-gradient-to-br from-blue-700 to-indigo-900 rounded-3xl p-10 text-white relative overflow-hidden flex items-center">
+                    <div class="absolute inset-0 opacity-10 animate-pulse bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]"></div>
+                    <div class="relative z-10 w-full grid grid-cols-2 md:grid-cols-3 gap-8">
+                        <div>
+                            <p class="text-4xl font-black mb-1">10X</p>
+                            <p class="text-xs uppercase font-bold tracking-widest text-blue-200">Processing Speed</p>
+                        </div>
+                        <div>
+                            <p class="text-4xl font-black mb-1">ZERO</p>
+                            <p class="text-xs uppercase font-bold tracking-widest text-blue-200">Downtime Target</p>
+                        </div>
+                        <div class="col-span-2 md:col-span-1">
+                            <p class="text-4xl font-black mb-1">2030</p>
+                            <p class="text-xs uppercase font-bold tracking-widest text-blue-200">Roadmap Ready</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
+    <!-- FULL-WIDTH CONTENT BREAK (Microsoft Style Image/Video) -->
+    <section class="relative h-[600px] bg-brand-slate overflow-hidden">
+        <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover opacity-50">
+            <source src="<?= $base ?>/assets/video/Yealink.mp4" type="video/mp4">
+        </video>
+        <div class="absolute inset-0 bg-gradient-to-r from-brand-slate via-brand-slate/40 to-transparent"></div>
+        <div class="relative z-10 container mx-auto px-6 h-full flex items-center">
+            <div class="max-w-2xl text-white animate-fadeInUp">
+                <h3 class="text-4xl md:text-5xl font-extrabold mb-6 leading-tight">Technology in Motion</h3>
+                <p class="text-lg text-gray-300 mb-8 leading-relaxed">
+                    We don't just talk about the future; we build it. Our production environments feature the latest in Yealink collaboration, Fortinet security, and high-performance computation hardware.
+                </p>
+                <div class="flex gap-4">
+                    <a href="/aboutus" class="btn-query-orange">Learn About Our Process</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- STRATEGIC ROADMAP (Microsoft Style Clean) -->
+    <section class="section-padding bg-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center max-w-3xl mx-auto mb-20">
+                <h2 class="text-sm font-bold text-blue-600 uppercase tracking-widest mb-4">Growth Timeline</h2>
+                <h3 class="text-4xl font-extrabold text-gray-900 mb-6">Our Roadmap to 2030</h3>
+                <p class="text-gray-600 text-lg">A phased approach to deploying frontier technology across the region.</p>
+            </div>
 
+            <div class="relative">
+                <!-- Center Line -->
+                <div class="absolute left-1/2 top-0 bottom-0 w-px bg-gray-200 hidden md:block"></div>
+
+                <div class="space-y-12">
+                    <!-- 2026 -->
+                    <div class="relative flex flex-col md:flex-row items-center gap-8">
+                        <div class="md:w-1/2 text-center md:text-right">
+                            <h4 class="text-3xl font-extrabold text-blue-600 mb-2">2026</h4>
+                            <p class="text-xl font-bold text-gray-900 mb-2">Omnipresent AR</p>
+                            <p class="text-gray-600">Universal deployment of AR support across all Al Musaab managed infrastructures.</p>
+                        </div>
+                        <div class="w-4 h-4 rounded-full bg-blue-600 relative z-10 hidden md:block"></div>
+                        <div class="md:w-1/2"></div>
+                    </div>
+
+                    <!-- 2027 -->
+                    <div class="relative flex flex-col md:flex-row-reverse items-center gap-8">
+                        <div class="md:w-1/2 text-center md:text-left">
+                            <h4 class="text-3xl font-extrabold text-brand-orange mb-2">2027</h4>
+                            <p class="text-xl font-bold text-gray-900 mb-2">Agentic Business</p>
+                            <p class="text-gray-600">Full integration of autonomous AI agents into core ERP and logistics platforms.</p>
+                        </div>
+                        <div class="w-4 h-4 rounded-full bg-brand-orange relative z-10 hidden md:block"></div>
+                        <div class="md:w-1/2"></div>
+                    </div>
+
+                    <!-- 2028+ -->
+                    <div class="relative flex flex-col md:flex-row items-center gap-8">
+                        <div class="md:w-1/2 text-center md:text-right">
+                            <h4 class="text-3xl font-extrabold text-gray-900 mb-2">2028+</h4>
+                            <p class="text-xl font-bold text-gray-900 mb-2">The Ubiquitous Cloud</p>
+                            <p class="text-gray-600">Zero-latency edge computation for real-time remote robotics and surgical applications.</p>
+                        </div>
+                        <div class="w-4 h-4 rounded-full bg-gray-900 relative z-10 hidden md:block"></div>
+                        <div class="md:w-1/2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CALL TO ACTION -->
+    <section class="section-padding bg-gray-50 border-t border-gray-200">
+        <div class="container mx-auto px-6 text-center">
+            <h2 class="text-4xl font-extrabold text-gray-900 mb-6">Ready to Glimpse Your Future?</h2>
+            <p class="text-lg text-gray-600 mb-10 max-w-2xl mx-auto">
+                Join the leading businesses in Pakistan that are already using Al Musaab's frontier technology to gain a competitive edge.
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="/contactus" class="btn-query-orange">Contact Sales Team</a>
+                <a href="#solutions" class="btn-query-dark">View Solutions</a>
+            </div>
+        </div>
+    </section>
+
+    <?php include('footer.php'); ?>
+
+    <!-- THREE.JS GLOBE SCRIPT (Optimized) -->
     <script type="importmap">
-{
-  "imports": {
-    "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"
-  }
-}
-</script>
-
-
-    <div id="globe-container" class="absolute inset-0 w-full h-[700px] -z-0"></div>
-
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"
+      }
+    }
+    </script>
     <script type="module">
         import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js";
         import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/controls/OrbitControls.js";
 
         const container = document.getElementById("globe-container");
-        const scene = new THREE.Scene();
-        const camera = new THREE.PerspectiveCamera(45, container.clientWidth / container.clientHeight, 0.1, 2000);
-        camera.position.set(0, 0, 4);
-
-        const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
-        renderer.setSize(container.clientWidth, container.clientHeight);
-        container.appendChild(renderer.domElement);
-
-        // Globe
-        const texture = new THREE.TextureLoader().load("https://raw.githubusercontent.com/jeromeetienne/threex.planets/master/images/earthmap1k.jpg");
-        const globe = new THREE.Mesh(
-            new THREE.SphereGeometry(1.2, 64, 64),
-            new THREE.MeshStandardMaterial({ map: texture, emissive: 0x113355, emissiveIntensity: 0.25 })
-        );
-        scene.add(globe);
-
-        // Atmosphere
-        const atmosphere = new THREE.Mesh(
-            new THREE.SphereGeometry(1.26, 64, 64),
-            new THREE.MeshPhongMaterial({ color: 0x3b82f6, transparent: true, opacity: 0.2, blending: THREE.AdditiveBlending, side: THREE.BackSide })
-        );
-        scene.add(atmosphere);
-
-        // Starfield
-        const starsGeo = new THREE.BufferGeometry();
-        const starCnt = 2000;
-        const pos = new Float32Array(starCnt * 3);
-        for (let i = 0; i < starCnt; i++) {
-            const r = 20 + Math.random() * 15;
-            const theta = Math.random() * 2 * Math.PI;
-            const phi = Math.acos(2 * Math.random() - 1);
-            pos[i * 3] = r * Math.sin(phi) * Math.cos(theta);
-            pos[i * 3 + 1] = r * Math.cos(phi);
-            pos[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta);
-        }
-        starsGeo.setAttribute("position", new THREE.BufferAttribute(pos, 3));
-        scene.add(new THREE.Points(starsGeo, new THREE.PointsMaterial({ color: 0xffffff, size: 0.05 })));
-
-        // Orbit particles
-        const ringGeo = new THREE.TorusGeometry(2, 0.005, 16, 200);
-        const ring = new THREE.Mesh(ringGeo, new THREE.MeshBasicMaterial({ color: 0xf97316, transparent: true, opacity: 0.4 }));
-        ring.rotation.x = Math.PI / 2;
-        scene.add(ring);
-
-        // Lights
-        scene.add(new THREE.AmbientLight(0xffffff, 0.5));
-        const light = new THREE.PointLight(0x60a5fa, 1.2);
-        light.position.set(5, 3, 5);
-        scene.add(light);
-
-        // Controls
-        const controls = new OrbitControls(camera, renderer.domElement);
-        controls.enableZoom = false; controls.enablePan = false; controls.autoRotate = true; controls.autoRotateSpeed = 0.6;
-
-        // Resize
-        window.addEventListener("resize", () => {
-            camera.aspect = container.clientWidth / container.clientHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(container.clientWidth, container.clientHeight);
-        });
-
-        // Animate
-        (function animate() {
-            requestAnimationFrame(animate);
-            globe.rotation.y += 0.001;
-            ring.rotation.z += 0.002;
-            renderer.render(scene, camera);
-        })();
-    </script>
-
-
-
-    <style>
-        @keyframes floatY {
-
-            0%,
-            100% {
-                transform: translateY(0);
-            }
-
-            50% {
-                transform: translateY(-20px);
-            }
-        }
-
-        @keyframes fadeInUp {
-            0% {
-                opacity: 0;
-                transform: translateY(16px);
-            }
-
-            100% {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .animate-fadeInUp {
-            animation: fadeInUp .9s ease-out forwards;
-        }
-
-        .animate-[floatY_14s_ease-in-out_infinite] {
-            animation: floatY 14s ease-in-out infinite;
-        }
-    </style>
-
-
-    <style>
-        @keyframes shimmerSweep {
-            0% {
-                transform: translateX(-100%);
-                opacity: 0
-            }
-
-            40% {
-                opacity: .4
-            }
-
-            100% {
-                transform: translateX(100%);
-                opacity: 0
-            }
-        }
-
-        .shimmer-text {
-            position: relative;
-            display: inline-block;
-            background: linear-gradient(to right, #f97316, #fff, #38bdf8);
-            background-size: 200% 100%;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradientShift 8s ease infinite;
-            overflow: hidden;
-        }
-
-        .shimmer-text::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .6), transparent);
-            animation: shimmerSweep 4s ease-in-out infinite;
-        }
-    </style>
-
-
-
-    <section class="relative isolate overflow-hidden bg-[#0b0f1a] py-32 text-white" id="glimpse">
-        <!-- Background Magic -->
-        <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10 overflow-hidden">
-            <!-- animated aurora -->
-            <div class="absolute inset-0 aurora"></div>
-            <!-- spotlight glow -->
-            <div
-                class="absolute left-1/2 top-1/2 w-[1200px] h-[1200px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-white/5 blur-[220px]">
-            </div>
-            <!-- diagonal beams -->
-            <div class="absolute -inset-x-32 -inset-y-10 rotate-12 beam"></div>
-            <div class="absolute -inset-x-32 -inset-y-10 -rotate-12 beam beam--2"></div>
-            <!-- subtle particles -->
-            <div class="absolute inset-0 dots"></div>
-        </div>
-
-        <!-- TOP CONTENT -->
-        <div class="max-w-5xl mx-auto px-6 text-center">
-            <h2 class="text-5xl md:text-7xl font-extrabold leading-tight tracking-tight">
-                <span
-                    class="bg-gradient-to-r from-orange-400 via-white to-sky-400 bg-clip-text text-transparent animate-gradient">
-                    Glimpse Into Tomorrow
-                </span>
-            </h2>
-            <p class="mt-6 text-xl md:text-2xl text-white/70 leading-relaxed max-w-3xl mx-auto">
-                Technology isn’t waiting. It’s already transforming our world — immersive realities, invisible defenses,
-                and intelligence that moves with us.
-            </p>
-
-            <!-- 3 Columns -->
-            <div class="mt-20 grid md:grid-cols-3 gap-12 text-left">
-                <div class="relative group">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-orange-500/40 to-sky-500/40 blur opacity-40 group-hover:opacity-70 transition">
-                    </div>
-                    <div class="relative bg-white/5 rounded-2xl p-8 ring-1 ring-white/10 backdrop-blur-sm">
-                        <h3 class="text-2xl font-bold mb-4">Immersive Realities</h3>
-                        <p class="text-white/70 leading-relaxed">AR and VR will define the next way we work, learn, and
-                            experience ideas. Not just on screens — but all around us.</p>
-                    </div>
-                </div>
-                <div class="relative group">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-sky-500/40 to-indigo-500/40 blur opacity-40 group-hover:opacity-70 transition">
-                    </div>
-                    <div class="relative bg-white/5 rounded-2xl p-8 ring-1 ring-white/10 backdrop-blur-sm">
-                        <h3 class="text-2xl font-bold mb-4">Invisible Defenses</h3>
-                        <p class="text-white/70 leading-relaxed">Cybersecurity is becoming predictive, adaptive, and
-                            real-time. A living shield that protects without being seen.</p>
-                    </div>
-                </div>
-                <div class="relative group">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-indigo-500/40 to-orange-500/40 blur opacity-40 group-hover:opacity-70 transition">
-                    </div>
-                    <div class="relative bg-white/5 rounded-2xl p-8 ring-1 ring-white/10 backdrop-blur-sm">
-                        <h3 class="text-2xl font-bold mb-4">Intelligence at Scale</h3>
-                        <p class="text-white/70 leading-relaxed">AI will amplify human imagination. Automating the
-                            routine, predicting the complex, and freeing us to create.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- SECOND BLOCK -->
-        <div class="mx-auto max-w-7xl px-6 mt-28">
-            <!-- TITLE -->
-            <div class="relative text-center select-none">
-                <h2 class="pointer-events-none absolute inset-0 translate-y-[2px] blur-[1px] text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-transparent"
-                    style="-webkit-text-stroke: 1px rgba(255,149,64,.35);">
-                    TECHNOLOGY IN <span class="uppercase">Motion</span>
-                </h2>
-                <h2
-                    class="relative z-10 text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight bg-gradient-to-r from-orange-400 via-white to-sky-400 bg-clip-text text-transparent animated-gradient">
-                    TECHNOLOGY IN <span class="uppercase">Motion</span>
-                </h2>
-                <p class="mt-4 mx-auto max-w-3xl text-lg text-slate-300/80 leading-relaxed">
-                    <span class="inline-block kinetic-word">Crisp</span>,
-                    <span class="inline-block kinetic-word delay-75">immersive</span>,
-                    <span class="inline-block kinetic-word delay-150">and</span>
-                    <span class="inline-block kinetic-word delay-200">inevitable.</span>
-                </p>
-                <div
-                    class="mt-6 mx-auto h-px w-44 bg-gradient-to-r from-orange-400/60 via-white/40 to-sky-400/60 relative overflow-hidden rounded">
-                    <span class="absolute inset-y-0 -left-1/3 w-1/3 shimmer"></span>
-                </div>
-            </div>
-
-            <!-- GRID VIDEOS -->
-            <div class="mt-14 grid grid-cols-12 gap-6">
-                <article class="reveal col-span-12 sm:col-span-6 lg:col-span-3">
-                    <div class="card-tilt group relative p-[1.5px] rounded-3xl animated-border">
-                        <div
-                            class="relative rounded-[calc(1.5rem-1.5px)] overflow-hidden bg-white/5 ring-1 ring-white/10 backdrop-blur">
-                            <video autoplay muted loop playsinline preload="none"
-                                class="lazy-video block w-full h-full aspect-[16/9] object-cover group-hover:scale-[1.02] transition-transform"
-                                data-src="<?= $base ?>/assets/video/AZj14vhbOvzNIrt-1RYHuw-AZj14vhbK2uqUlwKwz_S2Q.mp4">
-                            </video>
-
-                            <span class="sheen"></span>
-                            <div class="absolute bottom-4 left-4 text-sm font-medium text-white/90">AR in Action</div>
-                        </div>
-                    </div>
-                </article>
-                <article class="reveal delay-100 col-span-12 lg:col-span-6">
-                    <div class="card-tilt group relative p-[1.8px] rounded-3xl animated-border-hero">
-                        <div
-                            class="relative rounded-[calc(1.5rem-1.8px)] overflow-hidden bg-white/5 ring-1 ring-white/10 backdrop-blur animate-floatSlow">
-                            <video autoplay muted loop playsinline preload="none"
-                                class="lazy-video block w-full h-full aspect-[16/9] object-cover group-hover:scale-[1.015] transition-transform"
-                                data-src="<?= $base ?>/assets/video/Yealink.mp4">
-                            </video>
-
-                            <span class="sheen"></span>
-                            <div class="absolute bottom-5 left-5">
-                                <div
-                                    class="inline-flex items-center gap-2 rounded-full bg-black/50 px-3 py-1 ring-1 ring-white/20 backdrop-blur">
-                                    <span class="h-1.5 w-1.5 rounded-full bg-sky-400"></span>
-                                    <span
-                                        class="text-[12px] font-semibold tracking-wide text-white/90 uppercase">Feature
-                                        Reel</span>
-                                </div>
-                                <div class="mt-3 text-lg font-medium text-white/95">Next-Gen Consoles</div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-                <article class="reveal delay-200 col-span-12 sm:col-span-6 lg:col-span-3">
-                    <div class="card-tilt group relative p-[1.5px] rounded-3xl animated-border">
-                        <div
-                            class="relative rounded-[calc(1.5rem-1.5px)] overflow-hidden bg-white/5 ring-1 ring-white/10 backdrop-blur">
-                            <video autoplay muted loop playsinline preload="none"
-                                class="lazy-video block w-full h-full aspect-[16/9] object-cover group-hover:scale-[1.02] transition-transform"
-                                data-src="<?= $base ?>/assets/video/AZj1yoXl0UgpEmGW2K2zwAZj1yoXlbOa9mqkJTH0rFA.mp4">
-                            </video>
-
-                            <span class="sheen"></span>
-                            <div class="absolute bottom-4 left-4 text-sm font-medium text-white/90">Smart Collaboration
-                            </div>
-                        </div>
-                    </div>
-                </article>
-            </div>
-        </div>
-    </section>
-
-    <style>
-        @keyframes auroraDrift {
-            0% {
-                transform: translate3d(-2%, -1%, 0) scale(1.02);
-                filter: blur(30px);
-            }
-
-            50% {
-                transform: translate3d(2%, 1%, 0) scale(1.03);
-                filter: blur(35px);
-            }
-
-            100% {
-                transform: translate3d(-2%, -1%, 0) scale(1.02);
-                filter: blur(30px);
-            }
-        }
-
-        .aurora {
-            background:
-                radial-gradient(60% 80% at 18% 12%, rgba(249, 115, 22, .18) 0%, transparent 60%),
-                radial-gradient(55% 75% at 82% 28%, rgba(56, 189, 248, .16) 0%, transparent 60%),
-                radial-gradient(90% 60% at 50% 90%, rgba(255, 255, 255, .07) 0%, transparent 70%),
-                radial-gradient(30% 30% at 65% 15%, rgba(249, 115, 22, .10) 0%, transparent 70%);
-            animation: auroraDrift 16s ease-in-out infinite;
-            filter: blur(28px);
-        }
-
-        /* --- Beams (converging hairline glows) --- */
-        @keyframes beamSweep {
-            0% {
-                background-position: 0% 50%
-            }
-
-            100% {
-                background-position: 200% 50%
-            }
-        }
-
-        .beam {
-            background: linear-gradient(90deg,
-                    rgba(255, 255, 255, 0) 0%,
-                    rgba(255, 149, 64, .10) 18%,
-                    rgba(255, 255, 255, .06) 50%,
-                    rgba(56, 189, 248, .12) 82%,
-                    rgba(255, 255, 255, 0) 100%);
-            background-size: 200% 100%;
-            animation: beamSweep 12s linear infinite;
-            filter: blur(48px);
-            opacity: .45;
-            mask-image: radial-gradient(100% 100% at 50% 50%, #000 40%, transparent 85%);
-        }
-
-        .beam--2 {
-            animation-duration: 14s;
-            animation-direction: reverse;
-            opacity: .35;
-        }
-
-        /* --- Dots (soft particles, non-tacky) --- */
-        @keyframes dotsDrift {
-            0% {
-                transform: translateY(0)
-            }
-
-            100% {
-                transform: translateY(-12px)
-            }
-        }
-
-        .dots {
-            background-image: radial-gradient(rgba(255, 255, 255, .08) 1px, transparent 1px);
-            background-size: 18px 18px;
-            opacity: .18;
-            animation: dotsDrift 7s ease-in-out infinite alternate;
-            -webkit-mask-image: radial-gradient(70% 60% at 50% 45%, #000 55%, transparent 100%);
-            mask-image: radial-gradient(70% 60% at 50% 45%, #000 55%, transparent 100%);
-        }
-
-        /* motion respect */
-        @media (prefers-reduced-motion: reduce) {
-
-            .aurora,
-            .beam,
-            .beam--2,
-            .dots {
-                animation: none !important
-            }
-        }
-
-        /* Entrance reveal */
-        .reveal {
-            opacity: 0;
-            transform: translateY(16px);
-            transition: opacity .6s ease, transform .6s ease;
-        }
-
-        .reveal.is-inview {
-            opacity: 1;
-            transform: translateY(0);
-        }
-
-        .reveal.delay-100 {
-            transition-delay: .1s;
-        }
-
-        .reveal.delay-200 {
-            transition-delay: .2s;
-        }
-
-        /* Subtle float for center hero */
-        @keyframes floatSlow {
-
-            0%,
-            100% {
-                transform: translateY(0)
-            }
-
-            50% {
-                transform: translateY(-10px)
-            }
-        }
-
-        .animate-floatSlow {
-            animation: floatSlow 9s ease-in-out infinite;
-        }
-
-        /* Animated gradient hairline borders */
-        @keyframes borderPan {
-            0% {
-                background-position: 0% 50%
-            }
-
-            100% {
-                background-position: 200% 50%
-            }
-        }
-
-        .animated-border {
-            background: linear-gradient(90deg,
-                    rgba(56, 189, 248, .6),
-                    rgba(255, 255, 255, .15),
-                    rgba(249, 115, 22, .6),
-                    rgba(56, 189, 248, .6));
-            background-size: 200% 100%;
-            animation: borderPan 6s linear infinite;
-        }
-
-        .animated-border-hero {
-            background: conic-gradient(at 30% 30%,
-                    rgba(56, 189, 248, .65),
-                    rgba(255, 255, 255, .08),
-                    rgba(249, 115, 22, .65),
-                    rgba(56, 189, 248, .65));
-            animation: borderPan 8s linear infinite;
-            background-size: 200% 200%;
-        }
-
-        /* Sheen sweep on hover */
-        @keyframes sheenMove {
-            0% {
-                transform: translateX(-120%) skewX(-15deg);
-                opacity: 0
-            }
-
-            30% {
-                opacity: .35
-            }
-
-            100% {
-                transform: translateX(120%) skewX(-15deg);
-                opacity: 0
-            }
-        }
-
-        .sheen {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            width: 30%;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .35), transparent);
-            transform: translateX(-150%) skewX(-15deg);
-            filter: blur(2px);
-        }
-
-        .group:hover .sheen {
-            animation: sheenMove 1.2s ease forwards;
-        }
-
-        /* Tilt parallax */
-        .card-tilt {
-            transform-style: preserve-3d;
-            will-change: transform;
-            transition: transform .2s ease;
-        }
-
-        .card-tilt.is-tilting {
-            transition: none;
-        }
-
-        /* Respect reduced motion */
-        @media (prefers-reduced-motion: reduce) {
-
-            .reveal,
-            .animate-floatSlow,
-            .animated-border,
-            .animated-border-hero,
-            .group:hover .sheen {
-                animation: none !important;
-                transition: none !important;
-            }
-        }
-
-        /* Gradient text animation (LEFT → RIGHT) */
-        @keyframes gradientShift {
-            0% {
-                background-position: 0% 50%;
-            }
-
-            100% {
-                background-position: 200% 50%;
-            }
-        }
-
-        .animated-gradient {
-            background-size: 200% 100%;
-            animation: gradientShift 9s linear infinite;
-        }
-
-        /* kinetic tagline words */
-        @keyframes riseIn {
-            0% {
-                transform: translateY(10px);
-                opacity: 0
-            }
-
-            100% {
-                transform: translateY(0);
-                opacity: 1
-            }
-        }
-
-        .kinetic-word {
-            animation: riseIn .7s cubic-bezier(.2, .7, .2, 1) both;
-        }
-
-        .kinetic-word.delay-75 {
-            animation-delay: .075s
-        }
-
-        .kinetic-word.delay-150 {
-            animation-delay: .15s
-        }
-
-        .kinetic-word.delay-200 {
-            animation-delay: .2s
-        }
-
-        /* shimmer underline */
-        @keyframes shimmerSweep {
-            0% {
-                transform: translateX(-120%);
-                opacity: 0
-            }
-
-            20% {
-                opacity: .5
-            }
-
-            100% {
-                transform: translateX(220%);
-                opacity: 0
-            }
-        }
-
-        .shimmer {
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .6), transparent);
-            filter: blur(1px);
-            animation: shimmerSweep 2.2s ease-in-out infinite;
-        }
-
-        /* motion respect */
-        @media (prefers-reduced-motion: reduce) {
-
-            .animated-gradient,
-            .kinetic-word,
-            .shimmer {
-                animation: none !important
-            }
-        }
-
-        @keyframes gradientShift {
-            0% {
-                background-position: 0% 50%;
-            }
-
-            100% {
-                background-position: 200% 50%;
-            }
-        }
-
-        .gradient-sweep {
-            background-size: 200% 100%;
-            animation: gradientShift 8s ease-in-out infinite;
-            will-change: background-position;
-        }
-    </style>
-
-
-    <script>
-        // Scroll reveal
-        (() => {
-            const els = document.querySelectorAll('.reveal');
-            if (!('IntersectionObserver' in window)) { els.forEach(e => e.classList.add('is-inview')); return; }
-            const io = new IntersectionObserver((entries) => {
-                entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('is-inview'); io.unobserve(e.target); } });
-            }, { threshold: 0.2 });
-            els.forEach(e => io.observe(e));
-        })();
-
-        // Pause vids offscreen (battery-friendly)
-        (() => {
-            const vids = document.querySelectorAll('section video[autoplay][muted][loop]');
-            if (!('IntersectionObserver' in window)) { vids.forEach(v => v.play().catch(() => { })); return; }
-            const io = new IntersectionObserver(entries => {
-                entries.forEach(e => {
-                    const v = e.target;
-                    if (e.isIntersecting) v.play().catch(() => { });
-                    else v.pause();
-                });
-            }, { threshold: 0.25 });
-            vids.forEach(v => io.observe(v));
-        })();
-
-        // Hover tilt (subtle, premium)
-        (() => {
-            const cards = document.querySelectorAll('.card-tilt');
-            const clamp = (n, min, max) => Math.max(min, Math.min(max, n));
-            cards.forEach(card => {
-                let rect;
-                const onMove = (e) => {
-                    rect = rect || card.getBoundingClientRect();
-                    const x = (e.clientX - rect.left) / rect.width;   // 0..1
-                    const y = (e.clientY - rect.top) / rect.height;   // 0..1
-                    const rx = clamp((0.5 - y) * 8, -6, 6);           // rotateX
-                    const ry = clamp((x - 0.5) * 8, -6, 6);           // rotateY
-                    card.classList.add('is-tilting');
-                    card.style.transform = `perspective(1000px) rotateX(${rx}deg) rotateY(${ry}deg)`;
-                };
-                const onLeave = () => {
-                    rect = null;
-                    card.classList.remove('is-tilting');
-                    card.style.transform = '';
-                };
-                card.addEventListener('mousemove', onMove);
-                card.addEventListener('mouseleave', onLeave);
-                card.addEventListener('touchmove', e => {
-                    const t = e.touches[0]; if (!t) return;
-                    onMove(t);
-                }, { passive: true });
-                card.addEventListener('touchend', onLeave);
-            });
-        })();
-        document.addEventListener("DOMContentLoaded", () => {
-            const videos = document.querySelectorAll("video.lazy-video");
-
-            const lazyLoad = (video) => {
-                if (video.dataset.src) {
-                    const source = document.createElement("source");
-                    source.src = video.dataset.src;
-                    source.type = "video/mp4";
-                    video.appendChild(source);
-                    video.load();
-                    video.play().catch(() => { });
-                    video.removeAttribute("data-src");
-                }
+        if (container) {
+            let renderer, scene, camera, globe, ring, starsGeo, controls, animationId;
+            let initialized = false;
+
+            const initGlobe = () => {
+                scene = new THREE.Scene();
+                camera = new THREE.PerspectiveCamera(45, container.clientWidth / container.clientHeight, 0.1, 2000);
+                camera.position.set(0, 0, 4);
+
+                renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true, powerPreference: "high-performance" });
+                renderer.setPixelRatio(window.devicePixelRatio > 2 ? 2 : window.devicePixelRatio);
+                renderer.setSize(container.clientWidth, container.clientHeight);
+                container.appendChild(renderer.domElement);
+
+                // Globe
+                const texture = new THREE.TextureLoader().load("https://raw.githubusercontent.com/jeromeetienne/threex.planets/master/images/earthmap1k.jpg");
+                globe = new THREE.Mesh(
+                    new THREE.SphereGeometry(1.2, 32, 32),
+                    new THREE.MeshStandardMaterial({ 
+                        map: texture, 
+                        emissive: 0x1e40af, 
+                        emissiveIntensity: 0.15,
+                        metalness: 0.2,
+                        roughness: 0.8
+                    })
+                );
+                scene.add(globe);
+
+                // Atmosphere
+                const atmosphere = new THREE.Mesh(
+                    new THREE.SphereGeometry(1.24, 32, 32),
+                    new THREE.MeshPhongMaterial({ color: 0x3b82f6, transparent: true, opacity: 0.15, blending: THREE.AdditiveBlending, side: THREE.BackSide })
+                );
+                scene.add(atmosphere);
+
+                // Lights
+                scene.add(new THREE.AmbientLight(0xffffff, 0.7));
+                const light = new THREE.PointLight(0xffffff, 1.5);
+                light.position.set(10, 10, 10);
+                scene.add(light);
+
+                // Controls
+                controls = new OrbitControls(camera, renderer.domElement);
+                controls.enableZoom = false; 
+                controls.enablePan = false; 
+                controls.autoRotate = true; 
+                controls.autoRotateSpeed = 0.5;
+
+                window.addEventListener("resize", onResize);
+                animate();
+                initialized = true;
             };
 
-            if ("IntersectionObserver" in window) {
-                const observer = new IntersectionObserver((entries, obs) => {
-                    entries.forEach(entry => {
-                        if (entry.isIntersecting) {
-                            lazyLoad(entry.target);
-                            obs.unobserve(entry.target);
+            const onResize = () => {
+                camera.aspect = container.clientWidth / container.clientHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(container.clientWidth, container.clientHeight);
+            };
+
+            const animate = () => {
+                animationId = requestAnimationFrame(animate);
+                globe.rotation.y += 0.001;
+                controls.update();
+                renderer.render(scene, camera);
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        if (!initialized) initGlobe();
+                        else if (!animationId) animate();
+                    } else {
+                        if (animationId) {
+                            cancelAnimationFrame(animationId);
+                            animationId = null;
                         }
-                    });
-                }, { threshold: 0.25 });
+                    }
+                });
+            }, { threshold: 0.1 });
 
-                videos.forEach(v => observer.observe(v));
-            } else {
-                videos.forEach(lazyLoad);
-            }
-        });
-
+            observer.observe(container);
+        }
     </script>
-
-    <section class="relative bg-white">
-        <div class="grid grid-cols-1 lg:grid-cols-2">
-
-            <!-- Left media side -->
-            <div class="relative h-[500px] lg:h-auto overflow-hidden">
-                <video autoplay muted loop playsinline preload="none"
-                    class="lazy-video absolute inset-0 w-full h-full object-cover"
-                    data-src="<?= $base ?>/assets/video/OfficeTechnologyConnection(1080p,h264)(1).mp4">
-                </video>
-
-                <!-- optional overlay -->
-                <div class="absolute inset-0 bg-gradient-to-tr from-black/40 via-transparent to-transparent"></div>
-            </div>
-
-            <!-- Right content side -->
-            <div class="relative bg-gradient-to-br from-orange-600 to-blue-700 text-white flex items-center">
-                <div class="px-8 py-20 lg:px-16 max-w-xl">
-
-                    <span class="block text-sm font-semibold tracking-wider uppercase text-white/80">Al Musaab</span>
-
-                    <h2 class="mt-3 text-3xl md:text-5xl font-extrabold leading-tight">
-                        Experience Technology<br>
-                        <span class="py-1 rounded">That Moves the Future</span>
-                    </h2>
-
-                    <p class="mt-5 text-lg text-white/80">
-                        We fuse innovation with design, turning AR, VR, and collaboration into
-                        powerful experiences that redefine what’s possible.
-                    </p>
-
-                    <a href="#explore"
-                        class="mt-8 inline-flex items-center gap-2 rounded-lg border border-white/30 bg-white/10 px-5 py-3 text-sm font-semibold uppercase tracking-wide hover:bg-white/20 transition">
-                        Get in Touch
-                        <svg class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
-                        </svg>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="relative isolate overflow-hidden bg-slate-950 text-white py-36 md:py-44">
-        <!-- Background accents -->
-        <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10">
-            <div
-                class="absolute inset-0 bg-[radial-gradient(60%_60%_at_20%_20%,rgba(249,115,22,.08),transparent_60%),radial-gradient(50%_50%_at_80%_10%,rgba(56,189,248,.10),transparent_65%),radial-gradient(70%_70%_at_50%_100%,rgba(255,255,255,.05),transparent_70%)]">
-            </div>
-            <div
-                class="absolute left-1/2 top-1/2 h-[1100px] w-[1100px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-white/5 blur-[240px]">
-            </div>
-        </div>
-
-        <div class="max-w-7xl mx-auto px-6">
-            <!-- Header -->
-            <div class="grid md:grid-cols-12 gap-10 items-start">
-                <div class="md:col-span-6 lg:col-span-7">
-                    <h2 class="text-5xl md:text-7xl font-extrabold leading-[1.05] tracking-tight">
-                        <span class="block">Innovation</span>
-                        <span
-                            class="block bg-gradient-to-r from-orange-400 via-white to-sky-400 bg-clip-text text-transparent gradient-sweep">without
-                            compromise</span>
-                    </h2>
-                    <p class="mt-6 text-lg md:text-xl text-slate-300/90 leading-relaxed max-w-2xl">
-                        We are building what comes next in AR and VR, IoT, cybersecurity, and intelligent networking. We
-                        are thinking immersive training on real headsets, smart sensors that act without constant cloud
-                        calls, and network access that adjusts based on real behavior. Our goal is not just to ship
-                        features but to deliver systems that work reliably, scale safely, and solve something.
-                    </p>
-
-                    <div class="mt-8 flex flex-wrap gap-3">
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">AR/VR</span>
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">AI &amp;
-                            Automation</span>
-                        <span
-                            class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">Cloud‑Native</span>
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">Zero‑Trust</span>
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">Edge / IoT</span>
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">Realtime
-                            Video</span>
-                        <span class="px-3 py-1 text-sm rounded-full bg-white/10 ring-1 ring-white/10">Data
-                            Platforms</span>
-                    </div>
-                    <div class="mt-10 flex flex-wrap gap-4">
-                        <a href="#contact"
-                            class="inline-flex items-center justify-center rounded-xl bg-white text-slate-950 px-5 py-3 font-semibold ring-1 ring-white/10 hover:opacity-90 transition">Request
-                            an expert</a>
-
-                    </div>
-                </div>
-
-                <!-- Meaningful Copy -->
-                <div class="md:col-span-6 lg:col-span-5">
-                    <div class="relative rounded-2xl bg-white/5 ring-1 ring-white/10 p-6 md:p-8 backdrop-blur">
-                        <p class="text-slate-300 leading-relaxed">
-                           Al Musaab is actively deploying warehouse-grade IT solutions across Pakistan, including
-                            hardened network infrastructure, AI-powered video surveillance, and identity-based remote
-                            access. From cold-rated CAT6 cabling to redundant 10G fiber, our systems are built for
-                            uptime in the harshest operational environments.
-                        </p>
-
-                        <p class="mt-6 text-sm text-slate-400">
-                            We design for real-world conditions—freezer zones, moving forklifts, and zero-margin
-                            downtime windows.
-                        </p>
-
-
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- What we will work on: Pillars -->
-            <div class="mt-20 grid lg:grid-cols-3 gap-6">
-                <!-- Immersive Workflows -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-orange-500/40 to-sky-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Immersive Workflows</h3>
-                        <p class="mt-2 text-slate-300">
-                            We are building hands-on AR and VR tools for real training, live remote support, and
-                            interactive product simulations. These run on actual devices, not in slides or labs.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: Unity, WebXR, Three.js, WASM</div>
-                    </div>
-                </div>
-
-                <!-- Intelligent Video -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-sky-500/40 to-indigo-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Intelligent Video</h3>
-                        <p class="mt-2 text-slate-300">
-                            Our video stack adds context in real time. Expect sharper calls, instant captions, and voice
-                            cues that help teams move faster without repeating themselves.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: WebRTC, GPU processing, media servers, Whisper
-                            ASR</div>
-                    </div>
-                </div>
-
-                <!-- Adaptive Security -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-indigo-500/40 to-orange-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Adaptive Security</h3>
-                        <p class="mt-2 text-slate-300">
-                            We are rolling out identity based access systems that learn how your users behave and
-                            respond when something feels off. Secure, automatic, and low effort.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: OIDC, TLS, BPF, SIEM and orchestration</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="mt-6 grid lg:grid-cols-3 gap-6">
-                <!-- Cloud Native Platforms -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-sky-500/40 to-orange-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Cloud Native Platforms</h3>
-                        <p class="mt-2 text-slate-300">
-                            Apps that scale without stress. Every deploy is observable, reversible, and built to survive
-                            traffic spikes or failed releases.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: Kubernetes, Argo, Terraform, OpenTelemetry</div>
-                    </div>
-                </div>
-
-                <!-- Edge and IoT -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-orange-500/40 to-indigo-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Edge and IoT</h3>
-                        <p class="mt-2 text-slate-300">
-                            Smart devices that work even when offline, and sync when ready. Perfect for field
-                            deployments, remote locations, and real time monitoring.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: MQTT, WebSockets, TinyML, RTSP</div>
-                    </div>
-                </div>
-
-                <!-- Data and Automation -->
-                <div class="group relative">
-                    <div
-                        class="absolute -inset-1 rounded-2xl bg-gradient-to-tr from-indigo-500/40 to-sky-500/40 blur opacity-30 group-hover:opacity-60 transition">
-                    </div>
-                    <div class="relative h-full rounded-2xl bg-white/5 ring-1 ring-white/10 p-7">
-                        <h3 class="text-2xl font-bold">Data and Automation</h3>
-                        <p class="mt-2 text-slate-300">
-                            We build clean data pipelines that turn raw events into decisions. No more waiting for
-                            reports. Automations act on your behalf while the data flows.
-                        </p>
-                        <div class="mt-4 text-sm text-slate-400">Stack: Kafka, DuckDB, dbt, Airflow, LLM tools</div>
-                    </div>
-                </div>
-            </div>
-
-
-            <!-- Moving keywords strip -->
-            <div class="mt-16 overflow-hidden">
-                <div class="flex gap-8 whitespace-nowrap animate-marquee text-sm tracking-wide text-slate-300/80">
-                    <span>WebRTC</span><span>Unity</span><span>Whisper‑ASR</span><span>Kubernetes</span><span>Terraform</span><span>OpenTelemetry</span><span>Zero‑Trust</span><span>mTLS</span><span>Edge
-                        AI</span><span>MQTT</span><span>Kafka</span><span>dbt</span><span>DuckDB</span><span>Airflow</span><span>WebXR</span><span>Three.js</span>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <style>
-        @keyframes gradientShift {
-            0% {
-                background-position: 0% 50%
-            }
-
-            100% {
-                background-position: 200% 50%
-            }
-        }
-
-        .gradient-sweep {
-            background-size: 200% 100%;
-            animation: gradientShift 9s linear infinite;
-        }
-
-        @keyframes marquee {
-            0% {
-                transform: translateX(0);
-            }
-
-            100% {
-                transform: translateX(-50%);
-            }
-        }
-
-        .animate-marquee {
-            animation: marquee 22s linear infinite;
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-
-            .gradient-sweep,
-            .animate-marquee {
-                animation: none !important;
-            }
-        }
-    </style>
-
-
-    <!-- CTA -->
-    <section class="py-16 bg-gray-100 text-center">
-        <div class="max-w-3xl mx-auto px-6">
-            <h2 class="text-3xl font-semibold mb-4">Need a SOC with real humans behind it?</h2>
-            <p class="text-gray-600 mb-6">
-                We’ll map your signals, plug in our runbooks, and set SLAs that fit your risk profile.
-            </p>
-            <a href="#contact"
-                class="inline-block bg-neutral-900 text-white px-6 py-3 rounded hover:bg-neutral-800 transition">Let’s
-                Talk</a>
-        </div>
-    </section>
-
-    <!-- CONTACT FORM -->
-    <section id="contact" class="py-20 bg-gray-50">
-        <div class="max-w-3xl mx-auto px-6">
-            <h3 class="text-2xl font-semibold mb-8 text-center">Get In Touch</h3>
-            <form class="space-y-6" action="sendmail.php" method="POST">
-                <div class="grid md:grid-cols-2 gap-6">
-                    <input type="text" name="name" placeholder="Your Name"
-                        class="w-full border border-black px-4 py-3 rounded" required />
-                    <input type="email" name="email" placeholder="Email Address"
-                        class="w-full border border-black px-4 py-3 rounded" required />
-                </div>
-                <input type="tel" name="phone" placeholder="Phone Number"
-                    class="w-full border border-black px-4 py-3 rounded" required />
-                <textarea rows="4" name="message" placeholder="Tell us about your environment (users, tools, goals)…"
-                    class="w-full border border-black px-4 py-3 rounded resize-none" required></textarea>
-                <div class="text-center">
-                    <button type="submit"
-                        class="bg-neutral-900 text-white px-8 py-3 rounded hover:bg-neutral-800 transition">
-                        Send Message
-                    </button>
-                </div>
-            </form>
-        </div>
-    </section>
-
-
-    <?php include('footer.php'); ?>
 </body>
 
 </html>
