@@ -260,8 +260,8 @@ $base = ""
                 Us</a>
             <a role="menuitem" href="<?= $base ?>/knowledge-base/" rel="noopener"
                 class="hover:text-black transition focus-ring">Knowledge Base</a>
-            <a role="menuitem" href="https://brokerband.com" target="_blank" rel="noopener"
-                class="hover:text-black transition focus-ring">Online Store</a>
+            <!-- <a role="menuitem" href="https://brokerband.com" target="_blank" rel="noopener"
+                class="hover:text-black transition focus-ring">Online Store</a> -->
 
         </nav>
 
@@ -373,8 +373,8 @@ $base = ""
             </details>
 
             <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="<?= $base ?>/contactus/">Contact Us</a>
-            <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="https://brokerband.com" target="_blank"
-                rel="noopener">Online Store</a>
+            <!-- <a class="block py-3 px-3 rounded hover:bg-gray-50 text-sm" href="https://brokerband.com" target="_blank"
+                rel="noopener">Online Store</a> -->
         </div>
     </nav>
 

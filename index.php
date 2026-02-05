@@ -268,7 +268,7 @@
 
           <!-- Slide 1 -->
           <li class="glide__slide relative min-h-[680px] flex items-center">
-            <img src="<?= $base . '/assets/images/blue_technical_background_1.jpg' ?>" alt="Managed IT Services"
+            <img src="<?= $base . '/assets/images/hero.png' ?>" alt="Managed IT Services"
               class="absolute inset-0 w-full h-full object-cover" />
             <div class="absolute inset-0 bg-black/10 backdrop-brightness-90"></div>
             <div class="relative z-10 w-full">
@@ -366,12 +366,12 @@
             </div>
           </li>
 
-          <li class="glide__slide">
+          <!-- <li class="glide__slide">
             <div
               class="max-w-7xl mx-auto px-6 md:px-12 grid md:grid-cols-[1fr_1.3fr] gap-12 items-center min-h-[650px]">
 
               <div>
-                <!-- Elegant badge -->
+                
                 <div
                   class="inline-block mb-4 rounded-full bg-orange-50 px-4 py-1 text-xs font-semibold text-orange-700 shadow-sm ring-1 ring-orange-100">
                   E-Commerce
@@ -386,12 +386,12 @@
                   Buy the best laptops, Wi-Fi routers, and office gear easily. We provide trusted tech products and handle the delivery so everything reaches your office safely.
                 </p>
 
-                <!-- Subtext -->
+              
                 <p class="mt-6 text-[13px] font-semibold tracking-wide italic">
                   BrokerBand is a part ofAl MusaabGroup of Companies
                 </p>
 
-                <!-- Button -->
+                
                 <div class="mt-3 flex gap-4">
                   <a href="https://brokerband.com" target="_blank"
                     class="bg-neutral-900 text-white px-6 py-3 rounded-md font-medium shadow hover:bg-neutral-800 transition">
@@ -405,7 +405,7 @@
                   class="w-full rounded-lg shadow-md" />
               </div>
             </div>
-          </li>
+          </li> -->
 
 
 
@@ -1088,16 +1088,16 @@
 
 
 
-  <section id="laptop-financing" class="bg-[#0f101e] text-white py-24">
+  <!-- <section id="laptop-financing" class="bg-[#0f101e] text-white py-24">
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
-      <!-- Left Content -->
+      
       <div>
         <h2 class="text-3xl md:text-4xl font-bold leading-tight mb-6">
           Get New Laptops with <span class="font-extrabold text-orange-500">0% Easy Installments*</span>
         </h2>
 
         <div class="space-y-10 text-sm">
-          <!-- Point 1 -->
+      
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
               <span class="text-xl text-orange-500">●</span> Easy Monthly Payments
@@ -1106,7 +1106,7 @@
               We work with top technology brands to help you get the latest laptops with easy monthly payments. No need to pay full price at once.
             </p>
           </div>
-          <!-- Point 2 -->
+        
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
               <span class="text-xl text-orange-500">●</span> Pay Less Every Month
@@ -1115,7 +1115,7 @@
               Choose from select laptop models and pay in small parts over time. It’s better for your budget.
             </p>
           </div>
-          <!-- Point 3 -->
+       
           <div>
             <div class="flex items-center gap-3 font-bold text-white mb-1">
               <span class="text-xl text-orange-500">●</span> Special Discount Prices
@@ -1127,7 +1127,7 @@
         </div>
       </div>
 
-      <!-- Right Image + Features -->
+      
       <div class="space-y-10">
         <img src="<?= $base . '/assets/images/multiple-laptops-laptop-brands-laptop-list.png' ?>" alt="Laptop Financing"
           class="rounded-lg shadow-lg w-full" />
@@ -1147,7 +1147,7 @@
           </div>
         </div>
 
-        <!-- Logos -->
+        
         <div class="flex flex-wrap items-center gap-6 pt-4">
           <img src="https://img.logo.dev/microsoft.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Microsoft" class="h-6 md:h-8 w-auto" />
           <img src="https://img.logo.dev/dell.com?token=pk_KeVtc6NLQ52qLRfkC1plSQ" alt="Dell" class="h-6 md:h-8 w-auto" />
@@ -1158,7 +1158,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- CONTACT FORM -->
   <section id="contact" class="py-20 bg-gray-50">
