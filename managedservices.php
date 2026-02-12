@@ -153,7 +153,7 @@
     "@id": "https://almusaab.com/#org",
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "sameAs": ["https://www.linkedin.com/company/querytel"]
   }
   </script>

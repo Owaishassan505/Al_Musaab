@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cloud Security & Managed IT Services in Pakistan | Al Musaab</title>
   <meta name="description"
-    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Canadian businesses. Speak with Al Musaab’s experts today." />
+    content="Enterprise-grade cloud security, centralized management, and threat prevention. Fortinet-powered managed IT services for Pakistani businesses. Speak with Al Musaab’s experts today." />
   <link rel="canonical" href="https://almusaab.com/cloud-security/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:title" content="Cloud Security & Managed IT Services in Pakistan | Al Musaab" />
   <meta property="og:description"
-    content="Enterprise-grade cloud security, centralized management, and threat prevention for Canadian enterprises. Powered by Fortinet." />
+    content="Enterprise-grade cloud security, centralized management, and threat prevention for Pakistani enterprises. Powered by Fortinet." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://almusaab.com/cloud-security/" />
   <meta property="og:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
@@ -25,7 +25,7 @@
   <meta name="twitter:site" content="@al_musaab" />
   <meta name="twitter:title" content="Cloud Security & Managed IT Services in Pakistan | Al Musaab" />
   <meta name="twitter:description"
-    content="Fortinet-powered cloud security, built to scale across Canadian enterprises." />
+    content="Fortinet-powered cloud security, built to scale across Pakistani enterprises." />
   <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png" />
   <!-- Add this in <head> -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
@@ -39,7 +39,7 @@
     "name": "Al Musaab",
     "url": "https://almusaab.com/cloud-security/",
     "logo": "https://almusaab.com/wp-content/uploads/2025/07/mynetwork.drawio.png",
-    "description": "Enterprise-grade cloud security and managed IT services for Canadian businesses, powered by Fortinet.",
+    "description": "Enterprise-grade cloud security and managed IT services for Pakistani businesses, powered by Fortinet.",
     "provider": {
       "@type": "Organization",
       "name": "Al Musaab",

@@ -20,7 +20,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Web Development, Software & API Services in Pakistan | Al Musaab" />
   <meta property="og:description"
-    content="Full-stack code services — websites, web apps, APIs, automation, and e-commerce. Built fast, secure, and scalable for Canadian businesses." />
+    content="Full-stack code services — websites, web apps, APIs, automation, and e-commerce. Built fast, secure, and scalable for Pakistani businesses." />
   <meta property="og:url" content="https://almusaab.com/code-services/" />
   <meta property="og:site_name" content="Al Musaab" />
   <meta property="og:locale" content="en_CA" />

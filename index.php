@@ -8,7 +8,7 @@
 
   <title>Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan</title>
   <meta name="description"
-    content="Al Musaab provides managed IT, cybersecurity, & cloud solutions in Pakistan since 1995. Reliable, secure, and expert IT support for your business growth." />
+    content="Al Musaab provides managed IT, cybersecurity, & cloud solutions in Pakistan since 2013. Reliable, secure, and expert IT support for your business growth." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://almusaab.com/" />
   <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/" />
@@ -29,7 +29,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Al Musaab — Managed IT, Cybersecurity & Cloud Services in Pakistan" />
   <meta property="og:description"
-    content="Managed IT support, enterprise cloud hosting, and Fortinet-powered cybersecurity for businesses in Pakistan. Serving since 1995." />
+    content="Managed IT support, enterprise cloud hosting, and Fortinet-powered cybersecurity for businesses in Pakistan. Serving since 2013." />
   <meta property="og:image" content="https://almusaab.com/assets/images/homepage-banner.png" />
   <meta property="og:url" content="https://almusaab.com/" />
   <meta property="og:site_name" content="Al Musaab" />
@@ -129,9 +129,9 @@
     "@id": "https://almusaab.com/#org",
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "description": "Managed IT, cybersecurity, and cloud solutions for businesses in Pakistan.",
-    "foundingDate": "1995",
+    "foundingDate": "2013",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
@@ -169,7 +169,7 @@
     "@id":"https://almusaab.com/#hq",
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",
@@ -268,13 +268,13 @@
 
           <!-- Slide 1 -->
           <li class="glide__slide relative min-h-[680px] flex items-center">
-            <img src="<?= $base . '/assets/images/hero.png' ?>" alt="Managed IT Services"
+            <img src="<?= $base . '/assets/images/hero1.jpg' ?>" alt="Managed IT Services"
               class="absolute inset-0 w-full h-full object-cover" />
             <div class="absolute inset-0 bg-black/10 backdrop-brightness-90"></div>
             <div class="relative z-10 w-full">
               <div class="mx-auto px-6 md:px-12 grid md:grid-cols-2 items-center min-h-[680px]">
-                <div class="max-w-xl text-white">
-                  <h1 class="text-4xl md:text-5xl font-semibold tracking-tight leading-tight">
+                <div class="max-w-xlg text-white lg:mt-[100px]">
+                  <h1 class="text-4xl md:text-6xl font-semibold tracking-tight leading-tight">
                     Expert IT Support & Cyber Security for Your Business
                   </h1>
                   <p class="mt-5 text-lg text-white/90 leading-relaxed">
@@ -310,7 +310,7 @@
                 </div>
               </div>
               <div>
-                <img src="<?= $base . '/assets/images/what-is-digital-infrastructure.webp' ?>"
+                <img src="<?= $base . '/assets/images/22222222.jpg' ?>"
                   alt="Digital Infrastructure" class="w-full rounded-lg shadow-md" />
               </div>
             </div>
@@ -335,7 +335,7 @@
                 </div>
               </div>
               <div>
-                <img src="<?= $base . '/assets/images/scale.png' ?>" alt="Cloud Security"
+                <img src="<?= $base . '/assets/images/3333333333333.jpg' ?>" alt="Cloud Security"
                   class="w-full rounded-lg shadow-md h-80" />
               </div>
             </div>
@@ -360,7 +360,7 @@
                 </div>
               </div>
               <div>
-                <img src="<?= $base . '/assets/images/soc.jpg' ?>" alt="Centralized Monitoring"
+                <img src="<?= $base . '/assets/images/wmremove-transformed.webp' ?>" alt="Centralized Monitoring"
                   class="w-full rounded-lg shadow-md" />
               </div>
             </div>
@@ -388,7 +388,7 @@
 
               
                 <p class="mt-6 text-[13px] font-semibold tracking-wide italic">
-                  BrokerBand is a part ofAl MusaabGroup of Companies
+                  BrokerBand is a part of Al Musaab Group of Companies
                 </p>
 
                 
@@ -596,7 +596,7 @@
           Your Trusted Partner for IT Support
         </p>
         <p class="text-gray-600">
-          Al Musaab has been helping businesses in Pakistan with IT since 1995. With over 25 years of experience, we know exactly how to fix your tech problems and help your business grow.
+          Al Musaab has been helping businesses in Pakistan with IT since 2013. With over 25 years of experience, we know exactly how to fix your tech problems and help your business grow.
         </p>
       </div>
 
@@ -924,7 +924,7 @@
             // "Suria Professional Corporation" => "suria.jpeg",
             // "ABF MFG Group Inc." => "abf.jpeg",
           
-            // "Canadian Drapery Mfg. Co. Ltd." => "canadian-drapery.png",
+            // "Pakistani Drapery Mfg. Co. Ltd." => "Pakistani-drapery.png",
           ];
           foreach ($clients as $name => $logo): ?>
             <div

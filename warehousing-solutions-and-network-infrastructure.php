@@ -167,7 +167,7 @@
           Warehousing IT Solutions & <span class="bg-gradient-to-r from-orange-400 to-orange-500 bg-clip-text text-transparent">Network Infrastructure</span>
         </h1>
         <p class="text-lg text-gray-300 leading-relaxed mb-8">
-          Structured cabling, resilient networks, hybrid cloud, rugged mobility, and AI surveillance engineered for Canadian warehouses.
+          Structured cabling, resilient networks, hybrid cloud, rugged mobility, and AI surveillance engineered for Pakistani warehouses.
         </p>
         <div class="flex flex-wrap gap-4">
           <a href="#services"

@@ -872,7 +872,7 @@
       <div class="grid md:grid-cols-3 gap-8">
         <div class="bg-white rounded-lg p-8 shadow-md hover:shadow-lg transition text-center">
           <h3 class="text-2xl font-bold text-neutral-900 mb-2">PIPEDA</h3>
-          <p class="text-gray-600 mb-4">Personal Information Protection and Electronic Documents Act - Canadian privacy
+          <p class="text-gray-600 mb-4">Personal Information Protection and Electronic Documents Act - Pakistani privacy
             law protecting personal information.</p>
           <div class="text-sm text-gray-500">Personal data protection & consent management</div>
         </div>

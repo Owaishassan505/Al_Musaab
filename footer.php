@@ -3,13 +3,13 @@
 
         <!-- Column 1: Logo + Brief + NAP + Social Media -->
         <div>
-            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="Al Musaab Logo" class="h-10 mb-4"
+            <img src="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" alt="Al Musaab Logo" class="h-24 mb-4"
                 loading="lazy" />
 
 
             <b>Al-Musaab</b> <br>
             <p>Empowering businesses with reliable managed IT, cybersecurity, and scalable infrastructure since
-                1995.</p>
+                2013.</p>
 
             <div class="mt-4 space-y-1">
                 <p><strong>Address:</strong> Office#212 Anum Estate Building, Shahrah e Faisal, Karachi, Sindh 75350, Pakistan</p>

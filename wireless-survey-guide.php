@@ -8,7 +8,7 @@
   <!-- Primary SEO -->
   <title>Why You Need a Wireless Survey | Al Musaab Knowledge Base</title>
   <meta name="description"
-    content="A complete explanation of why wireless surveys are critical for designing reliable WiFi networks. Learn howAl Musaabuses professional surveying to eliminate performance issues before deployment." />
+    content="A complete explanation of why wireless surveys are critical for designing reliable WiFi networks. Learn how Al Musaab uses professional surveying to eliminate performance issues before deployment." />
   <link rel="canonical" href="https://almusaab.com/wireless-survey-guide/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
@@ -432,7 +432,7 @@
           </p>
 
           <p class="text-lg text-gray-700 mb-6">
-            A survey helpsAl Musaabmap roaming paths and adjust access point overlap, handoff thresholds, and channel
+            A survey helps Al Musaab map roaming paths and adjust access point overlap, handoff thresholds, and channel
             planning to ensure seamless mobility.
           </p>
 

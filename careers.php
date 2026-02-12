@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://almusaab.com/careers/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_PK" />
-    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
@@ -32,7 +32,7 @@
     <meta name="twitter:title" content="Careers at Al Musaab — Jobs, Culture & Hiring in Pakistan" />
     <meta name="twitter:description"
         content="Grow your career in managed IT, cybersecurity, and cloud. Explore life at Al Musaab." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
 
     <!-- Icons -->
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
@@ -85,7 +85,7 @@
     "@id":"https://almusaab.com/#org",
     "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -133,7 +133,7 @@
         "@type": "Organization",
         "name": "Al Musaab",
         "sameAs": "https://almusaab.com",
-        "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"
+        "logo": "<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>"
       },
       "jobLocation": {
         "@type": "Place",

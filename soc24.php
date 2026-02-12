@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SOC 24 — 24/7 Security Operations & Incident Response | Al Musaab</title>
     <meta name="description"
-        content="SOC 24 byAl Musaab: 24/7 monitoring, threat detection, triage and incident response. MDR/XDR, SIEM correlation, playbooks, compliance reporting, and clear SLAs." />
+        content="SOC 24 by Al Musaab : 24/7 monitoring, threat detection, triage and incident response. MDR/XDR, SIEM correlation, playbooks, compliance reporting, and clear SLAs." />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <script>
@@ -156,7 +156,7 @@
             <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">Overview</h2>
             <div class="mt-3 h-px w-24 bg-slate-200 mx-auto"></div>
             <p class="mt-6 text-slate-700 leading-relaxed max-w-4xl mx-auto">
-                <span class="font-semibold">SOC 24</span> isAl Musaab’s always-on Security Operations Center: a
+                <span class="font-semibold">SOC 24</span> is Al Musaab ’s always-on Security Operations Center: a
                 managed detection and response (MDR) service that watches your environment 24/7, correlates signals,
                 hunts threats, and executes playbooks to contain incidents. We integrate with your existing
                 stack—Microsoft

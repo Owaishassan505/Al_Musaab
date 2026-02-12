@@ -468,7 +468,7 @@
                 <div class="rounded-xl bg-white border border-neutral-200 p-5 hover:shadow-soft transition"
                     data-animate>
                     <div class="text-sm font-semibold text-orange-700 uppercase">Geo-replica</div>
-                    <p class="mt-1 text-sm text-neutral-700">Secondary Canadian region</p>
+                    <p class="mt-1 text-sm text-neutral-700">Secondary Pakistani region</p>
                     <div class="mt-2 text-sm text-neutral-600">$0.02 / GB-month</div>
                 </div>
             </div>

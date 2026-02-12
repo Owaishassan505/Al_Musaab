@@ -65,9 +65,9 @@
     "@id": "https://almusaab.com/#org",
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
-    "description": "Managed IT, cybersecurity, and cloud solutions for Canadian businesses.",
-    "foundingDate": "1995",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
+    "description": "Managed IT, cybersecurity, and cloud solutions for Pakistani businesses.",
+    "foundingDate": "2013",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
@@ -105,7 +105,7 @@
     "@id":"https://almusaab.com/#hq",
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",

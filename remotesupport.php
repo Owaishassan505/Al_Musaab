@@ -193,10 +193,10 @@
     <section class="bg-neutral-900 text-white py-16">
         <div class="max-w-6xl mx-auto px-6">
             <h1 class="text-3xl md:text-4xl font-bold">
-                Receive Remote Assistance Support fromAl Musaab
+                Receive Remote Assistance Support from Al Musaab 
             </h1>
             <p class="mt-4 text-white/80 max-w-4xl">
-                Remote Assistance Support fromAl Musaaballows aAl Musaabsupport professional in another location
+                Remote Assistance Support from Al Musaab allows a Al Musaab support professional in another location
                 to view your computer screen and work on your computer over a secure connection.
             </p>
         </div>
@@ -228,7 +228,7 @@
                 </p>
 
                 <p>
-                    This Agreement forAl MusaabServices (<span class="italic text-[#f97316]">‘the agreement’</span>)
+                    This Agreement for Al Musaab Services (<span class="italic text-[#f97316]">‘the agreement’</span>)
                     is entered into by and between the entity ordering the services
                     (<span class="italic font-semibold text-[#f97316]">‘you’, ‘your’ or ‘customer’</span>)
                     and the closest Al Musaab affiliate located in your country or region, unless we designate otherwise
@@ -272,7 +272,7 @@
             <!-- Accordion body -->
             <div class="md:col-span-8 lg:col-span-9">
                 <header class="mb-6">
-                    <h2 class="text-2xl md:text-3xl font-bold text-neutral-900">Agreement forAl MusaabServices</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold text-neutral-900">Agreement for Al Musaab Services</h2>
                     <p class="text-sm text-neutral-500">Last updated: January 2019</p>
                 </header>
 
@@ -583,7 +583,7 @@
                                 are
                                 located in the following countries/regions: Australia, Bangladesh, Hong Kong, India,
                                 Indonesia, Korea, Malaysia, New Zealand, Philippines, Singapore, Sri-Lanka, Taiwan,
-                                Thailand, and Vietnam. the Al Musaab contracting entity for this agreement isAl Musaab
+                                Thailand, and Vietnam. the Al Musaab contracting entity for this agreement is Al Musaab 
                                 Inc. Pakistan, Limited if you are located in any country in Europe, Middle East, or
                                 Africa. Last updated: January 2019</p>
                         </div>
@@ -635,7 +635,7 @@
                     </p>
 
                     <p class="text-neutral-600">
-                        This product information should not be considered an endorsement byAl Musaab.
+                        This product information should not be considered an endorsement by Al Musaab .
                        Al Musaabmay <span class="font-semibold text-orange-600">discontinue</span> the use of this tool
                         without prior notice.
                     </p>

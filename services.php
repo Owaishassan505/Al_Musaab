@@ -28,7 +28,7 @@
     <meta name="twitter:title"
         content="IT Services in Pakistan | Managed IT, Cloud, Cybersecurity & VoIP | Al Musaab" />
     <meta name="twitter:description"
-        content="Browse the fullAl Musaabservices portfolio for Canadian organizations." />
+        content="Browse the fullAl Musaabservices portfolio for Pakistani organizations." />
     <meta name="twitter:image"
         content="https://almusaab.com/wp-content/uploads/2021/10/Business-Strategy-Planning-2b-1024x576.png" />
 
@@ -244,7 +244,7 @@
         }
 
         #svc-sheet-img {
-            object-fit: fill !important;
+            object-fit: fill;
         }
     </style>
 
@@ -320,11 +320,11 @@
                     $services = [
                         // title, category, desc, image(url), slug
                         // IT Support
-                        ["24/7 Help Desk Support", "IT Support", "Technical support available 24/7 to fix any problem.", "/assets/images/SAO.webp", "24-7-help-desk-support"],
+                        ["24/7 Help Desk Support", "IT Support", "Technical support available 24/7 to fix any problem.", "/assets/images/24/7_help.png", "24-7-help-desk-support"],
                         ["Field Services", "IT Support", "On-site visits to install equipment and fix hardware.", "/assets/images/field-service.jpeg", "field-services"],
                         ["Server & Data Support", "IT Support", "Keeping your servers running smoothly and safely.", "/assets/images/Depositphotos_287797174_XL-1024x576.jpg", "datacenter-operations"],
                         ["Network & Router Support", "IT Support", "Setting up and managing your office Wi-Fi and cables.", "/assets/images/NIO.jpg", "network-infrastructure-operations"],
-                        ["Computers & Mobile Support", "IT Support", "Setting up and fixing laptops, desktops, and phones.", "/assets/images/EUC.webp", "end-user-computing-infrastructure"],
+                        ["Computers & Mobile Support", "IT Support", "Setting up and fixing laptops, desktops, and phones.", "/assets/images/computer_support.png", "end-user-computing-infrastructure"],
                         ["New Office IT Setup", "IT Support", "We handle all IT setup for your new office or site.", "/assets/images/Greenfield-Project.jpg", "greenfield-projects"],
                         ["Buying IT Equipment", "IT Support", "We help you buy the right laptops and gear at best prices.", "/assets/images/1653946676832-1-1024x683.jpeg", "procurement-services"],
                         ["Extra IT Staff Support", "IT Support", "Providing temporary experts for your big IT projects.", "/assets/images/SAO1.webp", "staff-augmentation-outsourcing"],
@@ -371,8 +371,8 @@
                         data-title="<?= htmlspecialchars(strtolower($s[0])) ?>">
                         <div class="h-2 bg-[color:var(--accent)]"></div>
                         <div class="relative bg-[#FAFAFA] aspect-[3/2]">
-                            <img src="<?= htmlspecialchars($s[3]) ?>" alt="<?= htmlspecialchars($s[0]) ?>"
-                                class="absolute inset-0 w-full h-full object-fill" />
+                            <img src="<?= $base . htmlspecialchars($s[3]) ?>" alt="<?= htmlspecialchars($s[0]) ?>"
+                                class="absolute inset-0 w-full h-full <?= ($s[4] === '24-7-help-desk-support') ? 'object-cover' : 'object-fill' ?>" />
                         </div>
                         <div class="p-6">
                             <h3 class="text-lg font-semibold mb-2"><?= htmlspecialchars($s[0]) ?></h3>
@@ -653,6 +653,7 @@
 
                 if (img) {
                     imgEl.src = img; imgEl.alt = title || 'Service image';
+                    imgEl.style.objectFit = (key === '24-7-help-desk-support') ? 'cover' : 'fill';
                     left.classList.remove('hidden');
                     left.classList.remove('anim-hero');
                     void left.offsetWidth;

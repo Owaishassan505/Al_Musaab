@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://almusaab.com/ecommerce-development-solutions/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
@@ -33,7 +33,7 @@
     <meta name="twitter:title" content="Ecommerce Development Solutions | Al Musaab" />
     <meta name="twitter:description"
         content="Expert Shopify Plus developers, WooCommerce experts, and ecommerce SEO services. From store setup to conversion optimization — we build for growth." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -84,7 +84,7 @@
       "@id":"https://almusaab.com/#org",
       "name":"Al Musaab",
       "url":"https://almusaab.com/",
-      "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+      "logo":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
       "sameAs":["https://www.linkedin.com/company/querytel"]
     }
     </script>
@@ -99,7 +99,7 @@
       "name":"Contact Al Musaab",
       "inLanguage":"en-CA",
       "about":{"@id":"https://almusaab.com/#org"},
-      "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
+      "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>"},
       "lastReviewed":"2025-08-18",
       "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
     }
@@ -135,7 +135,7 @@
       "@id":"https://almusaab.com/#hq",
       "name":"Al Musaab — Karachi HQ",
       "url":"https://almusaab.com/",
-      "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+      "image":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
       "telephone":"+92-213-4321900",
       "address":{
         "@type":"PostalAddress",

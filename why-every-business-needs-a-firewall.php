@@ -375,7 +375,7 @@
                         <strong>Threat Overview (CVE-2025-59718):</strong> Attackers exploited an authentication bypass in the FortiCloud SSO feature via crafted SAML messages. This allowed for the creation of rogue admin accounts (e.g., cloud-init@mail.io) and the immediate export of sensitive firewall configurations. Over 11,000 devices remained exposed online during the height of the campaign.
                     </div>
                     
-                    <h4 class="text-lg font-bold text-gray-900 mb-4 italic">HowAl MusaabResponds:</h4>
+                    <h4 class="text-lg font-bold text-gray-900 mb-4 italic">How Al Musaab Responds:</h4>
                     <p class="text-gray-700 mb-6 leading-relaxed">
                         Security is not "set it and forget it." When these exploits occur,Al Musaab's managed security services respond instantly. For our clients, we immediately verify patch levels and, if necessary, disable vulnerable features (like FortiCloud SSO) via CLI to block attacks until stable patches are verified.
                     </p>
@@ -535,7 +535,7 @@
                 <div id="contact" class="bg-gradient-to-r from-orange-500 to-orange-600 rounded-2xl p-8 md:p-12 text-center text-white mb-8">
                     <h2 class="text-3xl font-bold mb-4">Ready to Secure Your Perimeter?</h2>
                     <p class="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-                        Don't leave your business exposed. Get a comprehensive firewall assessment and expert configuration fromAl Musaab.
+                        Don't leave your business exposed. Get a comprehensive firewall assessment and expert configuration from Al Musaab .
                     </p>
                     <div class="flex flex-wrap gap-4 justify-center">
                         <a href="<?= $base ?>/contactus/" class="bg-white text-orange-600 px-8 py-4 rounded-lg font-semibold shadow-lg transition flex items-center gap-2 hover:bg-gray-100">

@@ -15,7 +15,7 @@
   <!-- Open Graph -->
   <meta property="og:title" content="Implementing Wireless Infrastructure for Large Deployments | Al Musaab" />
   <meta property="og:description"
-    content="Precision engineering for complex environments. Learn howAl Musaabbuilds wireless infrastructures that remain stable, secure, and high-performing." />
+    content="Precision engineering for complex environments. Learn how Al Musaab builds wireless infrastructures that remain stable, secure, and high-performing." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://almusaab.com/wireless-infrastructure-large-deployments/" />
   <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />

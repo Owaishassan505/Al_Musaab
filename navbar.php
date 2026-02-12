@@ -1,6 +1,6 @@
 <?php
-// $base = "/Al-Musaab" // for development
-$base = ""  //  for production
+$base = "/Al-Musaab" // for development
+// $base = ""  //  for production
     ?>
 <header class="border-b border-gray-200 bg-white sticky top-0 z-50">
     <style>
@@ -95,7 +95,7 @@ $base = ""  //  for production
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center nav-container" role="navigation"
         aria-label="Main">
         <a href="<?= $base ?>/" class="flex items-center gap-2 flex-shrink-0">
-            <img src="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" alt="Al Musaab Logo" class="h-8 w-auto" />
+            <img src="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" alt="Al Musaab Logo" class="h-12 w-32" />
         </a>
 
         <!-- Desktop Nav: Shows on lg (1024px) and up -->
@@ -245,12 +245,12 @@ $base = ""  //  for production
                     aria-expanded="false" aria-controls="nav-more-menu">More</button>
                 <div id="nav-more-menu" class="dropdown bg-white shadow-lg rounded min-w-[220px] mt-2 p-2" role="menu"
                     aria-label="More">
-                    <a role="menuitem" href="<?= $base ?>/intrusionprevension/"
+                    <!-- <a role="menuitem" href="<?= $base ?>/intrusionprevension/"
                         class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Intrusion Prevention</a>
                     <a role="menuitem" href="<?= $base ?>/remotesupport/"
                         class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Remote Support</a>
                     <a role="menuitem" href="<?= $base ?>/privacy-policy/"
-                        class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Privacy Policy</a>
+                        class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Privacy Policy</a> -->
                     <a role="menuitem" href="<?= $base ?>/careers/"
                         class="block px-4 py-2 text-sm hover:bg-gray-100 focus-ring">Careers</a>
                 </div>
@@ -362,12 +362,12 @@ $base = ""  //  for production
                 <summary class="py-2 px-3 cursor-pointer select-none rounded hover:bg-gray-50 text-sm font-medium">More
                 </summary>
                 <div class="pl-4 space-y-1 mt-2">
-                    <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
+                    <!-- <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
                         href="<?= $base ?>/intrusionprevension/">Intrusion Prevention</a>
                     <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
                         href="<?= $base ?>/remotesupport/">Remote Support</a>
                     <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm"
-                        href="<?= $base ?>/privacy-policy/">Privacy Policy</a>
+                        href="<?= $base ?>/privacy-policy/">Privacy Policy</a> -->
                     <a class="block py-2 px-3 rounded hover:bg-gray-50 text-sm" href="<?= $base ?>/careers/">Careers</a>
                 </div>
             </details>

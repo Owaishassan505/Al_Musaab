@@ -21,7 +21,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="AI & Machine Learning Services in Pakistan | Al Musaab" />
     <meta property="og:description"
-        content="AI, ML, and DL services for Canadian businesses. Predictive analytics, NLP, computer vision, and generative AI solutions that drive growth." />
+        content="AI, ML, and DL services for Pakistani businesses. Predictive analytics, NLP, computer vision, and generative AI solutions that drive growth." />
     <meta property="og:url" content="https://almusaab.com/ai-ml-services-Pakistan/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
@@ -33,8 +33,8 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="AI & Machine Learning Services in Pakistan | Al Musaab" />
     <meta name="twitter:description"
-        content="Full-service AI/ML/DL solutions — predictive analytics, NLP, computer vision, generative AI. Helping Canadian businesses grow smarter." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+        content="Full-service AI/ML/DL solutions — predictive analytics, NLP, computer vision, generative AI. Helping Pakistani businesses grow smarter." />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
 
     <!-- Performance hints -->
     <link rel="preconnect" href="https://cdn.tailwindcss.com" crossorigin>
@@ -80,7 +80,7 @@
     "@id":"https://almusaab.com/#org",
     "name":"Al Musaab",
     "url":"https://almusaab.com/",
-    "logo":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "logo":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "sameAs":["https://www.linkedin.com/company/querytel"]
   }
   </script>
@@ -95,7 +95,7 @@
     "name":"Contact Al Musaab",
     "inLanguage":"en-CA",
     "about":{"@id":"https://almusaab.com/#org"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>"},
     "lastReviewed":"2025-08-18",
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"}
   }
@@ -154,7 +154,7 @@
     "@id":"https://almusaab.com/#hq",
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",

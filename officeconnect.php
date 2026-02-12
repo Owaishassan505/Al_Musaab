@@ -7,16 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Primary SEO -->
-    <title>Office Connect VoIP & SIP Trunking | Hosted PBX for Canadian Businesses | Al Musaab</title>
+    <title>Office Connect VoIP & SIP Trunking | Hosted PBX for Pakistani Businesses | Al Musaab</title>
     <meta name="description"
-        content="Office Connect byAl Musaab: enterprise-grade VoIP, SIP trunking, and hosted PBX with low latency, call analytics, and easy number porting. Built for Canadian businesses." />
+        content="Office Connect by Al Musaab : enterprise-grade VoIP, SIP trunking, and hosted PBX with low latency, call analytics, and easy number porting. Built for Pakistani businesses." />
     <link rel="canonical" href="https://almusaab.com/officeconnect/" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
     <!-- Open Graph (social) -->
     <meta property="og:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | Al Musaab" />
     <meta property="og:description"
-        content="Cloud-based phone system with SIP trunking, advanced routing, and zero-downtime number porting. See how Office Connect modernizes calling for Canadian teams." />
+        content="Cloud-based phone system with SIP trunking, advanced routing, and zero-downtime number porting. See how Office Connect modernizes calling for Pakistani teams." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://almusaab.com/officeconnect/" />
     <meta property="og:image" content="https://almusaab.com/wp-content/uploads/2021/10/hosted-pbx1-469x500-1.jpg" />
@@ -35,7 +35,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Office Connect VoIP & SIP Trunking | Hosted PBX | Al Musaab" />
     <meta name="twitter:description"
-        content="Modern, scalable VoIP and SIP trunking for Canadian businesses. Easy setup, clear pricing, expert support." />
+        content="Modern, scalable VoIP and SIP trunking for Pakistani businesses. Easy setup, clear pricing, expert support." />
     <meta name="twitter:image" content="https://almusaab.com/wp-content/uploads/2021/10/hosted-pbx1-469x500-1.jpg" />
 
     <!-- Performance hints -->
@@ -79,7 +79,7 @@
     "name": "Office Connect – Hosted PBX & SIP Trunking",
     "serviceType": "VoIP, SIP trunking, cloud PBX",
     "url": "https://almusaab.com/officeconnect/",
-    "description": "Cloud-based phone system with SIP trunking, advanced routing, and analytics for Canadian businesses.",
+    "description": "Cloud-based phone system with SIP trunking, advanced routing, and analytics for Pakistani businesses.",
     "areaServed": "CA",
     "provider": {
       "@type": "Organization",
@@ -124,7 +124,7 @@
                 </h1>
                 <p class="mt-6 text-lg text-gray-600">
                     Voice, video, messaging, and more — all unified under one powerful solution.
-                    Designed for modern Canadian businesses that demand reliability and clarity.
+                    Designed for modern Pakistani businesses that demand reliability and clarity.
                 </p>
                 <div class="mt-8 flex gap-4" data-aos="fade" data-aos-delay="500">
                     <a href="#contact"
@@ -199,7 +199,7 @@
                     </h2>
                     <div class="w-16 h-1 bg-white mb-6"></div>
                     <p class="text-lg text-white/90 leading-relaxed max-w-xl">
-                        Office Connect fromAl Musaabhelps you cut costs while empowering your team with unmatched
+                        Office Connect from Al Musaab helps you cut costs while empowering your team with unmatched
                         flexibility. Add or remove extensions instantly and take calls anywhere—your desk, tablet, or
                         smartphone. Everything’s managed, secure, and bundled into one simple monthly fee.
                     </p>
@@ -209,7 +209,7 @@
                 <div
                     class="bg-white/10 p-10 rounded-2xl backdrop-blur-md shadow-xl text-center border border-white/10 animate-fadeInRight">
                     <h3 class="text-base font-semibold uppercase tracking-widest text-white/80 mb-5">
-                        Speak to aAl MusaabSpecialist
+                        Speak to a Al Musaab Specialist
                     </h3>
                     <div class="flex justify-center items-center mb-6">
                         <div class="w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-md">

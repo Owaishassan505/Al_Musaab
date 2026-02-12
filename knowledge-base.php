@@ -8,7 +8,7 @@
   <!-- Primary SEO -->
   <title>Knowledge Base | Al Musaab - Expert Guides & Resources</title>
   <meta name="description"
-    content="Browse Al Musaab's comprehensive knowledge base. Expert guides on warehouse labeling, network infrastructure, cybersecurity, and IT best practices for Canadian businesses." />
+    content="Browse Al Musaab's comprehensive knowledge base. Expert guides on warehouse labeling, network infrastructure, cybersecurity, and IT best practices for Pakistani businesses." />
   <link rel="canonical" href="https://almusaab.com/knowledgebase/" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
 
@@ -448,7 +448,7 @@
                 Implementing Wireless Infrastructure for Large Deployments
               </h3>
               <p class="text-gray-600 mb-3">
-                Precision engineering for complex environments. Learn howAl Musaabbuilds wireless infrastructures that
+                Precision engineering for complex environments. Learn how Al Musaab builds wireless infrastructures that
                 remain stable, secure, and high-performing across warehouses, campuses, and multi-floor facilities.
               </p>
               <div class="flex flex-wrap gap-2">

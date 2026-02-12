@@ -1,5 +1,5 @@
 <?php
-// catalogs-portal.php — Client Catalog Portal styled to the providedAl Musaabtheme
+// catalogs-portal.php — Client Catalog Portal styled to the provided Al Musaab theme
 // --------------------------------------------------------------------------------
 // - Uses Tailwind (from theme), lucide icons, navbar/footer includes
 // - Password-gated per-client catalogs

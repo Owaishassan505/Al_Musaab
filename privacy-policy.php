@@ -7,7 +7,7 @@
     <title>Privacy Policy — Al Musaab</title>
     <meta name="description"
         content="Al Musaab Privacy Policy. Learn how we collect, use, store, and protect your information." />
-    <link rel="icon" href="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <link rel="icon" href="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -195,7 +195,7 @@
                 <p class="text-neutral-700 leading-relaxed mb-6">
                     Where you have provided consent or where permitted by law, we may use your contact information to
                     send you service updates, newsletters, invitations to events, and marketing communications related
-                    toAl Musaab's services. You may opt out of marketing communications at any time.
+                    to Al Musaab's services. You may opt out of marketing communications at any time.
                 </p>
                 <p class="text-neutral-700 leading-relaxed">
                     We may use your information to comply with legal and regulatory obligations, respond to lawful
@@ -230,7 +230,7 @@
                     </div>
                     <div>
                         <h4 class="font-semibold text-neutral-900 mb-2">Business Transfers</h4>
-                        <p class="text-sm text-neutral-700">IfAl Musaabparticipates in a merger, acquisition, or
+                        <p class="text-sm text-neutral-700">If Al Musaab participates in a merger, acquisition, or
                             similar transaction, your information may be transferred accordingly.</p>
                     </div>
                 </div>

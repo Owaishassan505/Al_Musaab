@@ -21,7 +21,7 @@
     <meta property="og:url" content="https://almusaab.com/ai-agents/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_CA" />
-    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="AI Agents for Workflow Automation | Al Musaab" />

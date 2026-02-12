@@ -9,7 +9,7 @@
 
     <title>About Al Musaab — Expert IT Support in Pakistan</title>
     <meta name="description"
-        content="Learn about Al Musaab, providing reliable managed IT, cybersecurity, and cloud solutions in Pakistan since 1995. Trusted by over 50+ IT consultants." />
+        content="Learn about Al Musaab, providing reliable managed IT, cybersecurity, and cloud solutions in Pakistan since 2013. Trusted by over 50+ IT consultants." />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://almusaab.com/aboutus/" />
     <link rel="alternate" hreflang="en-pk" href="https://almusaab.com/aboutus/" />
@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://almusaab.com/aboutus/" />
     <meta property="og:site_name" content="Al Musaab" />
     <meta property="og:locale" content="en_PK" />
-    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta property="og:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
@@ -32,7 +32,7 @@
     <meta name="twitter:title" content="Contact Al Musaab — Sales & Support in Pakistan" />
     <meta name="twitter:description"
         content="Call our Karachi HQ or reach the support portal. Open Mon–Fri, 8am–5pm." />
-    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo.png' ?>" />
+    <meta name="twitter:image" content="<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>" />
 
     <!-- Icons -->
     <link rel="icon" href="<?= $base . '/assets/favicon.svg' ?>" sizes="any" />
@@ -103,9 +103,9 @@
     "@id": "https://almusaab.com/#org",
     "name": "Al Musaab",
     "url": "https://almusaab.com/",
-    "logo": "<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "logo": "<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "description": "Managed IT, cybersecurity, and cloud solutions for businesses in Pakistan.",
-    "foundingDate": "1995",
+    "foundingDate": "2013",
     "sameAs": ["https://www.linkedin.com/company/querytel"],
     "address": {
       "@type": "PostalAddress",
@@ -140,7 +140,7 @@
     "@id":"https://almusaab.com/#hq",
     "name":"Al Musaab — Karachi HQ",
     "url":"https://almusaab.com/",
-    "image":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>",
+    "image":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>",
     "telephone":"+92-213-4321900",
     "address":{
       "@type":"PostalAddress",
@@ -189,7 +189,7 @@
     "inLanguage":"en-PK",
     "about":{"@id":"https://almusaab.com/#org"},
     "breadcrumb":{"@id":"https://almusaab.com/contactus/#breadcrumb"},
-    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo.png' ?>"},
+    "primaryImageOfPage":{"@type":"ImageObject","url":"<?= $base . '/assets/images/Al-Musaab-logo1.png' ?>"},
     "lastReviewed":"2025-08-18"
   }
   </script>
@@ -224,7 +224,7 @@
     <section class="bg-white py-24">
         <div class="max-w-7xl mx-auto px-6 text-center">
             <h1 class="text-4xl md:text-5xl font-bold text-neutral-900">
-                Helping Businesses Since 1995
+                Helping Businesses Since 2013
             </h1>
             <p class="mt-4 text-gray-600 text-lg">
                 Providing reliable IT support, secure cloud, and expert technology solutions to businesses in Pakistan.
@@ -252,13 +252,13 @@
                 </h2>
 
                 <h3 class="text-xl font-medium text-neutral-700 mt-2 mb-4">
-                    Helping Businesses with Reliable Technology Since 1995
+                    Helping Businesses with Reliable Technology Since 2013
                 </h3>
 
                 <p class="text-gray-700 text-base leading-relaxed">
                     At <span class="font-semibold">Al Musaab</span>, we have been providing the best IT services 
                     across Pakistan for over 25 years. 
-                    Since 1995, our goal has been simple: to help businesses use technology without any
+                    Since 2013, our goal has been simple: to help businesses use technology without any
                     <span class="font-semibold">stress, fear, or hidden costs</span>.
                     <br /><br />
                     With <span class="font-semibold">50+ expert IT consultants</span> and real experience in 
