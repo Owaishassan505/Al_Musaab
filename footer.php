@@ -147,7 +147,7 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Bottom bar -->
     <div class="border-t border-neutral-200 text-center text-xs py-6 bg-[#eeeeee]">
-        &copy; 2025 Al Musaab All rights reserved.
+        &copy; <?= date('Y') ?> Al Musaab All rights reserved.
     </div>
 
     <!-- SiteNavigationElement JSON-LD (mirrors navbar items) -->
